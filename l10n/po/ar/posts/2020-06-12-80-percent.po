@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: 2020-07-05 07:44+0000\n"
-"Last-Translator: ButterflyOfFire <butterflyoffire@protonmail.com>\n"
+"PO-Revision-Date: 2022-05-23 17:18+0000\n"
+"Last-Translator: Mostafa Gamal <mostafa.2c6@gmail.com>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-06-12-80-percent/ar/>\n"
 "Language: ar\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 4.12.2\n"
 
 #. type: YAML Front Matter: authors
 #, no-wrap
@@ -40,14 +40,9 @@ msgid "Régionalisation"
 msgstr ""
 
 #. type: YAML Front Matter: categories
-#, fuzzy, no-wrap
-#| msgid ""
-#| "Internationalisation\n"
-#| "---\n"
+#, no-wrap
 msgid "Internationalisation"
-msgstr ""
-"التدويل\n"
-"---\n"
+msgstr "التدويل"
 
 #. type: YAML Front Matter: tags
 #, no-wrap
