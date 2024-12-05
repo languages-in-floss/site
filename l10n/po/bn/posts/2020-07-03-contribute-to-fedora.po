@@ -7,13 +7,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-12-05 12:38+0000\n"
+"Last-Translator: জয়শ্রীরাম সরকার <joysriram.sarkar.56@gmail.com>\n"
+"Language-Team: Bengali <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2020-07-03-contribute-to-fedora/bn/>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.4\n"
 
 #. type: YAML Front Matter: authors
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
@@ -25,19 +28,19 @@ msgstr ""
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "আঞ্চলিকীকরণ"
 
 #. type: YAML Front Matter: tags
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "contribuer"
-msgstr ""
+msgstr "অবদান রাখুন"
 
 #. type: YAML Front Matter: title
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:1
 #, no-wrap
 msgid "Comment contribuer à la traduction de la distribution Linux Fedora ?"
-msgstr ""
+msgstr "লিনাক্স ফেডোরা ডিস্ট্রিবিউশনের অনুবাদে কিভাবে অবদান রাখবেন?"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:15
@@ -50,12 +53,16 @@ msgid ""
 "anglais]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora met à "
 "disposition une plateforme de traduction.\n"
 msgstr ""
+"একটি ডিস্ট্রিবিউশন হল একটি বিশেষ এবং জটিল মুক্ত সফটওয়্যার প্রকল্পের ধরণ, যার লক্ষ্য এবং সীমাবদ্ধতা সরাসরি"
+" অনুবাদকদের কাজের ক্ষমতাকে প্রভাবিত করে। \n"
+"তবে আপনার কাজ সহজ করার জন্য এবং যারা [ইংরেজি বলতে পারেন না]({{< relref \"2020"
+"-06-12-80-percent.md\" >}}) তাদের জন্য ফেডোরা একটি অনুবাদ প্ল্যাটফর্ম তৈরি করেছে।\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:16
 #, markdown-text, no-wrap
 msgid "Qu’est-ce qu’une distribution Linux ?"
-msgstr ""
+msgstr "লিনাক্স ডিস্ট্রিবিউশন কী?"
 
 #. type: Plain text
 #: ./content/fr/posts/2020-07-03-contribute-to-fedora.md:20
