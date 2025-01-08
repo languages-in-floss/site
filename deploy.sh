@@ -1,7 +1,6 @@
 #!/bin/bash
 
 hugo_version="0.140.3"
-po4a_version="0.60"
 
 OLD=$(mktemp -d -t languages_in_floss_XXXX)
 cd $OLD
@@ -19,18 +18,6 @@ wget --quiet "https://github.com/gohugoio/hugo/releases/download/v$hugo_version/
 echo "Extract Hugo $hugo_version"
 tar -xf "$archive_file"
 rm "$archive_file"
-
-echo "Get po4a $po4a_version"
-archive_file="po4a-$po4a_version.tar.gz"
-wget --quiet "https://github.com/mquinson/po4a/releases/download/v$po4a_version/$archive_file"
-
-echo "Extract po4a $po4a_version"
-tar -xf "$archive_file"
-rm "$archive_file"
-
-echo "Set paths for po4a $po4av"
-export PATH="$(pwd)/po4a-$po4av/:$PATH"
-export PERLLIB="$(pwd)/po4a-$po4av/lib"
 
 echo "Clone languages-in-floss/site"
 git clone --quiet --recurse-submodules https://github.com/languages-in-floss/site website
