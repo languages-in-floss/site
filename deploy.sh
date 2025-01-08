@@ -1,6 +1,6 @@
 #!/bin/bash
 
-hugo_version="0.73.0"
+hugo_version="0.120.0"
 po4a_version="0.60"
 
 OLD=$(mktemp -d -t languages_in_floss_XXXX)
