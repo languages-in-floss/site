@@ -108,6 +108,16 @@ languages:
       info:
         description: Accions i aventures
         title404: No podem trobar aquesta pàgina, URL incorrecte?
+  fi:
+    contentDir: content-translated/fi
+    languageName: Suomi (Finnish)
+    title: Kielet ja vapaat ohjelmistot
+    weight: 1
+    params:
+      lang: fi
+      info:
+        description: Jakaminen ja seikkailut
+        title404: Emme löydä tätä sivua, väärä URL-osoite?
   ko:
     contentDir: content-translated/ko
     languageName: 한국어 (Korean)
