@@ -7,19 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-12-05 12:38+0000\n"
+"Last-Translator: জয়শ্রীরাম সরকার <joysriram.sarkar.56@gmail.com>\n"
+"Language-Team: Bengali <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/authorsjibec_index/bn/>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.8.4\n"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:7
 #, markdown-text
 msgid "Mes contributions :"
-msgstr ""
+msgstr "আমার অবদান:"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -29,6 +32,9 @@ msgid ""
 "[Weblate](https://translate.fedoraproject.org/stats/) ([plan de "
 "migration](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 msgstr ""
+"লিনাক্স ফেডোরা ডিস্ট্রিবিউশন থেকে অনুবাদ প্ল্যাটফর্ম [Weblate](https://translate.fedoraproject."
+"org/stats/) এ স্থানান্তর ([স্থানান্তর পরিকল্পনা](https://fedoraproject.org/wiki/"
+"L10N_Move_to_Weblate))"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -38,6 +44,8 @@ msgid ""
 "documentation](https://fedoraproject.org/wiki/User:Jibecfed/fedoradoc-antora-localization) "
 "de la distribution Linux Fedora"
 msgstr ""
+"লিনাক্স ফেডোরা ডিস্ট্রিবিউশনের [ডকুমেন্টেশনের আন্তর্জাতিকীকরণ](https://fedoraproject.org/wiki/User:"
+"Jibecfed/fedoradoc-antora-localization)"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -47,21 +55,25 @@ msgid ""
 "traductions](https://pagure.io/fedora-localization-statistics) de la "
 "distribution Linux fedora"
 msgstr ""
+"লিনাক্স ফেডোরা ডিস্ট্রিবিউশনের [অনুবাদের অগ্রগতির পরিসংখ্যান তৈরি](https://pagure.io/fedora-"
+"localization-statistics)"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
 #, markdown-text
 msgid "Création du site [Languages in FLOSS](https://languages-in-floss.eu)"
 msgstr ""
+"Languages in FLOSS সাইটটি তৈরি করা হয়েছে: [Languages in FLOSS](https://languages-in-"
+"floss.eu)"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:14
 #, markdown-text
 msgid "Autre éléments :"
-msgstr ""
+msgstr "অন্য উপাদানসমূহ:"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:15
 #, markdown-text
 msgid "[Mon blog](https://jibecfed.fedorapeople.org/blog-hugo/)"
-msgstr ""
+msgstr "[আমার ব্লগ](https://jibecfed.fedorapeople.org/blog-hugo/)"

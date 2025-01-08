@@ -7,19 +7,22 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-10-28 20:49+0000\n"
+"Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
+"Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/authorsjibec_index/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:7
 #, markdown-text
 msgid "Mes contributions :"
-msgstr ""
+msgstr "Les meves contribucions:"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -29,6 +32,9 @@ msgid ""
 "[Weblate](https://translate.fedoraproject.org/stats/) ([plan de "
 "migration](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 msgstr ""
+"migració de la distribució Linux Fedora cap a la plataforma de traducció "
+"[Weblate](https://translate.fedoraproject.org/stats/) ([pla de "
+"migració](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -38,6 +44,8 @@ msgid ""
 "documentation](https://fedoraproject.org/wiki/User:Jibecfed/fedoradoc-antora-localization) "
 "de la distribution Linux Fedora"
 msgstr ""
+"[internacionalització de la documentació](https://fedoraproject.org/wiki/"
+"User:Jibecfed/fedoradoc-antora-localization) de la distribució Linux Fedora"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -47,21 +55,23 @@ msgid ""
 "traductions](https://pagure.io/fedora-localization-statistics) de la "
 "distribution Linux fedora"
 msgstr ""
+"Creació [d'estadístiques de progrés de traduccions](https://pagure.io/fedora-"
+"localization-statistics) de la distribució Linux fedora"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
 #, markdown-text
 msgid "Création du site [Languages in FLOSS](https://languages-in-floss.eu)"
-msgstr ""
+msgstr "Creació del lloc [Languages in FLOSS](https://languages-in-floss.eu)"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:14
 #, markdown-text
 msgid "Autre éléments :"
-msgstr ""
+msgstr "Altres elements:"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:15
 #, markdown-text
 msgid "[Mon blog](https://jibecfed.fedorapeople.org/blog-hugo/)"
-msgstr ""
+msgstr "[Mon blog](https://jibecfed.fedorapeople.org/blog-hugo/)"
