@@ -1,16 +1,32 @@
 #!/bin/bash
-# You need po4a > 0.54, see https://github.com/mquinson/po4a/releases
-# There is no need of system-wide installation of po4a
-# Usage: PERLLIB=/path/to/po4a/lib use_po.sh
-# you may set following variables
-# SRCDIR root of the documentation repository
-# PODIR place where to create the po
-# PUB_DIR place where to publish localized files
+po4a_version="0.73"
+
+if [ -d "$(pwd)/po4a-$po4a_version/" ]; then
+    echo "po4a $po4a_version already exists locally"
+else
+    echo "Get po4a $po4a_version"
+    archive_file="po4a-$po4a_version.tar.gz"
+    wget --quiet "https://github.com/mquinson/po4a/releases/download/v$po4a_version/$archive_file"
+
+    echo "Extract po4a $po4a_version"
+    tar -xf "$archive_file"
+    rm "$archive_file"
+fi
+
+echo "Set paths for po4a $po4a_version"
+PATH="$(pwd)/po4a-$po4a_version/:$PATH"
+export PATH
+PERLLIB="$(pwd)/po4a-$po4a_version/lib"
+export PERLLIB
+
+# Display po4a version
+po4a --version
 
 ####################################
 # INITILIZE VARIABLES
 ####################################
 
+# root of the documentation repository
 SRCDIR_MODULE="./content/fr"
 keep="80" # the minimum percentage to translate a file
 
@@ -46,7 +62,7 @@ use_po_module () {
 	do
 		basename=$(basename -s .md "$file")
 		dirname=$(dirname "$file")
-		path="${dirname#$SRCDIR_MODULE/}"
+		path="${dirname#"$SRCDIR_MODULE"/}"
 
 		if [ "$dirname" = "$SRCDIR_MODULE" ]; then
 			potname=$basename
