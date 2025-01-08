@@ -1,6 +1,6 @@
 #!/bin/bash
 
-hugo_version="0.120.0"
+hugo_version="0.140.3"
 po4a_version="0.60"
 
 if [ -f "$(pwd)/hugo" ]
@@ -13,7 +13,7 @@ else
     wget --quiet "https://github.com/gohugoio/hugo/releases/download/v$hugo_version/$archive_file"
 
     echo "Extract Hugo $hugo_version"
-    tar -xf "$archive_file"
+    tar -xf "$archive_file" hugo
     rm "$archive_file"
 fi
 
@@ -35,10 +35,10 @@ export PATH="$(pwd)/po4a-$po4a_version/:$PATH"
 export PERLLIB="$(pwd)/po4a-$po4a_version/lib"
 
 echo "Run get-mentions.py"
-# python3 get-mentions.py
+python3 get-mentions.py
 
 echo "Update translated content"
-# ./make-translated-content.sh
+./make-translated-content.sh
 
 echo "Run hugo"
 ./hugo server

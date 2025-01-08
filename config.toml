@@ -7,7 +7,7 @@ title = "Langues et logiciels libres"
 
 theme = "minimo"
 
-Paginate = 5
+pagination.pagerSize = 5
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
