@@ -128,3 +128,58 @@ lang = "pt_PT"
 contentDir = "content-translated/pt_PT"
 languageName = "Português (Portugal)"
 weight = 1
+
+[languages.pl]
+lang = "pl"
+contentDir = "content-translated/pl"
+languageName = "Polski (Polish)"
+title = "Języki i wolne oprogramowanie"
+weight = 1
+
+[languages.pl.params.info]
+description = "Dzielenie się i przygody"
+title404 = "Nie możemy znaleźć tej strony, zły adres URL?"
+
+[languages.uk]
+lang = "uk"
+contentDir = "content-translated/uk"
+languageName = "Українська (Ukrainian)"
+title = "Вільні мови та логіка"
+weight = 1
+
+[languages.uk.params.info]
+description = "Спільне використання та пригоди"
+title404 = "Ми не можемо знайти цю сторінку, невірна URL-адреса?"
+
+[languages.bn]
+lang = "bn"
+contentDir = "content-translated/bn"
+languageName = "বাংলা (Bengali)"
+title = "ভাষা এবং বিনামূল্যের সফটওয়্যার"
+weight = 1
+
+[languages.bn.params.info]
+description = "শেয়ার এবং অ্যাডভেঞ্চার"
+title404 = "আমরা এই পৃষ্ঠাটি খুঁজে পাচ্ছি না, ভুল URL?"
+
+[languages.ca]
+lang = "ca"
+contentDir = "content-translated/ca"
+languageName = "Català (Catalan)"
+title = "Idiomes i programari lliure"
+weight = 1
+
+[languages.ca.params.info]
+description = "Accions i aventures"
+title404 = "No podem trobar aquesta pàgina, URL incorrecte?"
+
+[languages.ko]
+lang = "ko"
+contentDir = "content-translated/ko"
+languageName = "한국어 (Korean)"
+title = "언어 및 무료 소프트웨어"
+weight = 1
+
+[languages.ko.params.info]
+description = "공유 및 모험"
+title404 = "이 페이지를 찾을 수 없습니다, URL이 잘못되었나요?"
