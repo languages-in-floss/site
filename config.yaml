@@ -1,0 +1,169 @@
+baseURL: https://languages-in-floss.eu
+languageCode: fr
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: true
+title: Langues et logiciels libres
+theme: minimo
+pagination:
+  pagerSize: 5
+preserveTaxonomyNames: true
+enableRobotsTXT: true
+pygmentsCodefences: true
+enableEmoji: false
+params:
+  info:
+    description: Partages et aventures
+    title404: We can't find this page, wrong URL?
+  assets:
+    favicon: favicon.ico
+    gopher: ""
+  copyright:
+    prefix: CC-BY SA 4.0
+    holder: Languages in FLOSS
+    startYear: "2020"
+    suffix: ""
+  settings:
+    dateFormat: 2006-01-02
+    listDateFormat: 2006-01-02
+    archiveDateFormat: 01-02
+    hideEntryNavigation:
+      - page
+    hideEntryMeta:
+      - page
+    showReadingTime: false
+    showLastmod: true
+    taxonomyCloudShuffle: false
+    accentColor: "#ffcd00"
+    hideMainMenu: false
+  sidebar:
+    enable: true
+  widgets:
+    header:
+      - breadcrumbs
+    homepage:
+      - recent_posts
+    sidebar:
+      - about
+      - languages
+      - sidebar_menu
+      - taxonomy_cloud
+      - search
+    footer:
+      - social_menu
+  seo:
+    titleSeparator: •
+  comments:
+    enable: true
+  social:
+    email: contact@languages-in-floss.eu
+    github: languages-in-floss
+    mastodon: https://mastodon.languages-in-floss.eu/@contact
+  search:
+    client: fuse
+taxonomies:
+  author: authors
+  category: categories
+  series: series
+  tag: tags
+permalinks:
+  page: /:title/
+  posts: /:year/:month/:title/
+blackfriday:
+  hrefTargetBlank: true
+languages:
+  fr:
+    contentDir: content/fr
+    languageName: Français
+    weight: 1
+    params:
+      lang: fr
+  ar:
+    lang: ar
+    contentDir: content-translated/ar
+    languageName: العربية
+    title: لغات وبرمجيات حرة
+    weight: 1
+    LanguageDirection: rtl
+    params:
+      lang: ar
+      info:
+        description: مشاركات و مغامرات
+  bn:
+    contentDir: content-translated/bn
+    languageName: বাংলা (Bengali)
+    title: ভাষা এবং বিনামূল্যের সফটওয়্যার
+    weight: 1
+    params:
+      lang: bn
+      info:
+        description: শেয়ার এবং অ্যাডভেঞ্চার
+        title404: আমরা এই পৃষ্ঠাটি খুঁজে পাচ্ছি না, ভুল URL?
+  ca:
+    contentDir: content-translated/ca
+    languageName: Català (Catalan)
+    title: Idiomes i programari lliure
+    weight: 1
+    params:
+      lang: ca
+      info:
+        description: Accions i aventures
+        title404: No podem trobar aquesta pàgina, URL incorrecte?
+  ko:
+    contentDir: content-translated/ko
+    languageName: 한국어 (Korean)
+    title: 언어 및 무료 소프트웨어
+    weight: 1
+    params:
+      lang: ko
+      info:
+        description: 공유 및 모험
+        title404: 이 페이지를 찾을 수 없습니다, URL이 잘못되었나요?
+  oc:
+    contentDir: content-translated/oc
+    languageName: Occitan
+    title: Lengas e logicials liures
+    weight: 1
+    params:
+      lang: oc
+      info:
+        description: partatge e aventuras
+  pl:
+    contentDir: content-translated/pl
+    languageName: Polski (Polish)
+    title: Języki i wolne oprogramowanie
+    weight: 1
+    params:
+      lang: pl
+      info:
+        description: Dzielenie się i przygody
+        title404: Nie możemy znaleźć tej strony, zły adres URL?
+  pt_BR:
+    contentDir: content-translated/pt_BR
+    languageName: Português (Brazil)
+    title: Idiomas e software livre
+    weight: 1
+    params:
+      lang: pt_BR
+      info:
+        description: Desafios e aventuras
+        title404: Não encontramos esta página, URL incorreta?
+  pt_PT:
+    contentDir: content-translated/pt_PT
+    languageName: Português (Portugal)
+    title: Idiomas e software livre
+    weight: 1
+    params:
+      lang: pt_PT
+      info:
+        description: Desafios e aventuras
+        title404: Não encontramos esta página, URL incorreta?
+  uk:
+    contentDir: content-translated/uk
+    languageName: Українська (Ukrainian)
+    title: Вільні мови та логіка
+    weight: 1
+    params:
+      lang: uk
+      info:
+        description: Спільне використання та пригоди
+        title404: Ми не можемо знайти цю сторінку, невірна URL-адреса?
