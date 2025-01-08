@@ -1,14 +1,15 @@
 #!/bin/bash
 
-hugo_version="0.140.3"
+hugo_version="0.140.2"
 
-if [ -f "$(pwd)/hugo" ]
+if [ -f "$(pwd)/hugo" ] && "$(pwd)/hugo" version | grep -q "$hugo_version";
 then
-    echo "hugo already found, should be $hugo_version"
-     ./hugo version
+    echo "hugo already found and is version $hugo_version"
 else
     echo "Get Hugo $hugo_version"
+    rm -f -- "$(pwd)/hugo"
     archive_file="hugo_${hugo_version}_Linux-64bit.tar.gz"
+    echo "https://github.com/gohugoio/hugo/releases/download/v$hugo_version/$archive_file"
     wget --quiet "https://github.com/gohugoio/hugo/releases/download/v$hugo_version/$archive_file"
 
     echo "Extract Hugo $hugo_version"
@@ -20,7 +21,7 @@ echo "Run get-mentions.py"
 python3 get-mentions.py
 
 echo "Update translated content"
-./make-translated-content.sh &> /dev/null
+"$(pwd)"/make-translated-content.sh &> /dev/null
 
 echo "Run hugo"
-./hugo server
+"$(pwd)"/hugo
