@@ -111,12 +111,12 @@ languages:
   es:
     contentDir: content-translated/es
     languageName: Español (Spannish)
-    title: Lenguas y lenguajes libres
+    title: Lenguas y programas libres
     weight: 1
     params:
       lang: es
       info:
-        description: Compartir y aventuras
+        description: Concomitancias y aventuras
         title404: No podemos encontrar esta página, ¿URL incorrecta?
   fi:
     contentDir: content-translated/fi
