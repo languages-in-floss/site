@@ -1,13 +1,12 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Ricky Tigg <ricky.tigg@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: 2021-02-27 09:40+0000\n"
+"PO-Revision-Date: 2025-01-11 15:38+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/about/fi/>\n"
@@ -16,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #. type: YAML Front Matter: title
 #: ./content/fr/page/about.md:1
@@ -39,8 +38,9 @@ msgstr ""
 "Olemme kolme avustajaa, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), "
 "[Quenti]({{< relref \"/authors/quenti\" >}}) ja [ButterFlyOfFire]({{< relref "
 "\"/authors/butterflyoffire\" >}}), jotka asioivat suoraan seuraavilla "
-"kielillä: ranska, oksitaani, kabyle ja arabia. Kannustamme yleensä kaikkia, "
-"jotka haluavat kääntää tai sallia sisällön kääntämisen äidinkielelleen.\n"
+"kielillä: ranska, oksitaani, kabyle ja arabia.\n"
+"Kannustamme yleensä kaikkia, jotka haluavat kääntää tai sallia sisällön "
+"kääntämisen äidinkielelleen.\n"
 
 #. type: Plain text
 #: ./content/fr/page/about.md:11
