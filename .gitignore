@@ -4,3 +4,7 @@ content-translated/
 data/webmentions/
 # this contain the published html files
 public/
+# po4a temporary folder
+po4a-*
+# intellij
+.idea/

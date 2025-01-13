@@ -67,7 +67,7 @@ do
         mkdir -p "$POTDIR/$path"
     fi
 
-    po4a-gettextize \
+    po4a-updatepo \
         --format text \
         --option markdown \
         --option yfm_keys=categories,tags,title \
