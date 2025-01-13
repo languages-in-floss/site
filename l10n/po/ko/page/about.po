@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-15 13:56+0200\n"
+"POT-Creation-Date: 2025-01-14 00:02+0100\n"
 "PO-Revision-Date: 2024-02-07 15:36+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
@@ -18,90 +18,69 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.3.1\n"
 
-#. type: YAML Front Matter: title
-#: ./content/fr/page/about.md:1
+#. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "À propos"
 msgstr "정보"
 
 #. type: Plain text
-#: ./content/fr/page/about.md:9
-#, markdown-text, no-wrap
+#, no-wrap
 msgid ""
-"Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref "
-"\"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et "
-"[ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants "
-"de façon directe aux langues suivantes: le français, l'occitan, l'arabe et "
-"le kabyle.\n"
-"Par rebond, nous encourageons toute personne souhaitant traduire ou "
-"permettre la traduction de contenus dans sa langue.\n"
+"Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants de façon directe aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.\n"
+"Par rebond, nous encourageons toute personne souhaitant traduire ou permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
-"우리는 세 명의 기여자 [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), "
-"[Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]({{< relref "
-"\"/authors/butterflyoffire\" >}})이며, 다음 언어: 프랑스어, 옥시탄, 아랍어와 "
-"카바일 언어를 직접 대변합니다.\n"
-"따라서, 우리는 자신의 언어로 내용(contents)를 번역하거나 번역을 허용하려는 "
-"모든 사람을 응원합니다.\n"
+"우리는 세 명의 기여자 [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}})이며, 다음 언어: 프랑스어, 옥시탄, 아랍어와 카바일 언어를 직접 대변합니다.\n"
+"따라서, 우리는 자신의 언어로 내용(contents)를 번역하거나 번역을 허용하려는 모든 사람을 응원합니다.\n"
 
 #. type: Plain text
-#: ./content/fr/page/about.md:11
-#, markdown-text
 msgid ""
 "De part nos expériences de traducteurs, nous avons éprouvé le monde du "
 "logiciel libre :"
 msgstr "번역가의 경험을 통해 우리는 자유 소프트웨어의 세계를 경험했습니다 :"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/about.md:14
-#, markdown-text
 msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
-msgstr "우리는 수십 개의 번역(장치 또는 지원 부분)을 시험 했으며, 일부를 관리하고, "
-"호스팅 하는 방법을 알고 있습니다,"
+msgstr ""
+"우리는 수십 개의 번역(장치 또는 지원 부분)을 시험 했으며, 일부를 관리하고, 호"
+"스팅 하는 방법을 알고 있습니다,"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/about.md:14
-#, markdown-text
 msgid ""
 "nous connaissons les processus de diffusion des traductions dans un "
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
 "Android...)"
-msgstr "우리는 소프트웨어, 배포판(우분투, 페도라 ...) 또는 생태계(리눅스, "
-"안드로드...)의 번역 배포 처리를 알고 있습니다"
+msgstr ""
+"우리는 소프트웨어, 배포판(우분투, 페도라 ...) 또는 생태계(리눅스, 안드로"
+"드...)의 번역 배포 처리를 알고 있습니다"
 
 #. type: Plain text
-#: ./content/fr/page/about.md:16
-#, markdown-text
 msgid ""
 "Dans ce contexte, l’initiative Languages-in-floss vise à vous partager nos "
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
 msgstr ""
-"이러한 맥락에서, Languages-in-floss 발의는 프랑스어, 아랍어, 카바일과 "
-"옥시탄을 지원하는 현장 경험을 여러분과 공유하는 것을 목표로 합니다."
+"이러한 맥락에서, Languages-in-floss 발의는 프랑스어, 아랍어, 카바일과 옥시탄"
+"을 지원하는 현장 경험을 여러분과 공유하는 것을 목표로 합니다."
 
 #. type: Plain text
-#: ./content/fr/page/about.md:18
-#, markdown-text
 msgid ""
 "Que vous soyez promoteur ou défenseur d’une langue, ou que vous soyez "
 "développeur, vous découvrirez que le multilinguisme est possible dans toute "
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
-"당신이 언어의 옹호자든, 개발자든 상관없이 자유 및 개방형 원천 소프트웨어와 "
-"관련된 모든 활동에서 다국어 사용이 가능하다는 것을 알게 될 것입니다. 우리는 "
-"이 복잡한 세상에서 당신의 삶을 더 쉽게 만들려고 노력할 것입니다."
+"당신이 언어의 옹호자든, 개발자든 상관없이 자유 및 개방형 원천 소프트웨어와 관"
+"련된 모든 활동에서 다국어 사용이 가능하다는 것을 알게 될 것입니다. 우리는 이 "
+"복잡한 세상에서 당신의 삶을 더 쉽게 만들려고 노력할 것입니다."
 
 #. type: Plain text
-#: ./content/fr/page/about.md:19
-#, markdown-text
 msgid ""
 "Pour nous joindre, vous pouvez utiliser le salon **traducteurs** du réseau "
-"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
-"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
+"(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
-"우리와 합류하려면, jabberfr 네트워크의 라운지 **번역기**를 사용 할 수 "
-"있습니다: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
-"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+"우리와 합류하려면, jabberfr 네트워크의 라운지 **번역기**를 사용 할 수 있습니"
+"다: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web](https://"
+"chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"

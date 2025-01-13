@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-15 13:56+0200\n"
+"POT-Creation-Date: 2025-01-14 00:02+0100\n"
 "PO-Revision-Date: 2020-07-15 12:00+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
@@ -18,42 +18,42 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#. type: YAML Front Matter: authors
+#. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "jibec"
 msgstr "jibec"
 
-#. type: YAML Front Matter: authors
+#. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "butterflyoffire"
 msgstr "butterflyoffire"
 
-#. type: YAML Front Matter: authors
+#. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "quenti"
 msgstr "quenti"
 
-#. type: YAML Front Matter: categories
+#. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Régionalisation"
 msgstr "Regionalização"
 
-#. type: YAML Front Matter: categories
+#. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Internationalisation"
 msgstr "Internacionalização"
 
-#. type: YAML Front Matter: tags
+#. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "enjeux"
 msgstr "desafio"
 
-#. type: YAML Front Matter: tags
+#. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "partage"
 msgstr "compartilhamento"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
 msgstr "Quando 80% da humanidade não fala inglês"

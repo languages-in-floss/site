@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-15 13:56+0200\n"
+"POT-Creation-Date: 2025-01-14 00:02+0100\n"
 "PO-Revision-Date: 2025-01-11 15:38+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
@@ -17,34 +17,21 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
-#. type: YAML Front Matter: title
-#: ./content/fr/page/about.md:1
+#. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "À propos"
 msgstr "Tästä"
 
 #. type: Plain text
-#: ./content/fr/page/about.md:9
-#, markdown-text, no-wrap
+#, no-wrap
 msgid ""
-"Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref "
-"\"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et "
-"[ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants "
-"de façon directe aux langues suivantes: le français, l'occitan, l'arabe et "
-"le kabyle.\n"
-"Par rebond, nous encourageons toute personne souhaitant traduire ou "
-"permettre la traduction de contenus dans sa langue.\n"
+"Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants de façon directe aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.\n"
+"Par rebond, nous encourageons toute personne souhaitant traduire ou permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
-"Olemme kolme avustajaa, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), "
-"[Quenti]({{< relref \"/authors/quenti\" >}}) ja [ButterFlyOfFire]({{< relref "
-"\"/authors/butterflyoffire\" >}}), jotka asioivat suoraan seuraavilla "
-"kielillä: ranska, oksitaani, kabyle ja arabia.\n"
-"Kannustamme yleensä kaikkia, jotka haluavat kääntää tai sallia sisällön "
-"kääntämisen äidinkielelleen.\n"
+"Olemme kolme avustajaa, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) ja [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), jotka asioivat suoraan seuraavilla kielillä: ranska, oksitaani, kabyle ja arabia.\n"
+"Kannustamme yleensä kaikkia, jotka haluavat kääntää tai sallia sisällön kääntämisen äidinkielelleen.\n"
 
 #. type: Plain text
-#: ./content/fr/page/about.md:11
-#, markdown-text
 msgid ""
 "De part nos expériences de traducteurs, nous avons éprouvé le monde du "
 "logiciel libre :"
@@ -53,8 +40,6 @@ msgstr ""
 "maailman:"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/about.md:14
-#, markdown-text
 msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
@@ -63,8 +48,6 @@ msgstr ""
 "isännöimään joitain niistä,"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/about.md:14
-#, markdown-text
 msgid ""
 "nous connaissons les processus de diffusion des traductions dans un "
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
@@ -74,8 +57,6 @@ msgstr ""
 "ekosysteemin (Linux, Android)"
 
 #. type: Plain text
-#: ./content/fr/page/about.md:16
-#, markdown-text
 msgid ""
 "Dans ce contexte, l’initiative Languages-in-floss vise à vous partager nos "
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
@@ -86,8 +67,6 @@ msgstr ""
 "oksitaani, kabyle ja arabia."
 
 #. type: Plain text
-#: ./content/fr/page/about.md:18
-#, markdown-text
 msgid ""
 "Que vous soyez promoteur ou défenseur d’une langue, ou que vous soyez "
 "développeur, vous découvrirez que le multilinguisme est possible dans toute "
@@ -100,13 +79,11 @@ msgstr ""
 "maailmassa."
 
 #. type: Plain text
-#: ./content/fr/page/about.md:19
-#, markdown-text
 msgid ""
 "Pour nous joindre, vous pouvez utiliser le salon **traducteurs** du réseau "
-"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
-"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
+"(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
 "Liittyäksesi meihin, voit käyttää jabberfr-verkon **kääntäjien** huonetta: "
-"[xmpp-linkki](xmpp://traducteurs@chat.jabberfr.org), [verkko-"
-"linkki](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+"[xmpp-linkki](xmpp://traducteurs@chat.jabberfr.org), [verkko-linkki](https://"
+"chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-15 13:56+0200\n"
+"POT-Creation-Date: 2025-01-14 00:02+0100\n"
 "PO-Revision-Date: 2022-10-07 04:19+0000\n"
 "Last-Translator: Yang Yulin <yylteam@icloud.com>\n"
 "Language-Team: Chinese (Simplified) <https://translate.fedoraproject.org/"
@@ -18,20 +18,16 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.14.1\n"
 
-#. type: YAML Front Matter: outputs
-#: ./content/fr/search.md:1
+#. type: Yaml Front Matter Array Element: outputs
 #, no-wrap
 msgid "html"
 msgstr "html"
 
-#. type: YAML Front Matter: outputs
-#: ./content/fr/search.md:1
+#. type: Yaml Front Matter Array Element: outputs
 #, no-wrap
 msgid "json"
 msgstr ""
 
 #. type: Plain text
-#: ./content/fr/search.md:10
-#, markdown-text
 msgid "Vos résultats de recherche"
 msgstr ""

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-15 13:56+0200\n"
+"POT-Creation-Date: 2025-01-14 00:02+0100\n"
 "PO-Revision-Date: 2020-08-05 18:29+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://translate.fedoraproject.org/projects/"
@@ -18,22 +18,22 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#. type: YAML Front Matter: authors
+#. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "jibec"
 msgstr "jibec"
 
-#. type: YAML Front Matter: categories
+#. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Régionalisation"
 msgstr "Regionalizacion"
 
-#. type: YAML Front Matter: tags
+#. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "contribuer"
 msgstr "contribuir"
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Comment contribuer à la traduction de la distribution Linux Fedora ?"
 msgstr "Cossí contribuir a la traduccion de la distribucion Linux Fedora ?"

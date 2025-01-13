@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-15 13:56+0200\n"
+"POT-Creation-Date: 2025-01-14 00:02+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,42 +16,42 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. type: YAML Front Matter: authors
+#. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "jibec"
 msgstr ""
 
-#. type: YAML Front Matter: authors
+#. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "butterflyoffire"
 msgstr ""
 
-#. type: YAML Front Matter: authors
+#. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "quenti"
 msgstr ""
 
-#. type: YAML Front Matter: categories
+#. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Régionalisation"
 msgstr ""
 
-#. type: YAML Front Matter: categories
+#. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Internationalisation"
 msgstr ""
 
-#. type: YAML Front Matter: tags
+#. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "enjeux"
 msgstr ""
 
-#. type: YAML Front Matter: tags
+#. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "partage"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
 msgstr ""

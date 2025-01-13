@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-15 13:56+0200\n"
+"POT-Creation-Date: 2025-01-14 00:02+0100\n"
 "PO-Revision-Date: 2025-01-13 01:05+0000\n"
 "Last-Translator: Salvatore Cocuzza <info@salvatorecocuzza.it>\n"
 "Language-Team: Italian <https://translate.fedoraproject.org/projects/"
@@ -17,21 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
-#. type: YAML Front Matter: title
-#: ./content/fr/page/contribute.md:1
+#. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Contribuer"
 msgstr "Collaboratore"
 
 #. type: Plain text
-#: ./content/fr/page/contribute.md:8
-#, markdown-text
 msgid "Pour contribuer, vous pouvez :"
 msgstr "Per il contributore potete:"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/contribute.md:12
-#, markdown-text
 msgid ""
 "partager les articles et nous renvoyer une webmentions (utiliser le bouton "
 "en bas de page vous permet de le faire facilement)"
@@ -40,32 +35,26 @@ msgstr ""
 "sotto la pagina per consentirti di farlo facilmente)"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/contribute.md:12
-#, markdown-text
 msgid ""
-"traduire les articles dans votre langue sur : "
-"https://hosted.weblate.org/languages-in-floss/"
+"traduire les articles dans votre langue sur : https://hosted.weblate.org/"
+"languages-in-floss/"
 msgstr ""
 "tradurre gli articoli nella vostra lingua su: https://hosted.weblate.org/"
 "linguals-in-floss/"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/contribute.md:12
-#, markdown-text
 msgid ""
-"soumettre un article (en français) sur Github : "
-"https://github.com/languages-in-floss/site"
+"soumettre un article (en français) sur Github : https://github.com/languages-"
+"in-floss/site"
 msgstr ""
-"invia un articolo (in francese) su Github: https://github.com/"
-"linguals-in-floss/site"
+"invia un articolo (in francese) su Github: https://github.com/linguals-in-"
+"floss/site"
 
 #. type: Plain text
-#: ./content/fr/page/contribute.md:13
-#, markdown-text
 msgid ""
 "Pour nous joindre, vous pouvez utiliser le salon **traducteurs** du réseau "
-"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
-"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
+"(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
 "Per contattarci potete utilizzare la **stanza dei traduttori** della rete "
 "jabberfr: [link xmpp](xmpp://traducers@chat.jabberfr.org), [link web]"

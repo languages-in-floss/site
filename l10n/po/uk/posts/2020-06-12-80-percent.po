@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-15 13:56+0200\n"
+"POT-Creation-Date: 2025-01-14 00:02+0100\n"
 "PO-Revision-Date: 2020-08-27 06:29+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
@@ -15,61 +15,51 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.2.1\n"
 
-#. type: YAML Front Matter: authors
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "jibec"
 msgstr "jibec"
 
-#. type: YAML Front Matter: authors
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "butterflyoffire"
 msgstr "butterflyoffire"
 
-#. type: YAML Front Matter: authors
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "quenti"
 msgstr "quenti"
 
-#. type: YAML Front Matter: categories
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Régionalisation"
 msgstr "Регіоналізація"
 
-#. type: YAML Front Matter: categories
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Internationalisation"
 msgstr "Інтернаціоналізація"
 
-#. type: YAML Front Matter: tags
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "enjeux"
 msgstr "охоплення"
 
-#. type: YAML Front Matter: tags
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "partage"
 msgstr "доступність"
 
-#. type: YAML Front Matter: title
-#: ./content/fr/posts/2020-06-12-80-percent.md:1
+#. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
 msgstr "Близько 80% людства не розуміє англійської мови"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:19
-#, markdown-text
 msgid ""
 "Alors que l’écosystème du logiciel libre est très anglophone, prendre en "
 "charge plusieurs langues dans un logiciel permet de multiplier par 5 ou par "
@@ -84,14 +74,11 @@ msgstr ""
 "автоматизації, уможливлює переклад необмеженою кількістю мов."
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:20
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Un écosystème très anglophone"
 msgstr "Надто англомовна система"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:25
-#, markdown-text
 msgid ""
 "Le monde du logiciel libre et open-source est très divers, allant des "
 "couches d’interactions avec le matériel jusqu’aux logiciels que nous "
@@ -108,8 +95,6 @@ msgstr ""
 "просто захочуть досягти своєї мети якнайшвидше."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:28
-#, markdown-text
 msgid ""
 "Dans le monde du logiciel libre, l’anglais est la langue de travail par "
 "défaut, et l’écrit y est le canal le plus utilisé.  Ce fonctionnement est un "
@@ -125,8 +110,6 @@ msgstr ""
 "до однієї або декількох вільних програм."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:31
-#, markdown-text
 msgid ""
 "Par confort, les personnes créant des logiciels utilisent souvent l’anglais "
 "plutôt que leur langue maternelle.  En conséquence, ils comprennent rarement "
@@ -141,8 +124,6 @@ msgstr ""
 "жаргон тощо)."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:33
-#, markdown-text
 msgid ""
 "Pire encore, ces personnes peuvent être mise mal à l’aise par le manque de "
 "contrôle sur ce qui est effectivement affiché à l’utilisateur."
@@ -151,14 +132,11 @@ msgstr ""
 "що насправді показано користувачеві."
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:34
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Une population mondiale peu anglophone"
 msgstr "Англомовною є лише невелика частина світу"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:38
-#, markdown-text
 msgid ""
 "Il y a de grandes chances pour que les utilisateurs et utilisatrices aient "
 "une langue maternelle qui ne soit pas l’anglais.  Et inciter les "
@@ -172,8 +150,6 @@ msgstr ""
 "відповідають за певний інструмент."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:41
-#, markdown-text
 msgid ""
 "Quelle que soit leur langue, les utilisateurs et utilisatrices préfèreront "
 "utiliser leur propre langue pour atteindre leur but, car cela augmente leur "
@@ -188,16 +164,15 @@ msgstr ""
 "володієте англійською мовою."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:45
-#, markdown-text
 msgid ""
 "Dans le détail, il existe des estimations de population par langue et "
 "territoire fournies par le consortium Unicode, et plus particulièrement le "
-"CLDR.  [Ces estimations indiquent que 21 "
-"%](https://github.com/unicode-org/cldr/commits/master/tools/java/org/unicode/cldr/util/data/country_language_population_raw.txt) "
-"des habitant·e·s de la planète parleraient anglais.  Mais ici, parler "
-"englobe des situations très diverses, si on considère les personnes ayant un "
-"niveau natif ou courant, nous descendons à 9 %."
+"CLDR.  [Ces estimations indiquent que 21 %](https://github.com/unicode-org/"
+"cldr/commits/master/tools/java/org/unicode/cldr/util/data/"
+"country_language_population_raw.txt) des habitant·e·s de la planète "
+"parleraient anglais.  Mais ici, parler englobe des situations très diverses, "
+"si on considère les personnes ayant un niveau natif ou courant, nous "
+"descendons à 9 %."
 msgstr ""
 "Якщо точніше, маємо оцінки чисельності населення за мовою та територією, які "
 "виконано консорціумом Unicode, а точніше CLDR. [Оцінки показують, що "
@@ -208,8 +183,6 @@ msgstr ""
 "тих, для кого мова є рідною, ця частка впаде до 9 %."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:48
-#, markdown-text
 msgid ""
 "L’enjeu en cherchant à augmenter le nombre d’utilisateurs est d’augmenter le "
 "nombre potentiel de contributeurs et contributrices, qui viendront faire "
@@ -227,8 +200,6 @@ msgstr ""
 "використовувати іншу мову як шлюз для здійснення перекладу."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:51
-#, markdown-text
 msgid ""
 "Pour pouvoir démultiplier les utilisateurs et utilisatrices potentiels, il "
 "faut ajouter le support linguistique.  C’est ce qu’on appelle "
@@ -238,20 +209,15 @@ msgstr ""
 "підтримка перекладів. Це називається інтернаціоналізацією."
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:52
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "La complexité de l’internationalisation"
 msgstr "Складнощі інтернаціоналізації"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:55
-#, markdown-text
 msgid "Prendre en charge de multiples langues nécessite :"
 msgstr "Для підтримки багатомовності потрібні:"
 
 #. type: Bullet: '* '
-#: ./content/fr/posts/2020-06-12-80-percent.md:60
-#, markdown-text
 msgid ""
 "d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
 "les contenus à traduire, les traduire et les diffuser)"
@@ -261,8 +227,6 @@ msgstr ""
 "перекладів та поширювати переклади)"
 
 #. type: Bullet: '* '
-#: ./content/fr/posts/2020-06-12-80-percent.md:60
-#, markdown-text
 msgid ""
 "de changer ses processus de conception logicielle pour intégrer le travail "
 "de traduction (quand le code est terminé, il faut informer les personnes "
@@ -273,8 +237,6 @@ msgstr ""
 "ви повинні повідомити людей, які роблять переклади, та інтегрувати їх роботу)"
 
 #. type: Bullet: '* '
-#: ./content/fr/posts/2020-06-12-80-percent.md:60
-#, markdown-text
 msgid ""
 "de répondre aux besoins liés à l’activité de traduction.  Cela nécessite de "
 "s’intéresser aux codifications, aux formats de traduction, aux pluriels, à "
@@ -285,8 +247,6 @@ msgstr ""
 "інструментами тощо."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:62
-#, markdown-text
 msgid ""
 "Et au-delà de l’interface utilisateur, il faut également inclure les "
 "interface en ligne de commande, les sites web de présentation, des lettres "
@@ -298,8 +258,6 @@ msgstr ""
 "документації, сторінки користувача, нотаток щодо випуску..."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:65
-#, markdown-text
 msgid ""
 "Internationaliser coûte du temps et nécessite des compétences techniques "
 "avancées.  Malheureusement, certains outils utilisés par les logiciels "
@@ -313,8 +271,6 @@ msgstr ""
 "ці інструменти."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:70
-#, markdown-text
 msgid ""
 "La bonne nouvelle est que ce travail n’est à mener qu’une seule fois pour un "
 "nombre théoriquement illimité de langues.  C’est une bonne nouvelle, car il "
@@ -333,14 +289,11 @@ msgstr ""
 "великою небезпекою з точки зору збереження мови."
 
 #. type: Title ##
-#: ./content/fr/posts/2020-06-12-80-percent.md:71
-#, markdown-text, no-wrap
+#, no-wrap
 msgid "Le rôle de Languages-in-floss"
 msgstr "Роль Languages-in-floss"
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:74
-#, markdown-text
 msgid ""
 "Dans ce contexte, l’initiative Languages-in-floss vise à vous partager nos "
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
@@ -351,8 +304,6 @@ msgstr ""
 "підтримки французької, арабської, кабильської та окситанської мов."
 
 #. type: Plain text
-#: ./content/fr/posts/2020-06-12-80-percent.md:75
-#, markdown-text
 msgid ""
 "Que vous soyez promoteur ou défenseur d’une langue, ou que vous soyez "
 "développeur, vous découvrirez que le multilinguisme est possible dans toute "

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2020-07-15 13:56+0200\n"
+"POT-Creation-Date: 2025-01-14 00:02+0100\n"
 "PO-Revision-Date: 2025-01-13 01:05+0000\n"
 "Last-Translator: Salvatore Cocuzza <info@salvatorecocuzza.it>\n"
 "Language-Team: Italian <https://translate.fedoraproject.org/projects/"
@@ -17,34 +17,21 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.9.2\n"
 
-#. type: YAML Front Matter: title
-#: ./content/fr/page/about.md:1
+#. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "À propos"
 msgstr "Di"
 
 #. type: Plain text
-#: ./content/fr/page/about.md:9
-#, markdown-text, no-wrap
+#, no-wrap
 msgid ""
-"Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref "
-"\"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et "
-"[ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants "
-"de façon directe aux langues suivantes: le français, l'occitan, l'arabe et "
-"le kabyle.\n"
-"Par rebond, nous encourageons toute personne souhaitant traduire ou "
-"permettre la traduction de contenus dans sa langue.\n"
+"Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants de façon directe aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.\n"
+"Par rebond, nous encourageons toute personne souhaitant traduire ou permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
-"Siamo tre collaboratori, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), "
-"[Quenti]({{< relref \"/authors/quenti\" >}}) e [ButterFlyOfFire]({ {< relref "
-"\"/authors/butterflyoffire\" >}}), parlando direttamente nelle seguenti "
-"lingue: francese, occitano, arabo e cabilo.\n"
-"Con rimbalzo, incoraggiamo chiunque desideri tradurre o consentire la "
-"traduzione dei contenuti nella propria lingua.\n"
+"Siamo tre collaboratori, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) e [ButterFlyOfFire]({ {< relref \"/authors/butterflyoffire\" >}}), parlando direttamente nelle seguenti lingue: francese, occitano, arabo e cabilo.\n"
+"Con rimbalzo, incoraggiamo chiunque desideri tradurre o consentire la traduzione dei contenuti nella propria lingua.\n"
 
 #. type: Plain text
-#: ./content/fr/page/about.md:11
-#, markdown-text
 msgid ""
 "De part nos expériences de traducteurs, nous avons éprouvé le monde du "
 "logiciel libre :"
@@ -53,8 +40,6 @@ msgstr ""
 "mondo del software libero:"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/about.md:14
-#, markdown-text
 msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
@@ -63,8 +48,6 @@ msgstr ""
 "amministrarne e ospitarne alcune,"
 
 #. type: Bullet: '* '
-#: ./content/fr/page/about.md:14
-#, markdown-text
 msgid ""
 "nous connaissons les processus de diffusion des traductions dans un "
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
@@ -74,8 +57,6 @@ msgstr ""
 "distribuzione (Ubuntu, Fedora...) o un ecosistema (Linux, Android...)"
 
 #. type: Plain text
-#: ./content/fr/page/about.md:16
-#, markdown-text
 msgid ""
 "Dans ce contexte, l’initiative Languages-in-floss vise à vous partager nos "
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
@@ -86,8 +67,6 @@ msgstr ""
 "cabilo e all'occitano."
 
 #. type: Plain text
-#: ./content/fr/page/about.md:18
-#, markdown-text
 msgid ""
 "Que vous soyez promoteur ou défenseur d’une langue, ou que vous soyez "
 "développeur, vous découvrirez que le multilinguisme est possible dans toute "
@@ -100,10 +79,8 @@ msgstr ""
 "vita più semplice in questo mondo complesso."
 
 #. type: Plain text
-#: ./content/fr/page/about.md:19
-#, markdown-text
 msgid ""
 "Pour nous joindre, vous pouvez utiliser le salon **traducteurs** du réseau "
-"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien "
-"web](https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
+"jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
+"(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
