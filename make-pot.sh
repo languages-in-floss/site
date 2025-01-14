@@ -75,6 +75,13 @@ do
         --master-charset "UTF-8" \
         --po "$POTDIR/$potname"
 
+    # replace .pot by .po
+    poname="./l10n/po/en/${potname::-1}"
+    if [ ! -f "$poname" ] ; then
+      echo "missing translation file in English: $poname"
+      cp "$POTDIR/$potname" "$poname"
+    fi
+
 done <   <(find -L "$SRCDIR_MODULE" -name "*.md" -print0)
 
 echo "Done"
