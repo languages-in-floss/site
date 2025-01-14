@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-01-14 21:39+0100\n"
+"POT-Creation-Date: 2025-01-14 21:52+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,8 +37,8 @@ msgstr ""
 #. type: Bullet: '* '
 #: content/fr/page/contribute.md:12
 msgid ""
-"traduire les articles dans votre langue sur : https://hosted.weblate.org/"
-"languages-in-floss/"
+"traduire les articles dans votre langue sur : https://translate."
+"fedoraproject.org/projects/languages-in-floss/"
 msgstr ""
 
 #. type: Bullet: '* '
