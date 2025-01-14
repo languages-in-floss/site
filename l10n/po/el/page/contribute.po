@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-01-14 21:39+0100\n"
+"POT-Creation-Date: 2025-01-14 21:52+0100\n"
 "PO-Revision-Date: 2022-11-05 10:19+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Greek <https://translate.fedoraproject.org/projects/languages-"
@@ -35,8 +35,8 @@ msgstr ""
 
 #. type: Bullet: '* '
 msgid ""
-"traduire les articles dans votre langue sur : https://hosted.weblate.org/"
-"languages-in-floss/"
+"traduire les articles dans votre langue sur : https://translate."
+"fedoraproject.org/projects/languages-in-floss/"
 msgstr ""
 
 #. type: Bullet: '* '

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-01-14 21:39+0100\n"
+"POT-Creation-Date: 2025-01-14 21:52+0100\n"
 "PO-Revision-Date: 2020-07-05 07:44+0000\n"
 "Last-Translator: ButterflyOfFire <butterflyoffire@protonmail.com>\n"
 "Language-Team: Arabic <https://translate.fedoraproject.org/projects/"
@@ -37,9 +37,13 @@ msgstr ""
 "باستخدام الزر الموجود أسفل الصفحة)"
 
 #. type: Bullet: '* '
+#, fuzzy
+#| msgid ""
+#| "traduire les articles dans votre langue sur : https://hosted.weblate.org/"
+#| "languages-in-floss/"
 msgid ""
-"traduire les articles dans votre langue sur : https://hosted.weblate.org/"
-"languages-in-floss/"
+"traduire les articles dans votre langue sur : https://translate."
+"fedoraproject.org/projects/languages-in-floss/"
 msgstr ""
 "ترجمة المقالات إلى لغتكم على: https://hosted.weblate.org/languages-in-floss/"
 
