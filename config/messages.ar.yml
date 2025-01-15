@@ -1,1 +1,6 @@
-{}
+languageName: العربية (Arabic)
+title: لغات وبرمجيات حرة
+params:
+  info:
+    description: مشاركات و مغامرات
+    title404: لا يمكن العثور على هذه الصفحة، هل عنوان URL صحيح؟
