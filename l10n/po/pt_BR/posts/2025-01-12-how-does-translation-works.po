@@ -2,17 +2,22 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
+# Rafael Fontenelle <rafaelff@gnome.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-15 07:53+0000\n"
+"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
+"projects/languages-in-floss/posts2025-01-12-how-does-translation-works/pt_BR/"
+">\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -30,7 +35,7 @@ msgstr ""
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Où sont les traductions ?"
-msgstr ""
+msgstr "Onde estão as traduções?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:12
@@ -42,12 +47,17 @@ msgid ""
 "\"2020-07-03-contribute-to-fedora.md\" >}}), regardons où sont les "
 "traductions d'un logiciel.\n"
 msgstr ""
+"Depois de explicar que uma grande parte do planeta [não fala inglês]({{< "
+"relref \"2020-06-12-80-percent.md\" >}}), então "
+"[explicando como contribuir para a distribuição do Fedora]({{< relref "
+"\"2020-07-03-contribute-to-fedora.md\" >}}), vamos ver onde estão as "
+"traduções de um software.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
 #, markdown-text, no-wrap
 msgid "Les traductions font partie intégrante du code"
-msgstr ""
+msgstr "As traduções são parte integrante do código"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:20
@@ -64,12 +74,22 @@ msgid ""
 "Chaque fichier possède ses avantages et inconvénients, cela entre le domaine "
 "de l'internationalisation des logiciels, souvent abrégé `i18n`."
 msgstr ""
+"Traduções são arquivos que são parte integrante do código-fonte necessário "
+"para executar o programa. O formato do arquivo contendo as traduções varia "
+"dependendo das ferramentas utilizadas pela equipe de desenvolvimento. Para "
+"ter uma ideia dos principais formatos de arquivo, a "
+"[lista de formatos suportados pela plataforma de tradução Weblate](https://"
+"docs.weblate.org/pt-br/latest/formats.html) é interessante. Em termos "
+"gerais, o formato Gettext é o mais usado para software compilado/desktop, e "
+"os formatos Json para software web. Cada arquivo tem suas vantagens e "
+"desvantagens, isso se enquadra no âmbito da internacionalização de software, "
+"frequentemente abreviado como `i18n`."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
 #, markdown-text, no-wrap
 msgid "La conséquence sur le travail de traduction"
-msgstr ""
+msgstr "O impacto no trabalho de tradução"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:25
@@ -82,6 +102,12 @@ msgid ""
 "savoir si le changement impacte le sens ou la structure de la phrase, les "
 "changements coûtent cher pour les traducteurs."
 msgstr ""
+"Como as traduções fazem parte do código-fonte, os tradutores devem entregar "
+"seu trabalho no prazo para que todas as alterações feitas na versão atual "
+"sejam traduzidas. Mesmo a menor alteração, mesmo de uma letra ou caractere, "
+"exige que cada tradução seja verificada para ver se a alteração afeta o "
+"significado ou a estrutura da frase; as alterações são caras para os "
+"tradutores."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:28
@@ -94,6 +120,12 @@ msgid ""
 "du projet parvienne aux utilisateurs avec une chaîne affichée en anglais au "
 "milieu d'un logiciel déjà partiellement traduit."
 msgstr ""
+"Na maioria das vezes, e isso é normal, os desenvolvedores não sabem como "
+"adaptar as traduções ao fazer alterações. Portanto, é necessário que os "
+"tradutores acompanhem de perto o desenvolvimento do projeto para serem "
+"responsivos e evitar que a nova versão do projeto chegue aos usuários com "
+"uma sequência exibida em inglês no meio de um software que já foi "
+"parcialmente traduzido."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:32
