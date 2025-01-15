@@ -1,1 +1,6 @@
-{}
+languageName: Suomi (Finnish)
+title: Kielet ja vapaat ohjelmistot
+params:
+  info:
+    description: Jakaminen ja seikkailut
+    title404: Emme löydä tätä sivua, väärä URL-osoite?

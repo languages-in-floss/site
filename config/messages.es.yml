@@ -1,1 +1,6 @@
-{}
+title: Lenguas y programas libres
+languageName: Español (Spanish)
+params:
+  info:
+    description: Concomitancias y aventuras
+    title404: No podemos encontrar esta página, ¿URL incorrecta?

@@ -1,1 +1,6 @@
-{}
+title: Języki i wolne oprogramowanie
+languageName: Polski (Polish)
+params:
+  info:
+    description: Dzielenie się i przygody
+    title404: Nie możemy znaleźć tej strony, zły adres URL?

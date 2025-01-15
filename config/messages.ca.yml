@@ -1,1 +1,6 @@
-{}
+params:
+  info:
+    title404: No podem trobar aquesta pàgina, URL incorrecte?
+    description: Accions i aventures
+languageName: Català (Catalan)
+title: Idiomes i programari lliure
