@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-01-15 18:41+0000\n"
+"PO-Revision-Date: 2025-01-15 21:49+0000\n"
 "Last-Translator: Igor Gorbounov <igor.gorbounov@gmail.com>\n"
 "Language-Team: Russian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/about/ru/>\n"
@@ -38,6 +38,8 @@ msgid ""
 "De part nos expériences de traducteurs, nous avons éprouvé le monde du "
 "logiciel libre :"
 msgstr ""
+"Благодаря нашему опыту работы переводчиками, мы приобщились к миру "
+"свободного программного обеспечения:"
 
 #. type: Bullet: '* '
 #: content/fr/page/about.md:14
@@ -45,6 +47,8 @@ msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
 msgstr ""
+"мы протестировали десятки платформ перевода и знаем, как администрировать и "
+"разворачивать некоторые из них,"
 
 #. type: Bullet: '* '
 #: content/fr/page/about.md:14
