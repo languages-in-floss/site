@@ -57,7 +57,7 @@ params:
   social:
     email: contact@languages-in-floss.eu
     github: languages-in-floss
-    mastodon: https://mastodon.languages-in-floss.eu/@contact
+    mastodon: https://mamot.fr/@jibec
   search:
     client: fuse
 taxonomies:
