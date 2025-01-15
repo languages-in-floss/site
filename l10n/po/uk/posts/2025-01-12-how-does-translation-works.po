@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-01-15 07:53+0000\n"
+"PO-Revision-Date: 2025-01-15 17:46+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-01-12-how-does-translation-works/uk/>\n"
@@ -134,12 +134,16 @@ msgid ""
 "traductrices dans chaque langue pour suivre tous ces projets ? Certainement "
 "pas."
 msgstr ""
+"Ось де починаються складнощі: існують принаймні тисячі проєктів "
+"безкоштовного програмного забезпечення, якщо не сотні тисяч. Є тисячі мов, "
+"чи можемо ми мати достатньо перекладачів на кожну мову, щоб стежити за всіма "
+"цими проєктами? Звичайно ні."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:33
 #, markdown-text, no-wrap
 msgid "Processus d'intégration des traductions"
-msgstr ""
+msgstr "Процедура інтеграції перекладу"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:36
@@ -149,12 +153,14 @@ msgid ""
 "organisée l'interaction entre les processus de développement logiciel et de "
 "traduction."
 msgstr ""
+"Давайте тепер розглянемо приклади проєктів, щоб побачити, як організована "
+"взаємодія між процесами розробки програмного забезпечення та перекладу."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:37
 #, markdown-text, no-wrap
 msgid "Traduisible... mais archaïque !"
-msgstr ""
+msgstr "Придатний до перекладу... але архаїчний!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:40
@@ -165,6 +171,9 @@ msgid ""
 "[lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) contient un "
 "fichier json par langue."
 msgstr ""
+"Jitsi Meet — це програмне забезпечення для онлайн-відеоконференцій, "
+"упочатковому коді якого тека [lang](https://github.com/jitsi/jitsi-meet/tree/"
+"master/lang) містить один файл json для кожної мови."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:42
@@ -173,6 +182,8 @@ msgid ""
 "Chaque traduction doit faire l'œuvre d'une demande d'intégration, c'est "
 "compliqué et chronophage."
 msgstr ""
+"Кожний переклад має бути предметом запиту на об'єднання з початковим кодом, "
+"що є складним і трудомістким процесом."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:45
@@ -186,6 +197,12 @@ msgid ""
 "il y a eu [8 versions "
 "publiées](https://github.com/jitsi/jitsi-meet/releases) !"
 msgstr ""
+"За кілька хвилин я знайшов екстремальний випадок — "
+"[цей запит, який чекав більше 8 місяців](https://github.com/jitsi/jitsi-meet/"
+"pull/14754). Однак тим часом файл, що містить рядки для перекладу "
+"програмного забезпечення [вже змінено 19 разів](https://github.com/jitsi/"
+"jitsi-meet/commits/master/lang/main.json) і вже [випущено 8 версій](https://"
+"github.com/jitsi/jitsi-meet/releases) без перекладу!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:47
@@ -196,6 +213,9 @@ msgid ""
 "d'information sur comment traduire, ni dans le [guide de "
 "contribution](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 msgstr ""
+"Ні у [readme](https://github.com/jitsi/jitsi-meet/blob/master/README.md), ні "
+"у [настановах щодо участі]( https://jitsi .github.io/handbook/docs/dev-guide/"
+"dev-guide-contributing/) немає відомостей про те, як перекладати."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:50
@@ -208,6 +228,11 @@ msgid ""
 "suivre les changements, il faut probablement s'abonner aux changements du "
 "projet github."
 msgstr ""
+"Мовні спільноти з великою кількістю людей можуть витратити необхідний час "
+"завдяки кількості учасників (і все одно...), усі інші залишаться осторонь, а "
+"програмне забезпечення пропонуватиме лише найновіші переклади мови, які вже "
+"і без того достатньо представлені. Щоб бути в курсі змін, можливо, вам "
+"потрібно буде підписатися на зміни проєкту github."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:53
@@ -219,12 +244,17 @@ msgid ""
 "discussion avec les équipes de Jitsi Meet, cela n'a pas toujours été comme "
 "ça, une plateforme de traduction a déjà été utilisée par le passé."
 msgstr ""
+"Ефективність такого способу роботи є сумнівною. Хоча можемо вітати зусилля, "
+"спрямовані на переклад програмного забезпечення, про відсутність уваги до "
+"такого типу внеску варто пошкодувати . Я не брав участі в обговоренні з "
+"командами Jitsi Meet, так було не завжди, платформа перекладу вже "
+"використовувалася в минулому."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:54
 #, markdown-text, no-wrap
 msgid "Clair... mais très spécifique GNOME"
-msgstr ""
+msgstr "Зрозуміло... але дуже специфічно для GNOME"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:61
@@ -240,12 +270,20 @@ msgid ""
 "processus est donc imparfait, manuel, mais l'outillage permet de réduire "
 "fortement le coût de gestion pour les contributeurs et contributrices."
 msgstr ""
+"Проєкт GNOME використовує подібну версію, але орієнтовану на потреби команд "
+"перекладачів. Щоб надіслати переклад у кінцеве програмне забезпечення, обов’"
+"язково використовується git. Однак є [доступний інструмент]"
+"(https://l10n.gnome.org) для перекладачів, який дозволяє їм точно знати, що "
+"потрібно перекласти, і співпрацювати. Крім того, довгий список програмного "
+"забезпечення в екосистемі GNOME дотримується однакового темпу нових випусків "
+"і однакових робочих процесів. Таким чином, процес недосконалий і ручний, але "
+"інструменти дозволяють значно зменшити витрати на керування для учасників."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:62
 #, markdown-text, no-wrap
 msgid "Efficace... mais très spécifique Mozilla"
-msgstr ""
+msgstr "Ефективно... але дуже специфічно для Mozilla"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:65
@@ -258,6 +296,11 @@ msgid ""
 "organisé en [équipes de "
 "traduction](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/teams_projects.html))."
 msgstr ""
+"Проєкт Mozilla вважає переклад ключовою темою своєї діяльності. Якщо ви "
+"хочете зробити свій внесок, ви можете перейти на "
+"[платформу перекладу Pontoon](https://pontoon.mozilla.org/projects/firefox/) "
+"(проєкт організований у [команди перекладів](https://mozilla-l10n.github.io/"
+"localizer-documentation/tools/pontoon/teams_projects.html))."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:67
@@ -266,6 +309,8 @@ msgid ""
 "Savoir ce qui est traduisible est facile, et y trouver des contacts pour "
 "répondre aux questions l'est également."
 msgstr ""
+"Дізнатися, що можна перекладати, легко, і також легко знайти контакти, щоб "
+"відповісти на запитання."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:71
@@ -278,12 +323,17 @@ msgid ""
 "en place une équipe et des processus de relecture, tout l'outillage est "
 "spécifique aux projets de Mozilla, mais globalement, c'est plutôt efficace."
 msgstr ""
+"Цей проєкт величезний, вам буде важко зрозуміти кроки між платформою "
+"перекладу та програмним забезпеченням, але чи це серйозно? Працює добре, "
+"дати випуску ПЗ відомі, пріоритети визначені. Ви втратите деякий час на "
+"створення команди перевірки та процесів, усі інструменти є специфічними для "
+"проектів Mozilla, але загалом це досить ефективно."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:72
 #, markdown-text, no-wrap
 msgid "Automatisé et générique, la modernité émancipatrice"
-msgstr ""
+msgstr "Автоматизована і загальна, сучасна свобода"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:75
@@ -293,6 +343,8 @@ msgid ""
 "permettant de s'abonner en cas de changements, de travailler à plusieurs, "
 "d'avoir des détections d'anomalies."
 msgstr ""
+"Можна надати інструмент, призначений для перекладу, що дозволить вам "
+"підписатися на зміни, працювати у групах, виявляти помилки."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:77
@@ -301,6 +353,8 @@ msgid ""
 "Et, bonus ultime, d'avoir une synchronisation automatique avec le code "
 "source du logiciel."
 msgstr ""
+"І, як головний бонус, мати автоматичну синхронізацію з вихідним кодом "
+"програмного забезпечення."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:79
@@ -313,6 +367,11 @@ msgid ""
 "traductions](https://hosted.weblate.org/changes/browse/weblate/?action=13&action=30&user=&period=) "
 "sont faciles à trouver."
 msgstr ""
+"Чудовий приклад: платформа перекладу Weblate є прикладом для наслідування, "
+"все підключено та автоматизовано. Є багато [змін перекладу](https://"
+"github.com/WeblateOrg/weblate/commits/main/?author=weblate) і "
+"[змін, що впливають на переклад](https://hosted.weblate.org/ changes/ browse/"
+"weblate/?action=13&action=30&user=&period=), які легко знайти."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:81
@@ -323,6 +382,10 @@ msgid ""
 "traduction, Weblate est devenu aussi évident et efficient que git pour la "
 "gestion du code source pour le développement logiciel."
 msgstr ""
+"Багато проєктів використовують Weblate, це вибір, який ви повинні зробити, "
+"незалежно від вашого контексту. В екосистемі платформ перекладу Weblate став "
+"таким же очевидним і ефективним, як git для керування початковим кодом для "
+"розробки програмного забезпечення."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:83
@@ -333,12 +396,15 @@ msgid ""
 "avec cette large communauté, vous aurez de bonnes chances d'obtenir un outil "
 "traduit en de nombreuses langues."
 msgstr ""
+"Якщо ваш проєкт надає таку платформу, ви надаєте можливості для мовного "
+"внеску, і, розвиваючи стосунки з цією великою спільнотою, ви матимете хороші "
+"шанси отримати інструмент, перекладений багатьма мовами."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:84
 #, markdown-text, no-wrap
 msgid "Conclusion"
-msgstr ""
+msgstr "Висновки"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:87
@@ -347,6 +413,8 @@ msgid ""
 "L'articulation entre la vie technique du projet et les traductions est "
 "cruciale pour l'efficacité des processus de traduction."
 msgstr ""
+"Взаємозв’язок між технічним життям проєкту та перекладами має вирішальне "
+"значення для ефективності процесів перекладу."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:89
@@ -355,6 +423,8 @@ msgid ""
 "Des outils remplis de fonctionnalités intéressantes et d'automatisation "
 "existent pour faciliter la vie de tout le monde."
 msgstr ""
+"Є інструменти, наповнені цікавими функціями та засобами автоматизації, які "
+"спрощують життя кожного."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:91
@@ -364,6 +434,8 @@ msgid ""
 "logiciels contiennent toujours plus de traductions et qu'un nombre croissant "
 "de langues soient prises en charge."
 msgstr ""
+"Команди розробників мають скористатися цим, щоб програмне забезпечення "
+"завжди містило більше перекладів і підтримувало все більше мов."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:93
@@ -373,3 +445,5 @@ msgid ""
 "Comment faire pour compenser un projet endormi ? Cela sera l'objet d'un "
 "futur article."
 msgstr ""
+"Але що відбувається, коли проєкт не випускає нових версій? Як відродити "
+"сплячий проєкт? Це буде темою майбутнього допису."
