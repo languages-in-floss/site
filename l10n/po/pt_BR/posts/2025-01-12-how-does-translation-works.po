@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-01-15 07:53+0000\n"
+"PO-Revision-Date: 2025-01-15 17:46+0000\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
 "projects/languages-in-floss/posts2025-01-12-how-does-translation-works/pt_BR/"
@@ -137,12 +137,16 @@ msgid ""
 "traductrices dans chaque langue pour suivre tous ces projets ? Certainement "
 "pas."
 msgstr ""
+"É aqui que a coisa fica complicada: existem pelo menos milhares de projetos "
+"de software livre, se não centenas de milhares. Existem milhares de idiomas. "
+"Será que podemos ter tradutores suficientes em cada idioma para acompanhar "
+"todos esses projetos? Certamente que não."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:33
 #, markdown-text, no-wrap
 msgid "Processus d'intégration des traductions"
-msgstr ""
+msgstr "Processo de integração de tradução"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:36
@@ -152,12 +156,14 @@ msgid ""
 "organisée l'interaction entre les processus de développement logiciel et de "
 "traduction."
 msgstr ""
+"Vamos agora pegar alguns projetos de exemplo para ver como a interação entre "
+"os processos de desenvolvimento de software e tradução é organizada."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:37
 #, markdown-text, no-wrap
 msgid "Traduisible... mais archaïque !"
-msgstr ""
+msgstr "Traduzível... mas arcaico!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:40
@@ -168,6 +174,9 @@ msgid ""
 "[lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) contient un "
 "fichier json par langue."
 msgstr ""
+"Jitsi Meet é um software de videoconferência online. Em seu código-fonte, "
+"uma pasta [lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) "
+"contém um arquivo json por idioma."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:42
@@ -176,6 +185,8 @@ msgid ""
 "Chaque traduction doit faire l'œuvre d'une demande d'intégration, c'est "
 "compliqué et chronophage."
 msgstr ""
+"Cada tradução deve estar sujeita a uma solicitação de integração, o que é "
+"complicado e demorado."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:45
@@ -189,6 +200,12 @@ msgid ""
 "il y a eu [8 versions "
 "publiées](https://github.com/jitsi/jitsi-meet/releases) !"
 msgstr ""
+"Em poucos minutos, encontro um caso extremo, "
+"[essa solicitação que está esperando há mais de 8 meses](https://github.com/"
+"jitsi/jitsi-meet/pull/14754).  Entretanto, nesse meio tempo, o arquivo "
+"contendo as strings a serem traduzidas do software [já foi alterado 19 vezes]"
+"(https://github.com/jitsi/jitsi-meet/commits/master/lang/main.json) e há "
+"[8 versões lançadas](https://github.com/jitsi/jitsi-meet/releases) !"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:47
@@ -199,6 +216,9 @@ msgid ""
 "d'information sur comment traduire, ni dans le [guide de "
 "contribution](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 msgstr ""
+"Não há informações no [readme](https://github.com/jitsi/jitsi-meet/blob/"
+"master/README.md) sobre como traduzir, nem no [guia de contribuição](https://"
+"jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:50
@@ -211,6 +231,12 @@ msgid ""
 "suivre les changements, il faut probablement s'abonner aux changements du "
 "projet github."
 msgstr ""
+"Comunidades linguísticas com muitas pessoas podem conseguir gastar o tempo "
+"necessário graças ao número de colaboradores (e mesmo assim...), todos os "
+"outros serão deixados de lado e o software oferecerá apenas traduções "
+"atualizadas de línguas que já estão super-representadas.  Para acompanhar as "
+"mudanças, você provavelmente precisará assinar para ser notificado de "
+"alterações do projeto no GitHub."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:53
