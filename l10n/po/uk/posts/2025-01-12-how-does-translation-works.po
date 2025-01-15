@@ -2,35 +2,40 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
+# Yuri Chornoivan <yurchor@ukr.net>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-15 07:53+0000\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2025-01-12-how-does-translation-works/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: categories
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Регіоналізація"
 
 #. type: Yaml Front Matter Hash Value: title
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Où sont les traductions ?"
-msgstr ""
+msgstr "Де переклади?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:12
@@ -42,12 +47,17 @@ msgid ""
 "\"2020-07-03-contribute-to-fedora.md\" >}}), regardons où sont les "
 "traductions d'un logiciel.\n"
 msgstr ""
+"Після пояснення, що значна частина планети [не розмовляє англійською]({{< "
+"relref \"2020-06-12-80-percent.md\" >}}), потім "
+"[пояснення того, як зробити внесок у дистрибутив Fedora]( {{< relref "
+"\"2020-07-03-contribute-to-fedora.md\" >}}), давайте подивимося, де "
+"знаходяться переклади програмного забезпечення.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
 #, markdown-text, no-wrap
 msgid "Les traductions font partie intégrante du code"
-msgstr ""
+msgstr "Переклади є невід’ємною частиною коду"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:20
@@ -64,12 +74,21 @@ msgid ""
 "Chaque fichier possède ses avantages et inconvénients, cela entre le domaine "
 "de l'internationalisation des logiciels, souvent abrégé `i18n`."
 msgstr ""
+"Переклади — це файли, які є невід'ємною частиною початкового коду, "
+"необхідного для запуску програми. Формат файла, що містить переклади, "
+"залежить від інструментів, які використовує команда розробників. Щоб "
+"отримати уявлення про основні формати файлів, ознайомтеся зі [списком "
+"форматів, підтримку яких передбачено на платформі перекладу Weblate](https://"
+"docs.weblate.org/en/latest/formats.html). Загалом, найчастіше використовують "
+"формат Gettext для зібраного програмного забезпечення, а формати Json — для "
+"інтернет-програм. Кожен файл має свої переваги та недоліки, це стосується "
+"сфери інтернаціоналізації програмного забезпечення, часто скорочено `i18n`."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
 #, markdown-text, no-wrap
 msgid "La conséquence sur le travail de traduction"
-msgstr ""
+msgstr "Вплив на перекладацьку роботу"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:25
@@ -82,6 +101,11 @@ msgid ""
 "savoir si le changement impacte le sens ou la structure de la phrase, les "
 "changements coûtent cher pour les traducteurs."
 msgstr ""
+"Оскільки переклади є частиною вихідного коду, перекладачі повинні виконувати "
+"свою роботу вчасно, щоб кожна зміна, внесена до поточної версії, була "
+"перекладена. Навіть найменша зміна, навіть літери або символу, вимагає "
+"перевірки кожного перекладу, щоб побачити, чи зміна впливає на зміст або "
+"структуру речення."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:28
@@ -94,6 +118,11 @@ msgid ""
 "du projet parvienne aux utilisateurs avec une chaîne affichée en anglais au "
 "milieu d'un logiciel déjà partiellement traduit."
 msgstr ""
+"Найчастіше, і це нормально, розробники не знають, як адаптувати переклади "
+"під час внесення змін. Тому необхідно, щоб перекладачі уважно стежили за "
+"розробкою проєкту, щоб швидко реагувати та уникнути того, що нова версія "
+"проєкту потрапила до користувачів із рядком, що відображається англійською "
+"мовою в середині програмного забезпечення, яке вже було частково перекладено."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:32
