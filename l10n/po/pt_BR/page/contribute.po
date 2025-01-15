@@ -1,13 +1,12 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Rafael Fontenelle <rafaelff@gnome.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:52+0100\n"
-"PO-Revision-Date: 2020-07-15 12:00+0000\n"
+"PO-Revision-Date: 2025-01-15 07:53+0000\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
 "projects/languages-in-floss/pagecontribute/pt_BR/>\n"
@@ -16,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
@@ -36,16 +35,12 @@ msgstr ""
 "inferior da página permite fazer isso facilmente)"
 
 #. type: Bullet: '* '
-#, fuzzy
-#| msgid ""
-#| "traduire les articles dans votre langue sur : https://hosted.weblate.org/"
-#| "languages-in-floss/"
 msgid ""
 "traduire les articles dans votre langue sur : https://translate."
 "fedoraproject.org/projects/languages-in-floss/"
 msgstr ""
-"traduzir artigos para o seu idioma em: https://hosted.weblate.org/languages-"
-"in-floss/"
+"traduzir artigos para o seu idioma em: https://translate.fedoraproject.org/"
+"projects/languages-in-floss/"
 
 #. type: Bullet: '* '
 msgid ""
