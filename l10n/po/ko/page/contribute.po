@@ -1,14 +1,13 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 김인수 <simmon@nplob.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:52+0100\n"
-"PO-Revision-Date: 2021-07-24 11:04+0000\n"
-"Last-Translator: simmon <simmon@nplob.com>\n"
+"PO-Revision-Date: 2025-01-16 09:21+0000\n"
+"Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/pagecontribute/ko/>\n"
 "Language: ko\n"
@@ -16,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.7.2\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
@@ -36,15 +35,12 @@ msgstr ""
 "를 사용하면 이 작업을 쉽게 수행 할 수 있습니다)"
 
 #. type: Bullet: '* '
-#, fuzzy
-#| msgid ""
-#| "traduire les articles dans votre langue sur : https://hosted.weblate.org/"
-#| "languages-in-floss/"
 msgid ""
 "traduire les articles dans votre langue sur : https://translate."
 "fedoraproject.org/projects/languages-in-floss/"
 msgstr ""
-"기사를 당신의 언어로 번역 : https://hosted.weblate.org/languages-in-floss/"
+"기사를 당신의 언어로 번역 : https://translate.fedoraproject.org/projects/"
+"languages-in-floss/"
 
 #. type: Bullet: '* '
 msgid ""
