@@ -2,17 +2,22 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
+# Igor Gorbounov <igor.gorbounov@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-22 19:17+0000\n"
+"Last-Translator: Igor Gorbounov <igor.gorbounov@gmail.com>\n"
+"Language-Team: Russian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2025-01-12-how-does-translation-works/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -24,13 +29,13 @@ msgstr ""
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Регионализация"
 
 #. type: Yaml Front Matter Hash Value: title
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Où sont les traductions ?"
-msgstr ""
+msgstr "Где переводы?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:12
@@ -42,12 +47,17 @@ msgid ""
 "\"2020-07-03-contribute-to-fedora.md\" >}}), regardons où sont les "
 "traductions d'un logiciel.\n"
 msgstr ""
+"После объяснения того, что большая часть планеты [не говорит по-английски]({{"
+"< relref \"2020-06-12-80-percent.md\" >}}), затем "
+"[объяснения того, как внести свой вклад в распространение Fedora] ( {{< "
+"relref \"2020-07-03-contribute-to-fedora.md\" >}}), давайте посмотрим, где "
+"находятся переводы программного обеспечения.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
 #, markdown-text, no-wrap
 msgid "Les traductions font partie intégrante du code"
-msgstr ""
+msgstr "Переводы являются неотъемлемой частью кода"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:20
@@ -64,12 +74,22 @@ msgid ""
 "Chaque fichier possède ses avantages et inconvénients, cela entre le domaine "
 "de l'internationalisation des logiciels, souvent abrégé `i18n`."
 msgstr ""
+"Переводы — это файлы, являющиеся неотъемлемой частью исходного кода, "
+"необходимые для запуска программы. Формат файла, содержащего переводы, "
+"различается в зависимости от инструментов, используемых командой "
+"разработчиков. Чтобы получить представление об основных форматах файлов, "
+"интересен [список форматов, поддерживаемых платформой перевода Weblate]"
+"(https://docs.weblate.org/en/latest/formats.html). Вообще говоря, формат "
+"Gettext чаще всего используется для скомпилированного/настольного "
+"программного обеспечения, а форматы Json — для веб-программного обеспечения. "
+"Каждый файл имеет свои преимущества и недостатки, это относится к области "
+"интернационализации программного обеспечения, часто сокращенно `i18n`."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
 #, markdown-text, no-wrap
 msgid "La conséquence sur le travail de traduction"
-msgstr ""
+msgstr "Влияние на переводческую работу"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:25
@@ -82,6 +102,12 @@ msgid ""
 "savoir si le changement impacte le sens ou la structure de la phrase, les "
 "changements coûtent cher pour les traducteurs."
 msgstr ""
+"Поскольку переводы являются частью исходного кода, переводчики должны "
+"сдавать свою работу вовремя, чтобы каждое изменение, внесенное в текущую "
+"версию, было переведено. Даже самое незначительное изменение, даже буквы или "
+"символа, требует проверки каждого перевода на предмет того, влияет ли "
+"изменение на смысл или структуру предложения; изменения обходятся "
+"переводчикам дорого."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:28
@@ -94,6 +120,12 @@ msgid ""
 "du projet parvienne aux utilisateurs avec une chaîne affichée en anglais au "
 "milieu d'un logiciel déjà partiellement traduit."
 msgstr ""
+"Чаще всего, и это нормально, разработчики не умеют адаптировать переводы при "
+"внесении изменений. Поэтому необходимо, чтобы переводчики внимательно "
+"следили за развитием проекта, чтобы оперативно реагировать и не допустить "
+"того, чтобы новая версия проекта дошла до пользователей со строкой на "
+"английском языке, отображаемой в середине программного обеспечения, которое "
+"уже частично переведено."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:32
@@ -105,12 +137,16 @@ msgid ""
 "traductrices dans chaque langue pour suivre tous ces projets ? Certainement "
 "pas."
 msgstr ""
+"Вот тут все становится сложнее: существуют, по крайней мере, тысячи проектов "
+"свободного программного обеспечения, если не сотни тысяч. Существуют тысячи "
+"языков. Сможем ли мы нанять достаточно переводчиков на каждый язык, чтобы "
+"следить за всеми этими проектами? Конечно, нет."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:33
 #, markdown-text, no-wrap
 msgid "Processus d'intégration des traductions"
-msgstr ""
+msgstr "Процесс интеграции перевода"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:36
@@ -120,12 +156,15 @@ msgid ""
 "organisée l'interaction entre les processus de développement logiciel et de "
 "traduction."
 msgstr ""
+"Давайте теперь рассмотрим несколько примеров проектов, чтобы увидеть, как "
+"организовано взаимодействие между процессами разработки программного "
+"обеспечения и перевода."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:37
 #, markdown-text, no-wrap
 msgid "Traduisible... mais archaïque !"
-msgstr ""
+msgstr "Переводимо... но архаично!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:40
@@ -136,6 +175,10 @@ msgid ""
 "[lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) contient un "
 "fichier json par langue."
 msgstr ""
+"Jitsi Meet — это программное обеспечение для проведения онлайн-"
+"видеоконференций, в исходном коде которого папка [lang](https://github.com/"
+"jitsi/jitsi-meet/tree/master/lang) содержит по одному файлу JSON для каждого "
+"языка."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:42
@@ -144,6 +187,8 @@ msgid ""
 "Chaque traduction doit faire l'œuvre d'une demande d'intégration, c'est "
 "compliqué et chronophage."
 msgstr ""
+"Каждый перевод должен быть предметом запроса на интеграцию, что является "
+"сложным и трудоемким процессом."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:45
@@ -157,6 +202,12 @@ msgid ""
 "il y a eu [8 versions "
 "publiées](https://github.com/jitsi/jitsi-meet/releases) !"
 msgstr ""
+"Через несколько минут я нахожу экстремальный случай – "
+"[этот запрос ждал более 8 месяцев](https://github.com/jitsi/jitsi-meet/pull/"
+"14754). Однако, тем временем, файл, содержащий строки, которые необходимо "
+"перевести из программного обеспечения, [уже изменился 19 раз](https://"
+"github.com/jitsi/jitsi-meet/commits/master/lang/main.json), и "
+"[вышло 8 версий](https://github.com/jitsi/jitsi-meet/releases) !"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:47
@@ -167,6 +218,9 @@ msgid ""
 "d'information sur comment traduire, ni dans le [guide de "
 "contribution](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 msgstr ""
+"Ни в [readme](https://github.com/jitsi/jitsi-meet/blob/master/README.md), ни "
+"в [руководстве для участников]( https://jitsi .github.io/handbook/docs/"
+"dev-guide/dev-guide-contributing/) нет информации о том, как переводить."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:50
@@ -179,6 +233,12 @@ msgid ""
 "suivre les changements, il faut probablement s'abonner aux changements du "
 "projet github."
 msgstr ""
+"Языковые сообщества с большим количеством людей могут потратить необходимое "
+"время благодаря количеству участников (и даже тогда...), все остальные будут "
+"оставлены в стороне, и программное обеспечение будет предлагать только "
+"актуальные переводы на языки, которые и так уже достаточно представлены. "
+"Чтобы быть в курсе изменений, придется, вероятно, подписаться на обновления "
+"проекта на github."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:53
