@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-01-15 21:49+0000\n"
+"PO-Revision-Date: 2025-01-22 16:02+0000\n"
 "Last-Translator: Igor Gorbounov <igor.gorbounov@gmail.com>\n"
 "Language-Team: Russian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/about/ru/>\n"
@@ -31,6 +31,13 @@ msgid ""
 "Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants de façon directe aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.\n"
 "Par rebond, nous encourageons toute personne souhaitant traduire ou permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
+"Мы втроем: [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< "
+"relref \"/authors/quenti\" >}}) и [ButterFlyOfFire]({ {< relref "
+"\"/authors/butterflyoffire\" >}}), - непосредственно занимаемся следующими "
+"языками: французским, окситанским, арабским и кабильским.\n"
+"\n"
+"В свою очередь, мы рады всем, кто желает перевести или позволить перевод "
+"контента на свой язык.\n"
 
 #. type: Plain text
 #: content/fr/page/about.md:11
@@ -57,6 +64,8 @@ msgid ""
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
 "Android...)"
 msgstr ""
+"мы знаем процессы распространения переводов в программном обеспечении, "
+"дистрибутиве (Ubuntu, Fedora...) или экосистеме (Linux, Android...)"
 
 #. type: Plain text
 #: content/fr/page/about.md:16
@@ -65,6 +74,9 @@ msgid ""
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
 msgstr ""
+"В этом контексте инициатива Languages-in-floss направлена на то, чтобы "
+"поделиться с вами нашим практическим опытом поддержки французского, "
+"арабского, кабильского и окситанского языков."
 
 #. type: Plain text
 #: content/fr/page/about.md:18
@@ -74,6 +86,10 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"Независимо от того, являетесь ли вы пропагандистом, защитником языка или "
+"разработчиком, вы обнаружите, что многоязычие возможно в любой деятельности, "
+"связанной со свободным программным обеспечением с открытым исходным кодом. "
+"Мы постараемся облегчить вам жизнь в этом сложном мире."
 
 #. type: Plain text
 #: content/fr/page/about.md:19
@@ -82,3 +98,7 @@ msgid ""
 "jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
 "(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
+"Чтобы присоединиться к нам, вы можете воспользоваться комнатой "
+"**переводчиков** сети jabberfr: [xmpp-ссылка]"
+"(xmpp://traducteurs@chat.jabberfr.org), [веб-ссылка](https://chat.jabberfr. "
+"орг /converse.js/translators@chat.jabberfr.org)"

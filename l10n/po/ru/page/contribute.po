@@ -2,28 +2,33 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
+# Igor Gorbounov <igor.gorbounov@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-22 16:02+0000\n"
+"Last-Translator: Igor Gorbounov <igor.gorbounov@gmail.com>\n"
+"Language-Team: Russian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/pagecontribute/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.9.2\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/fr/page/contribute.md:1
 #, no-wrap
 msgid "Contribuer"
-msgstr ""
+msgstr "Принять участие"
 
 #. type: Plain text
 #: content/fr/page/contribute.md:8
 msgid "Pour contribuer, vous pouvez :"
-msgstr ""
+msgstr "Чтобы принять участие, вы можете:"
 
 #. type: Bullet: '* '
 #: content/fr/page/contribute.md:12
@@ -31,6 +36,8 @@ msgid ""
 "partager les articles et nous renvoyer une webmentions (utiliser le bouton "
 "en bas de page vous permet de le faire facilement)"
 msgstr ""
+"поделитесь статьями и отправьте нам веб-упоминание (это легко сделать с "
+"помощью кнопки в нижней части страницы)"
 
 #. type: Bullet: '* '
 #: content/fr/page/contribute.md:12
@@ -38,6 +45,8 @@ msgid ""
 "traduire les articles dans votre langue sur : https://translate."
 "fedoraproject.org/projects/languages-in-floss/"
 msgstr ""
+"переводите статьи на свой язык по ссылке: https://"
+"translate.fedoraproject.org/projects/languages-in-floss/"
 
 #. type: Bullet: '* '
 #: content/fr/page/contribute.md:12
@@ -45,6 +54,8 @@ msgid ""
 "soumettre un article (en français) sur Github : https://github.com/languages-"
 "in-floss/site"
 msgstr ""
+"отправляйте статью (на французском) на Github: https://github.com/"
+"languages-in-floss/site"
 
 #. type: Plain text
 #: content/fr/page/contribute.md:13
