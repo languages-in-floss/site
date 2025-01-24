@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-01-24 17:27+0000\n"
+"PO-Revision-Date: 2025-01-25 13:07+0000\n"
 "Last-Translator: Igor Gorbounov <igor.gorbounov@gmail.com>\n"
 "Language-Team: Russian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-06-12-80-percent/ru/>\n"
@@ -76,12 +76,17 @@ msgid ""
 "complexité et un coût élevé mais unique, qui une fois fait, sous réserve "
 "d’automatisation, autorise un nombre illimité de langues."
 msgstr ""
+"Хотя экосистема свободного программного обеспечения преимущественно "
+"англоязычная, поддержка нескольких языков в программном обеспечении "
+"позволяет увеличить количество потенциальных пользователей в 5 или 10 раз. "
+"Это сложная и трудоемкая задача, но выполненная один раз она, при условии "
+"автоматизации, позволяет использовать неограниченное количество языков."
 
 #. type: Title ##
 #: content/fr/posts/2020-06-12-80-percent.md:20
 #, no-wrap
 msgid "Un écosystème très anglophone"
-msgstr ""
+msgstr "Очень англоязычная экосистема"
 
 #. type: Plain text
 #: content/fr/posts/2020-06-12-80-percent.md:25
