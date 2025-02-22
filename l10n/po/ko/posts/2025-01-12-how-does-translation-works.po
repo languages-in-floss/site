@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-01-16 12:42+0000\n"
+"PO-Revision-Date: 2025-02-22 00:42+0000\n"
 "Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-01-12-how-does-translation-works/ko/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.10\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -47,12 +47,17 @@ msgid ""
 "\"2020-07-03-contribute-to-fedora.md\" >}}), regardons où sont les "
 "traductions d'un logiciel.\n"
 msgstr ""
+"지구의 많은 부분이 [영어를 사용하지 않는다는 사실]({{< relref "
+"\"2020-06-12-80-percent.md\" >}})을 설명 한 후, "
+"[페도라 배포판에 기여하는 방법을 설명]({{< relref "
+"\"2020-07-03-contribute-to-fedora.md\" >}})한 다음에, 소프트웨어의 번역이 "
+"어디에 있는지 살펴보겠습니다.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
 #, markdown-text, no-wrap
 msgid "Les traductions font partie intégrante du code"
-msgstr ""
+msgstr "번역은 코드의 필수적인 부분입니다"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:20
@@ -69,12 +74,20 @@ msgid ""
 "Chaque fichier possède ses avantages et inconvénients, cela entre le domaine "
 "de l'internationalisation des logiciels, souvent abrégé `i18n`."
 msgstr ""
+"번역은 프로그램을 실행하는 데 필요한 원천 코드의 필수적인 부분인 "
+"파일입니다.  번역 내용이 담긴 파일의 형식은 개발팀에서 사용하는 도구에 따라 "
+"달라집니다.  주요 파일 형식에 대한 사상을 구하려면 "
+"[Weblate 번역 기술환경에서 지원하는 형식 목록](https://docs.weblate.org/en/"
+"latest/formats.html)을 살펴보는 것이 좋습니다.  일반적으로 Gettext 형식은 "
+"컴파일된/데스크톱 소프트웨어에 가장 많이 사용되고, Json 형식은 웹 "
+"소프트웨어에 가장 많이 사용됩니다.  각 파일에는 장단점이 있으며, 이는 "
+"소프트웨어 국제화의 영역에 속하며, 종종 `i18n`으로 줄여서 부릅니다."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
 #, markdown-text, no-wrap
 msgid "La conséquence sur le travail de traduction"
-msgstr ""
+msgstr "번역 작업에 미치는 영향"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:25
@@ -87,6 +100,11 @@ msgid ""
 "savoir si le changement impacte le sens ou la structure de la phrase, les "
 "changements coûtent cher pour les traducteurs."
 msgstr ""
+"번역은 원천 코드의 일부이므로, 번역자는 현재 버전에 대한 모든 변경이 "
+"번역되도록 정해진 시간 내에 작업물을 완성해야 합니다.  글자나 문자 하나라도 "
+"아주 작게 변경되면, 그 변경 사항이 문장의 의미나 구조에 영향을 미치는지 "
+"확인하기 위해 각 번역을 확인해야 합니다. 변경은 번역가에게 큰 수고를 들게 "
+"합니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:28
@@ -99,6 +117,11 @@ msgid ""
 "du projet parvienne aux utilisateurs avec une chaîne affichée en anglais au "
 "milieu d'un logiciel déjà partiellement traduit."
 msgstr ""
+"대부분의 경우, 이 부분이 정상적이겠지만, 개발자는 변경 사항을 적용 할 때 "
+"번역을 어떻게 조정해야 할지 모릅니다.  따라서 프로젝트 개발을 면밀히 "
+"추적하여 신속하게 대응하고, 이미 부분적으로 번역된 소프트웨어 중간에 영어로 "
+"표시된 문자열로 신규 프로젝트 버전이 사용자에게 전달되는 것을 피하기 위해 "
+"번역자가 프로젝트 개발을 면밀히 추적하는 것이 필요합니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:32
@@ -110,12 +133,16 @@ msgid ""
 "traductrices dans chaque langue pour suivre tous ces projets ? Certainement "
 "pas."
 msgstr ""
+"여기서 복잡한 문제가 발생하는 데, 자유 소프트웨어 프로젝트는 수십만 개가 "
+"아니더라도, 적어도 수천 개는 있습니다.  언어가 수천 개나 되는데, 이 모든 "
+"프로젝트를 따라갈 만큼 개별 언어의 번역가를 충분히 확보 할 수 있을까요? 절대 "
+"아닙니다."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:33
 #, markdown-text, no-wrap
 msgid "Processus d'intégration des traductions"
-msgstr ""
+msgstr "번역 통합 처리"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:36
@@ -124,13 +151,14 @@ msgid ""
 "Prenons maintenant quelques exemples de projet pour voir comment est "
 "organisée l'interaction entre les processus de développement logiciel et de "
 "traduction."
-msgstr ""
+msgstr "이제 여러 예시 프로젝트를 통해 소프트웨어 개발과 번역 처리 간의 상호작용이 "
+"어떻게 구성되는지 알아보겠습니다."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:37
 #, markdown-text, no-wrap
 msgid "Traduisible... mais archaïque !"
-msgstr ""
+msgstr "번역이 가능하지만... 고대언어입니다!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:40
@@ -141,6 +169,9 @@ msgid ""
 "[lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) contient un "
 "fichier json par langue."
 msgstr ""
+"Jitsi Meet은 온라인 화상 회의 소프트웨어이며, 원천 코드 [lang](https://"
+"github.com/jitsi/jitsi-meet/tree/master/lang) 폴더에 언어 별로 하나의 json "
+"파일이 포함되어 있습니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:42
@@ -148,7 +179,7 @@ msgstr ""
 msgid ""
 "Chaque traduction doit faire l'œuvre d'une demande d'intégration, c'est "
 "compliqué et chronophage."
-msgstr ""
+msgstr "각 번역은 통합 요청을 받아야 하는데, 이는 복잡하고 시간-소요가 많습니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:45
@@ -162,6 +193,11 @@ msgid ""
 "il y a eu [8 versions "
 "publiées](https://github.com/jitsi/jitsi-meet/releases) !"
 msgstr ""
+"몇 분 안에, 본인은 [이 요청은 8개월 이상 기다리는](https://github.com/jitsi/"
+"jitsi-meet/pull/14754) 극단적인 경우를 찾았습니다.  하지만, 그 사이에, "
+"소프트웨어에서 번역 할 문자열을 담고 있는 파일은 [이미 19번이나 변경]"
+"(https://github.com/jitsi/jitsi-meet/commits/master/lang/main.json)되었고 "
+"[8개의 버전이 게시](https://github.com/jitsi/jitsi-meet/releases)되었습니다!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:47
@@ -172,6 +208,9 @@ msgid ""
 "d'information sur comment traduire, ni dans le [guide de "
 "contribution](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 msgstr ""
+"[readme](https://github.com/jitsi/jitsi-meet/blob/master/README.md)나 "
+"[공헌 안내](https://jitsi.github.io/handbook/docs/dev-guide/"
+"dev-guide-contributing/)에는 번역하는 방법에 대한 정보가 없습니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:50
@@ -184,6 +223,11 @@ msgid ""
 "suivre les changements, il faut probablement s'abonner aux changements du "
 "projet github."
 msgstr ""
+"수 많은 사람들이 참여하는 언어 커뮤니티는 공헌자의 수(그리고 그 경우에도...) "
+"덕분에 필요한 시간을 투자 할 수 있지만, 다른 사람들은 모두 제쳐두고 "
+"소프트웨어는 이미 과도하게 표현된 언어에 대한 최신 번역만 제공하게 됩니다.  "
+"변경 사항을 확인하려면, 아마도 깃허브 프로젝트 변경 사항을 구독해야 할 "
+"것입니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:53
@@ -195,12 +239,17 @@ msgid ""
 "discussion avec les équipes de Jitsi Meet, cela n'a pas toujours été comme "
 "ça, une plateforme de traduction a déjà été utilisée par le passé."
 msgstr ""
+"우리는 이런 방식의 작업 효율성에 의문을 제기할 수도 있겠지만, 만약 우리가 "
+"소프트웨어 번역을 허용하려는 노력에 감사를 표하고자 한다면, 이와 같은 유형의 "
+"공헌을 위한 배려가 부족한 점을 후회합니다. 본인은 Jitsi Meet 팀과 논의를 한 "
+"적이 없으며, 항상 이런 식이었던 것은 아니고, 지난 과거에도 이미 번역 "
+"기술환경을 사용한 적이 있습니다."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:54
 #, markdown-text, no-wrap
 msgid "Clair... mais très spécifique GNOME"
-msgstr ""
+msgstr "명확하게... 그놈에 매우 특화되어 있습니다"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:61
@@ -216,12 +265,19 @@ msgid ""
 "processus est donc imparfait, manuel, mais l'outillage permet de réduire "
 "fortement le coût de gestion pour les contributeurs et contributrices."
 msgstr ""
+"그놈 프로젝트도 비슷한 버전을 사용하지만, 번역 팀의 요구에 중점을 "
+"두었습니다.  최종 소프트웨어에 번역에 보내려면, gi을 사용이 필수입니다. "
+"하지만, 번역가를 위한 [가용한 도구](https://l10n.gnome.org)가 있는데, 이를 "
+"통해 번역이 필요한 내용을 정확히 파악하고, 협업 할 수 있습니다.  추가적으로, "
+"그놈 생태계의 많은 소프트웨어는 신규출시와 동일한 작업 처리를 따릅니다.  "
+"따라서 이 과정은 불완전하고, 수동적이지만, 이 도구를 사용하면 공헌자의 관리 "
+"수고를 상당이 줄일 수 있습니다."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:62
 #, markdown-text, no-wrap
 msgid "Efficace... mais très spécifique Mozilla"
-msgstr ""
+msgstr "효과적이지만... 모질라에 매우 특화되어 있습니다"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:65
@@ -234,6 +290,11 @@ msgid ""
 "organisé en [équipes de "
 "traduction](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/teams_projects.html))."
 msgstr ""
+"모질라 프로젝트는 번역을 활동의 핵심 주제로 간주합니다. 참여하고 싶으시다면 "
+"[Pontoon 번역 기술환경](https://pontoon.mozilla.org/projects/firefox/)으로 "
+"이동하시면 됩니다 (이 프로젝트는 [번역 팀](https://mozilla-l10n.github.io/"
+"localizer-documentation/tools/pontoon/teams_projects.html)으로 조직되어 "
+"있습니다)."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:67
@@ -241,7 +302,8 @@ msgstr ""
 msgid ""
 "Savoir ce qui est traduisible est facile, et y trouver des contacts pour "
 "répondre aux questions l'est également."
-msgstr ""
+msgstr "번역 할 수 있는 것이 무엇인지 알기 쉽고, 질문에 답 할 수 있는 연락처를 찾는 "
+"것도 쉽습니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:71
@@ -254,12 +316,17 @@ msgid ""
 "en place une équipe et des processus de relecture, tout l'outillage est "
 "spécifique aux projets de Mozilla, mais globalement, c'est plutôt efficace."
 msgstr ""
+"해당 프로젝트는 규모가 크고, 번역 기술환경 및 소프트웨어 출시 사이의 단계를 "
+"이해하는 데 어려움이 있을 것이지만, 심각한 문제일까요? 잘 작동하고, "
+"소프트웨어 출시 날짜가 알려져 있으며, 우선순위도 정의되어 있습니다.  당신은 "
+"검토 팀과 처리를 구성하는 데 시간이 다소 소모될 수 있으며, 모든 도구는 "
+"모질라 프로젝트에 특화되어 있지만, 전반적으로 매우 효과적입니다."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:72
 #, markdown-text, no-wrap
 msgid "Automatisé et générique, la modernité émancipatrice"
-msgstr ""
+msgstr "자동화되고 일반적이며, 자유로운 현대성"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:75
@@ -269,6 +336,8 @@ msgid ""
 "permettant de s'abonner en cas de changements, de travailler à plusieurs, "
 "d'avoir des détections d'anomalies."
 msgstr ""
+"번역 활동에 전문적인 도구를 제공하여, 변경 사건에서 구독하도록 하고, "
+"그룹에서 작업하고, 이상 징후를 탐지 할 수 있도록 합니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:77
@@ -276,7 +345,8 @@ msgstr ""
 msgid ""
 "Et, bonus ultime, d'avoir une synchronisation automatique avec le code "
 "source du logiciel."
-msgstr ""
+msgstr "그리고, 가장 큰 보너스, 소프트웨어 원천 코드와 함께 자동으로 동기화 된다는 "
+"점."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:79
@@ -289,6 +359,11 @@ msgid ""
 "traductions](https://hosted.weblate.org/changes/browse/weblate/?action=13&action=30&user=&period=) "
 "sont faciles à trouver."
 msgstr ""
+"훌륭한 예: 웹레이트 번역 기술환경은 모든 것이 연결되고 자동화되었으며 따라야 "
+"할 모범 사례를 보여줍니다. [번역 변경](https://github.com/WeblateOrg/weblate/"
+"commits/main/?author=weblate)은 많고, [번역에-미치는 변경](https://"
+"hosted.weblate.org/changes/browse/weblate/?action=13&action=30&user=&period=)"
+"은 찾기 편합니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:81
@@ -299,6 +374,9 @@ msgid ""
 "traduction, Weblate est devenu aussi évident et efficient que git pour la "
 "gestion du code source pour le développement logiciel."
 msgstr ""
+"많은 프로젝트에서 웹레이트를 사용하며, 당신의 상황이 어떻든, 웹레이트를 "
+"선택해야 합니다. 번역 기술환경 생태계에서, 웹레이트는 소프트웨어 개발을 위한 "
+"원천 코드 관리에 있어서 git 만큼이나 확실하고 효율적인 도구가 되었습니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:83
@@ -309,6 +387,9 @@ msgid ""
 "avec cette large communauté, vous aurez de bonnes chances d'obtenir un outil "
 "traduit en de nombreuses langues."
 msgstr ""
+"만약 당신이 자신의 프로젝트가 이러한 기술환경을 제공한다면, 이 후에 언어 "
+"공헌에 대한 권한을 제공하며, 이와 같은 거대한 커뮤니티와 관계를 맺음으로써, "
+"당신은 많은 언어로 번역될 수 있는 좋은 도구를 갖게 될 것입니다."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:84
@@ -322,7 +403,8 @@ msgstr "결론"
 msgid ""
 "L'articulation entre la vie technique du projet et les traductions est "
 "cruciale pour l'efficacité des processus de traduction."
-msgstr ""
+msgstr "프로젝트의 기술적인 수명과 번역 간의 연계는 번역 처리의 효율성을 위해 매우 "
+"중요합니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:89
@@ -330,7 +412,8 @@ msgstr ""
 msgid ""
 "Des outils remplis de fonctionnalités intéressantes et d'automatisation "
 "existent pour faciliter la vie de tout le monde."
-msgstr ""
+msgstr "모든 사람의 삶을 편리하게 만들어 주는 멋진 기능과 자동화가 가득한 도구들이 "
+"있습니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:91
@@ -339,7 +422,8 @@ msgid ""
 "Il ne tient qu'aux équipes de développement de s'en emparer pour que les "
 "logiciels contiennent toujours plus de traductions et qu'un nombre croissant "
 "de langues soient prises en charge."
-msgstr ""
+msgstr "개발 팀은 이를 최대한 활용하여 소프트웨어에 항상 더 많은 번역이 포함되고 "
+"지원되는 언어 수가 증가하도록 지원해야 합니다."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:93
@@ -349,3 +433,5 @@ msgid ""
 "Comment faire pour compenser un projet endormi ? Cela sera l'objet d'un "
 "futur article."
 msgstr ""
+"하지만 프로젝트에서 신규 버전을 만들지 않으면 어떻게 될까요? 중단된 "
+"프로젝트를 어떻게 보상할까요? 이는 다음 기사에의 주제가 될 것입니다."
