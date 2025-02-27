@@ -3,12 +3,14 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
 # Yuri Chornoivan <yurchor@ukr.net>, 2025.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-02-25 23:09+0100\n"
 "PO-Revision-Date: 2025-02-27 11:38+0000\n"
-"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Ukrainian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-02-25-slow-and-dead-software/uk/>\n"
 "Language: uk\n"
@@ -29,7 +31,7 @@ msgstr "jibec"
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Регіоналізація"
 
 #. type: Yaml Front Matter Hash Value: title
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
