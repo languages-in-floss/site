@@ -1,13 +1,12 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# naly zzwd <xeanhort007@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2024-10-28 20:49+0000\n"
+"PO-Revision-Date: 2025-03-03 07:50+0000\n"
 "Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
 "Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/about/ca/>\n"
@@ -16,12 +15,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.2\n"
+"X-Generator: Weblate 5.10.2\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "À propos"
-msgstr ""
+msgstr "Sobre"
 
 #. type: Plain text
 #, no-wrap
@@ -29,18 +28,28 @@ msgid ""
 "Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants de façon directe aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.\n"
 "Par rebond, nous encourageons toute personne souhaitant traduire ou permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
+"Som tres col·laboradors, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), "
+"[Quenti]({{< relref \"/authors/quenti\" >}}) i [ButterFlyOfFire]({{< relref "
+"\"/authors/butterflyoffire\" >}}), parlant directament a les següents "
+"llengües: francès, occità, àrab i cabil.\n"
+"Animem a qualsevol persona que vulgui traduir o permetre la traducció del "
+"contingut al seu idioma.\n"
 
 #. type: Plain text
 msgid ""
 "De part nos expériences de traducteurs, nous avons éprouvé le monde du "
 "logiciel libre :"
 msgstr ""
+"A través de les nostres experiències com a traductors, hem viscut el món del "
+"programari lliure:"
 
 #. type: Bullet: '* '
 msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
 msgstr ""
+"hem provat desenes de plataformes de traducció i sabem com administrar i "
+"allotjar-ne algunes,"
 
 #. type: Bullet: '* '
 msgid ""
@@ -48,6 +57,8 @@ msgid ""
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
 "Android...)"
 msgstr ""
+"coneixem els processos de distribució de traduccions en programari, una "
+"distribució (Ubuntu, Fedora...) o un ecosistema (Linux, Android...)"
 
 #. type: Plain text
 msgid ""
@@ -55,6 +66,9 @@ msgid ""
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
 msgstr ""
+"En aquest context, la iniciativa Languages-in-floss pretén compartir amb "
+"vosaltres les nostres experiències de camp en el suport del francès, l'àrab, "
+"el cabil i l'occità."
 
 #. type: Plain text
 msgid ""
@@ -63,6 +77,10 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"Tant si ets promotor o defensor d'una llengua, com si ets desenvolupador, "
+"descobriràs que el multilingüisme és possible en qualsevol activitat "
+"vinculada al programari lliure i de codi obert, i intentarem facilitar-te la "
+"vida en aquest món complex."
 
 #. type: Plain text
 msgid ""

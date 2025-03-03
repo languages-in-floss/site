@@ -1,19 +1,21 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# naly zzwd <xeanhort007@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-03-03 07:50+0000\n"
+"Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
+"Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2020-06-12-80-percent/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.2\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
@@ -33,7 +35,7 @@ msgstr ""
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Regionalització"
 
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
@@ -223,6 +225,9 @@ msgid ""
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
 msgstr ""
+"En aquest context, la iniciativa Languages-in-floss pretén compartir amb "
+"vosaltres les nostres experiències de camp en el suport del francès, l'àrab, "
+"el cabil i l'occità."
 
 #. type: Plain text
 msgid ""
@@ -231,3 +236,7 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"Tant si ets promotor o defensor d'una llengua, com si ets desenvolupador, "
+"descobriràs que el multilingüisme és possible en qualsevol activitat "
+"vinculada al programari lliure i de codi obert, i intentarem facilitar-te la "
+"vida en aquest món complex."
