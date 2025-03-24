@@ -1,14 +1,13 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 김인수 <simmon@nplob.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2021-08-01 14:04+0000\n"
-"Last-Translator: simmon <simmon@nplob.com>\n"
+"PO-Revision-Date: 2025-03-24 03:53+0000\n"
+"Last-Translator: 김인수 <simmon@nplob.com>\n"
 "Language-Team: Korean <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-06-12-80-percent/ko/>\n"
 "Language: ko\n"
@@ -16,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.7.2\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
@@ -137,9 +136,9 @@ msgid ""
 "car il y a toutes les chances pour que cette langue maternelle ne soit pas "
 "celle des développeurs en charge de l’outil."
 msgstr ""
-"사용자가 영어 이외의 모국어를 사용할 가능성이 높습니다. 그리고 개발자들이 모"
-"국어를 사용하도록 독려한다고 해서 문제가 해결되는 것은 아닙니다.  이 모국어"
-"가 도구를 담당하는 개발자의 모국어가 아닐 가능성이 있기 때문입니다."
+"사용자가 영어 이외의 모국어를 사용 할 가능성이 높습니다. 그리고 개발자들이 "
+"모국어를 사용하도록 독려한다고 해서 문제가 해결되는 것은 아닙니다.  이 "
+"모국어가 도구를 담당하는 개발자의 모국어가 아닐 가능성이 있기 때문입니다."
 
 #. type: Plain text
 msgid ""
@@ -164,12 +163,12 @@ msgid ""
 "si on considère les personnes ayant un niveau natif ou courant, nous "
 "descendons à 9 %."
 msgstr ""
-"구체적으로, 유니코드 컨소시엄, 그리고 보다 구체적으로는 CLDR에서 제공하는 언"
-"어와 지역 별 인구 추정치가 있습니다. [이 추정치는 세계 거주자의 21%](https://"
-"github.com/unicode-org/cldr/commits/master/tools/java/org/unicode/cldr/util/"
-"data/country_language_population_raw.txt)가 영어를 사용 한다는 것을 나타냅니"
-"다. 하지만 여기에서 말하는 것은 매우 다양한 상황을 포함합니다. 우리가 원어민"
-"이나 현재 수준의 사람들을 고려하면, 이는 9%로 떨어집니다."
+"구체적으로, 유니코드 컨소시엄, 그리고 보다 구체적으로는 CLDR에서 제공하는 "
+"언어와 지역 별 인구 추정치가 있습니다.  [이 추정치는 세계 거주자의 21%]"
+"(https://github.com/unicode-org/cldr/commits/master/tools/java/org/unicode/"
+"cldr/util/data/country_language_population_raw.txt)가 영어를 사용 한다는 "
+"것을 나타냅니다.  하지만 여기에서 말하는 것은 매우 다양한 상황을 포함합니다. "
+"우리가 원어민이나 현재 수준의 사람들을 고려하면, 이는 9%로 떨어집니다."
 
 #. type: Plain text
 msgid ""
