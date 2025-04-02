@@ -1,14 +1,13 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Javier Francisco <fserrador@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:52+0100\n"
-"PO-Revision-Date: 2020-07-15 12:00+0000\n"
-"Last-Translator: Adolfo Jayme Barrientos <fitoschido@gmail.com>\n"
+"PO-Revision-Date: 2025-04-02 02:08+0000\n"
+"Last-Translator: Javier Francisco <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/pagecontribute/es/>\n"
 "Language: es\n"
@@ -16,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
@@ -36,16 +35,12 @@ msgstr ""
 "inferior de la página le permite hacerlo fácilmente)"
 
 #. type: Bullet: '* '
-#, fuzzy
-#| msgid ""
-#| "traduire les articles dans votre langue sur : https://hosted.weblate.org/"
-#| "languages-in-floss/"
 msgid ""
 "traduire les articles dans votre langue sur : https://translate."
 "fedoraproject.org/projects/languages-in-floss/"
 msgstr ""
-"traducir los artículos a su lengua mediante: https://hosted.weblate.org/"
-"languages-in-floss/"
+"traducir los artículos a su lengua mediante: https://"
+"translate.fedoraproject.org/projects/languages-in-floss/"
 
 #. type: Bullet: '* '
 msgid ""
