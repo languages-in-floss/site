@@ -2,35 +2,40 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
+# hsu zangmen <chzang55@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-02-25 23:09+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-04-06 20:57+0000\n"
+"Last-Translator: hsu zangmen <chzang55@gmail.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://"
+"translate.fedoraproject.org/projects/languages-in-floss/"
+"posts2025-02-25-slow-and-dead-software/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: categories
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "區域化"
 
 #. type: Yaml Front Matter Hash Value: title
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
 #, no-wrap
 msgid "Que faire pour les logiciels avec peu ou pas de nouvelles versions ?"
-msgstr ""
+msgstr "對於很少或沒有新版本的軟體，可以做些什麼？"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:12
@@ -38,7 +43,7 @@ msgstr ""
 msgid ""
 "Dans les articles précédents, on a vu que les traductions sont des fichiers "
 "publiés en même temps que le logiciel."
-msgstr ""
+msgstr "在之前的文章中，我們看到翻譯是與軟體同時發表的檔案。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:15
@@ -47,7 +52,8 @@ msgid ""
 "Imaginons le scénario suivant : vous venez de découvrir un logiciel, vous "
 "l’aimez bien, il répond à votre besoin.  Cependant, des problèmes de "
 "traduction vous gênent, certains menus ne sont pas traduits."
-msgstr ""
+msgstr "讓我們想像以下的情況：您剛發現一個軟體套件，您喜歡它，它能滿足您的需求。  "
+"但是，您在翻譯上遇到問題，有些選單沒有翻譯。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:17
@@ -55,7 +61,8 @@ msgstr ""
 msgid ""
 "Après avoir deviné où se trouvait ce projet sur les internets, vous vous "
 "rendez compte que ce logiciel ne sort au mieux qu’une version par an."
-msgstr ""
+msgstr "一旦您猜到在網際網路上哪裡可以找到這個專案，您就會意識到這個軟體一年最多只推"
+"出一個版本。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:22
@@ -69,6 +76,10 @@ msgid ""
 "destination, la vôtre.  Tout le reste n’est qu’une barrière à l’entrée "
 "limitant le nombre de personnes pouvant apporter leur aide."
 msgstr ""
+"這意味著，如果專案還活著，而您的修改被合併了，您的工作可能要在幾個月後才能提"
+"供給其他使用者。  包括您自己！ "
+"因為，是的，翻譯只需要兩件事情：了解來源語言和掌握目標語言，也就是您自己的語"
+"言。  其他一切都只是入門的障礙，限制了可以提供協助的人數。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:26
@@ -81,6 +92,10 @@ msgid ""
 "traduction avec beaucoup d’attention, il ne sera pas bienvenu de demander "
 "une sortie plus rapide pour compléter ou corriger une traduction."
 msgstr ""
+"而軟體發行的速度是無可奈何的。  "
+"無論其性質如何，發佈新版本都需要大量的努力、思考、測試、協調與溝通。  "
+"除非專案有足夠的成熟度，並非常謹慎地考慮翻譯的問題，否則不會歡迎要求加快發行"
+"速度來完成或修正翻譯。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:29
@@ -90,7 +105,9 @@ msgid ""
 "an.  D’autres fois, cette énergie a consumé l’auteur ou l’autrice du projet, "
 "et le projet que vous aimez n’a pas vu de nouvelles versions depuis "
 "plusieurs années."
-msgstr ""
+msgstr "有時候，這種能量會讓軟體一年只發行一次。  "
+"其他時候，這種能量已經消耗了專案的作者或女作者，而您所愛的專案已經幾年沒有新"
+"版本了。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:32
@@ -99,13 +116,14 @@ msgid ""
 "Même si ce logiciel fonctionne peut-être correctement, vous êtes dans une "
 "impasse… Sauf si… votre distribution Linux permet de surcharger les "
 "traductions !"
-msgstr ""
+msgstr "即使此軟體能正確運作，您也走進了死胡同...除非...您的 Linux "
+"發行版本允許您超載翻譯！"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:34
 #, markdown-text
 msgid "C’est exactement ce que fait le projet Ubuntu."
-msgstr ""
+msgstr "這正是 Ubuntu 計畫正在做的事。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:38
@@ -117,12 +135,16 @@ msgid ""
 "traductrices, 50 groupes de traduction… Impressionnant ? Anecdotique ? Je "
 "vous en parlerai dans un futur article."
 msgstr ""
+"Ubuntu 可讓您透過 https://translations.launchpad.net/ "
+"平台翻譯大量軟體。這是一個相當大的平台：63,017 個檔案中的 3,151,497 個字串、"
+"386 種語言、88,145 個翻譯員、50 個翻譯群組...令人印象深刻？ 傳聞？ "
+"我會在以後的文章中再告訴您。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:40
 #, markdown-text
 msgid "Comment ça fonctionne ?"
-msgstr ""
+msgstr "如何運作？"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:45
@@ -137,6 +159,10 @@ msgid ""
 "utilisateurices d’Ubuntu, sans avoir à attendre une nouvelle version du "
 "logiciel."
 msgstr ""
+"由於發行版是將軟體分發/傳送給使用者的巨大機制，因此翻譯會透過獨立於軟體的路徑"
+"傳送。  嚴格來說，在使用者的電腦上，這不會改變任何東西 - "
+"每個程式都有自己的翻譯。  但在更新方面，翻譯可以在不更新軟體的情況下更新。  "
+"這使得向 Ubuntu 使用者發佈新翻譯成為可能，而無需等待軟體的新版本。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:47
@@ -147,6 +173,9 @@ msgid ""
 "comment ce projet souhaite me contribuer ! Pour rappel, exiger l’usage de "
 "git est une barrière immense pour beaucoup."
 msgstr ""
+"太好了 目標達成！ "
+"我可以翻譯我喜歡的軟體，不需要知道它是否還活著，甚至不需要知道專案想在哪裡、"
+"如何貢獻給我！ 提醒一下，要求使用 git 對很多人來說是一個很大的障礙。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:51
@@ -155,7 +184,8 @@ msgid ""
 "Sauf que ce n’est que pour Ubuntu.  Les autres distributions Linux n’en "
 "bénéficient pas.  Le projet en question, même si lent ou inactif n’en "
 "bénéficie pas."
-msgstr ""
+msgstr "除了它只適用於 Ubuntu。  其他 Linux 發行版並不能獲益。  "
+"相關專案即使緩慢或不活躍，也不會受惠。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:58
@@ -174,6 +204,19 @@ msgid ""
 "Sans connaître les relations entre les communautés Ubuntu et GNOME, qui sont "
 "potentiellement excellentes, je vois ici un risque de conflit."
 msgstr ""
+"更糟的是，有時候是重複的工作，在 Ubuntu 專案內，你可以覆蓋其他專案的工作。  "
+"在幾分鐘之內，我找到一個屬於 GNOME 範圍的專案 ([gnome-remote-desktop on "
+"Launchpad](https://translations.launchpad.net/ubuntu/plucky/+source/"
+"gnome-remote-desktop/+pots/gnome-remote-desktop/en/"
+"+translate?show=untranslated) 和 [gnome-remote-desktop on gitlab](https://"
+"gitlab.gnome.org/GNOME/gnome-remote-desktop/-/blob/master/po/"
+"fr.po?ref_type=heads)) 。  在 gitlab 上，您可以看到 Launchpad 上沒有的貢獻，"
+"所以在 Launchpad 外部翻譯也是可能的。  是的，透過 [l10n.gnome.org...]"
+"(https://l10n.gnome.org/vertimus/gnome-remote-desktop/master/po/fr/level1/)。"
+"  這個專案根本不該出現在 Launchpad 上，為什麼會在那裡？ 我不知道 Ubuntu 和 "
+"GNOME "
+"社群之間的關係如何，而這兩個社群之間的關係可能很好，但我認為這裡有衝突的風險"
+"。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:63
@@ -188,6 +231,11 @@ msgid ""
 "iels auraient créé un outil du même niveau de qualité que Pontoon ou "
 "Weblate."
 msgstr ""
+"最後，Launchpad 是一個很大的軟體，它在 Ubuntu "
+"社群中扮演許多角色，不只是翻譯。  我不知道 Launchpad 在幫助 Ubuntu "
+"社群方面做得如何，但作為一個翻譯平台，它是一個非常有限且陳舊的工具。  "
+"這也是意料之中的--翻譯平台在知識和技能方面是很昂貴的。  如果翻譯是 Ubuntu "
+"的首要任務，他們就會創造出與 Pontoon 或 Weblate 品質相同的工具。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:64
@@ -195,4 +243,4 @@ msgstr ""
 msgid ""
 "Il y a du bon dans ce que fait Ubuntu, merci à eux de démontrer que c’est "
 "possible."
-msgstr ""
+msgstr "Ubuntu 所做的事有很多好處，我要感謝他們讓我知道這是可能的。"

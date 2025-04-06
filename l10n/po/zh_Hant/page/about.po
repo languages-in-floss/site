@@ -1,24 +1,26 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# hsu zangmen <chzang55@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-04-06 20:57+0000\n"
+"Last-Translator: hsu zangmen <chzang55@gmail.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://"
+"translate.fedoraproject.org/projects/languages-in-floss/about/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "À propos"
-msgstr ""
+msgstr "建議"
 
 #. type: Plain text
 #, no-wrap
@@ -26,32 +28,39 @@ msgid ""
 "Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants de façon directe aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.\n"
 "Par rebond, nous encourageons toute personne souhaitant traduire ou permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
+"我們有三位撰稿人：[Jean-Baptiste]({{< relref \"/authors/jibec\" >}})、"
+"[Quenti]({{< relref \"/authors/quenti「 >}})和[ButterFlyOfFire]({{< relref "
+"」/authors/butterflyoffire\" "
+">}})，直接涉及以下語言：法文、奧克蘭文、阿拉伯文和卡比爾文。\n"
+"我們也鼓勵任何希望將內容翻譯成自己語言的人。\n"
 
 #. type: Plain text
 msgid ""
 "De part nos expériences de traducteurs, nous avons éprouvé le monde du "
 "logiciel libre :"
-msgstr ""
+msgstr "透過翻譯的經驗，我們體驗了自由軟體的世界："
 
 #. type: Bullet: '* '
 msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
-msgstr ""
+msgstr "我們已經測試過數十種翻譯平台，並且知道如何管理和託管其中一些平台、"
 
 #. type: Bullet: '* '
 msgid ""
 "nous connaissons les processus de diffusion des traductions dans un "
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
 "Android...)"
-msgstr ""
+msgstr "我們知道翻譯如何在軟體、發行版本 (Ubuntu、Fedora 等) 或生態系統 (Linux、"
+"Android 等) 中散佈"
 
 #. type: Plain text
 msgid ""
 "Dans ce contexte, l’initiative Languages-in-floss vise à vous partager nos "
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
-msgstr ""
+msgstr "在此背景下，Languages-in-floss "
+"倡議旨在與您分享我們在法語、阿拉伯語、卡比爾語和奧克蘭語領域的經驗。"
 
 #. type: Plain text
 msgid ""
@@ -60,6 +69,8 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"無論您是語言倡導者或開發者，您都會發現在任何與自由及開放原始碼軟體相關的活動"
+"中，多語言都是可行的。 我們會盡力讓您在這個複雜的世界中生活得更輕鬆。"
 
 #. type: Plain text
 msgid ""
@@ -67,3 +78,6 @@ msgid ""
 "jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
 "(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
+"若要聯絡我們，您可以使用 jabberfr 網路上的 **translators** 休息室： "
+"[xmpp link](xmpp://traducteurs@chat.jabberfr.org), [web link](https://"
+"chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"

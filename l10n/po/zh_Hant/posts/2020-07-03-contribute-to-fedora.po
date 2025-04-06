@@ -1,39 +1,42 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# hsu zangmen <chzang55@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-04-06 20:57+0000\n"
+"Last-Translator: hsu zangmen <chzang55@gmail.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://"
+"translate.fedoraproject.org/projects/languages-in-floss/"
+"posts2020-07-03-contribute-to-fedora/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "區域化"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "contribuer"
-msgstr ""
+msgstr "貢獻者"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Comment contribuer à la traduction de la distribution Linux Fedora ?"
-msgstr ""
+msgstr "我該如何協助 Fedora Linux 發行版的翻譯工作？"
 
 #. type: Plain text
 #, no-wrap
@@ -41,11 +44,15 @@ msgid ""
 "Une distribution est un type de projet de logiciel libre spécifique et complexe, sur lequel les objectifs et contraintes influent directement sur la capacité d’action du traducteur.\n"
 "Mais pour vous faciliter la vie, et améliorer celle de ceux [ne parlant pas anglais]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora met à disposition une plateforme de traduction.\n"
 msgstr ""
+"發行版是一種特殊且複雜的自由軟體專案，其目標與限制條件會直接影響譯者的行動能"
+"力。\n"
+"不過，為了讓您的生活更輕鬆，也為了改善那些 [不懂英文的人]({{< relref "
+"\"2020-06-12-80-percent.md\" >}}) 的生活，Fedora 提供了一個翻譯平台。\n"
 
 #. type: Title ##
 #, no-wrap
 msgid "Qu’est-ce qu’une distribution Linux ?"
-msgstr ""
+msgstr "什麼是 Linux 發行版？"
 
 #. type: Plain text
 msgid ""
@@ -56,13 +63,17 @@ msgid ""
 "des logiciels afin de les mettre à disposition des utilisateurs et "
 "utilisatrices."
 msgstr ""
+"Linux "
+"發行版是一組軟體套件，以連貫的方式設定參數，在符合一系列限制條件的同時滿足需"
+"求。  發行版專案 (例如 Fedora 專案) "
+"的核心是軟體工程活動，讓所有軟體都能編譯完成並提供給使用者。"
 
 #. type: Plain text
 msgid ""
 "La problématique principale étant : comment puis-je actualiser le "
 "paramétrage sur l’ensemble de mes logiciels tout en facilitant la mise à "
 "jour de ces mêmes logiciels ?"
-msgstr ""
+msgstr "主要的問題是：如何在更新所有軟體的設定時，同時讓相同軟體的更新更容易？"
 
 #. type: Plain text
 msgid ""
@@ -74,11 +85,16 @@ msgid ""
 "créée spécifiquement pour le besoin propre du projet Fedora, tel "
 "l’installeur Anaconda."
 msgstr ""
+"一個發行版包含非常大量的軟體：Fedora 就超過 30,000 個 ([原始碼](https://"
+"src.fedoraproject.org/projects/rpms/*))。  這些軟體絕大多數來自與 Fedora "
+"計畫沒有直接關係的團隊，例如 Mozilla Firefox 瀏覽器或 LibreOffice "
+"辦公室套件。  少數軟體是專為 Fedora 計畫本身的需求所製作，例如 Anaconda "
+"安裝程式。"
 
 #. type: Title ##
 #, no-wrap
 msgid "La distribution Linux Fedora et ses valeurs"
-msgstr ""
+msgstr "Fedora Linux 發行版及其價值"
 
 #. type: Plain text
 msgid ""
@@ -90,13 +106,21 @@ msgid ""
 "Server »), sur du matériel embarqué (« Fedora IOT ») ou conteneurisé (« "
 "Fedora CoreOS »)."
 msgstr ""
+"Fedora Linux "
+"發行版據說是通用的，其設計可滿足各種需求：在工作站和伺服器上使用。  "
+"對於工作站，提出了「Fedora workstation」和「Fedora "
+"Silverblue」兩種可能的版本。  對於伺服器，Fedora 可作為作業系統，"
+"安裝於傳統硬體 (「Fedora Server」)、嵌入式硬體 (「Fedora IOT」) 或容器化 (「"
+"Fedora CoreOS」)。"
 
 #. type: Plain text
 msgid ""
 "On voit ici que rien n’est simple, derrière le concept de « distribution "
 "Linux », on voit qu’une même série de logiciels peut être paramétrée de "
 "façon différente pour répondre à des objectifs distincts."
-msgstr ""
+msgstr "在「Linux "
+"發行版」這個概念背後，我們可以看到同一套軟體可以透過不同的配置方式來滿足不同"
+"的目標。"
 
 #. type: Plain text
 msgid ""
@@ -106,6 +130,9 @@ msgid ""
 "fréquentes, avoir une contribution directe aux logiciels plutôt que de "
 "concevoir et maintenir une surcouche de modifications."
 msgstr ""
+"除了這些多重設定之外，Fedora Linux "
+"發行版也對自己施加了下列限制：獨家使用自由軟體、經常發行版本以走在開發的最前"
+"端、對軟體有直接的貢獻，而不是設計和維護覆蓋的修改。"
 
 #. type: Plain text
 msgid ""
@@ -113,11 +140,13 @@ msgid ""
 "Fedora et ses quatre fondations : https://docs.fedoraproject.org/en-US/"
 "project/"
 msgstr ""
+"如需詳細資訊，我建議您閱讀此頁面描述 Fedora 及其四個基礎：https://"
+"docs.fedoraproject.org/en-US/project/"
 
 #. type: Title ##
 #, no-wrap
 msgid "La conséquence sur le rôle du traducteur dans le projet Fedora"
-msgstr ""
+msgstr "對 Fedora 專案中翻譯者角色的影響"
 
 #. type: Plain text
 msgid ""
@@ -126,6 +155,8 @@ msgid ""
 "petite partie de tous les logiciels disponibles réellement quand vous "
 "installez Fedora."
 msgstr ""
+"當您前往 Fedora 專案翻譯平台 https://translate.fedoraproject.org/projects/ "
+"時，您只會發現實際安裝 Fedora 時可使用的所有軟體中的一小部分。"
 
 #. type: Plain text
 msgid ""
@@ -140,17 +171,26 @@ msgid ""
 "https://translate.fedoraproject.org/projects/pulseaudio/ ou ibus https://"
 "translate.fedoraproject.org/projects/ibus/"
 msgstr ""
+"Fedora 翻譯平台包含 ： * 由 Fedora 社群創建的軟體，例如 anaconda 安裝程式 "
+"https://translate.fedoraproject.org/projects/anaconda/ * Fedora "
+"專案網站：https://translate.fedoraproject.org/projects/fedora-websites/ * "
+"Fedora 專案文件：https://translate.fedoraproject.org/projects/"
+"fedora-docs-l10n-docs/ (以及所有其他以 fedora-docs-l10n 開頭的專案) * "
+"創建者決定由 Fedora 專案託管其翻譯的軟體：例如 pulseaudio https://"
+"translate.fedoraproject.org/projects/pulseaudio/ 或 ibus https://"
+"translate.fedoraproject.org/projects/ibus/"
 
 #. type: Plain text
 msgid ""
 "Pour tout le reste, il faudra trouver où est hébergé le logiciel et "
 "comprendre comment y contribuer.  Mais cela sera le sujet d’un autre article."
-msgstr ""
+msgstr "至於其他一切，您需要找出軟體的託管地點，並瞭解如何為軟體貢獻心力。  "
+"不過這是另一篇文章的主題。"
 
 #. type: Title ##
 #, no-wrap
 msgid "Conclusion"
-msgstr ""
+msgstr "總結"
 
 #. type: Plain text
 msgid ""
@@ -159,3 +199,6 @@ msgid ""
 "traduction, c’est de s’assurer de comprendre ce qu’on y voit, dans le projet "
 "Fedora, c’est toujours le logiciel d’origine, sans intermédiaire."
 msgstr ""
+"即使 Linux 發行版是一個複雜的整體，為它貢獻也是很容易的。  "
+"當您到達一個翻譯平台時，唯一要問自己的問題就是確定您了解您所看到的是什麼。 "
+"在 Fedora 專案中，永遠都是原始軟體，沒有中間人。"

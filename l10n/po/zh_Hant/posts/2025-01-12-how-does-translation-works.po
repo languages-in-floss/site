@@ -2,35 +2,40 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
+# hsu zangmen <chzang55@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-04-06 20:57+0000\n"
+"Last-Translator: hsu zangmen <chzang55@gmail.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://"
+"translate.fedoraproject.org/projects/languages-in-floss/"
+"posts2025-01-12-how-does-translation-works/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: categories
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "區域化"
 
 #. type: Yaml Front Matter Hash Value: title
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Où sont les traductions ?"
-msgstr ""
+msgstr "翻譯在哪裡？"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:12
@@ -42,12 +47,16 @@ msgid ""
 "\"2020-07-03-contribute-to-fedora.md\" >}}), regardons où sont les "
 "traductions d'un logiciel.\n"
 msgstr ""
+"在解釋了地球上有一大部分人 [不會說英文]]({{< relref "
+"\"2020-06-12-80-percent.md\" >}})，接著 [解釋如何為 Fedora 發行版貢獻心力]({{"
+"< relref \"2020-07-03-contribute-to-fedora.md\" "
+">}})，讓我們來看看一個軟體的翻譯在哪裡。\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
 #, markdown-text, no-wrap
 msgid "Les traductions font partie intégrante du code"
-msgstr ""
+msgstr "翻譯是程式碼不可分割的一部分"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:20
@@ -64,12 +73,18 @@ msgid ""
 "Chaque fichier possède ses avantages et inconvénients, cela entre le domaine "
 "de l'internationalisation des logiciels, souvent abrégé `i18n`."
 msgstr ""
+"翻譯檔案是執行程式所需的原始碼的組成部分。  "
+"包含翻譯的檔案格式因開發團隊使用的工具而異。  要了解主要的檔案格式，"
+"[Weblate 翻譯平台支援的格式清單](https://docs.weblate.org/en/latest/"
+"formats.html) 是很有趣的。  一般而言，Gettext 格式最廣泛用於編譯/桌面軟體，"
+"而 Json 格式則用於網路軟體。  每種檔案都有其優缺點，這就是軟體國際化的範疇，"
+"通常縮寫為 `i18n`。"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
 #, markdown-text, no-wrap
 msgid "La conséquence sur le travail de traduction"
-msgstr ""
+msgstr "對翻譯工作的影響"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:25
@@ -82,6 +97,10 @@ msgid ""
 "savoir si le changement impacte le sens ou la structure de la phrase, les "
 "changements coûtent cher pour les traducteurs."
 msgstr ""
+"由於翻譯是原始碼的一部份，翻譯人員必須準時交稿，以確保當前版本的每一項變更都"
+"能翻譯出來。  "
+"最輕微的改動，即使是一個字母或字元的改動，都意味著每一個翻譯都必須經過檢查，"
+"以確定改動是否會影響句子的意思或結構，而改動對翻譯人員來說是昂貴的。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:28
@@ -94,6 +113,10 @@ msgid ""
 "du projet parvienne aux utilisateurs avec une chaîne affichée en anglais au "
 "milieu d'un logiciel déjà partiellement traduit."
 msgstr ""
+"更常見的情況是，開發人員在進行變更時不知道如何調整譯文，這也是意料之中的事。"
+"  "
+"因此，必須有緊密跟進專案開發的翻譯人員，才能反應迅速，避免新版本的專案在送達"
+"使用者時，在已經有部分翻譯的軟體中間以英文顯示字串。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:32
@@ -105,12 +128,15 @@ msgid ""
 "traductrices dans chaque langue pour suivre tous ces projets ? Certainement "
 "pas."
 msgstr ""
+"這就是問題變得複雜的地方：自由軟體專案至少有數以千計，甚至數以十萬計。  "
+"有成千上萬的語言，那麼我們在每一種語言都有足夠的翻譯員來跟上所有這些專案嗎？ "
+"當然不能。"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:33
 #, markdown-text, no-wrap
 msgid "Processus d'intégration des traductions"
-msgstr ""
+msgstr "整合翻譯流程"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:36
@@ -119,13 +145,13 @@ msgid ""
 "Prenons maintenant quelques exemples de projet pour voir comment est "
 "organisée l'interaction entre les processus de développement logiciel et de "
 "traduction."
-msgstr ""
+msgstr "讓我們來看看幾個專案的範例，看看軟體開發與翻譯流程之間的互動是如何組織的。"
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:37
 #, markdown-text, no-wrap
 msgid "Traduisible... mais archaïque !"
-msgstr ""
+msgstr "可翻譯......但古老！"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:40
@@ -136,6 +162,9 @@ msgid ""
 "[lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) contient un "
 "fichier json par langue."
 msgstr ""
+"Jitsi Meet 是線上視訊會議軟體。在它的原始碼中，一個 [lang](https://"
+"github.com/jitsi/jitsi-meet/tree/master/lang) 資料夾內包含每個語言的 json "
+"檔案。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:42
@@ -143,7 +172,7 @@ msgstr ""
 msgid ""
 "Chaque traduction doit faire l'œuvre d'une demande d'intégration, c'est "
 "compliqué et chronophage."
-msgstr ""
+msgstr "每個翻譯都必須提交整合，既複雜又費時。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:45
@@ -157,6 +186,11 @@ msgid ""
 "il y a eu [8 versions "
 "publiées](https://github.com/jitsi/jitsi-meet/releases) !"
 msgstr ""
+"幾分鐘之後，我發現了一個極端案例，[這個請求已經等待了超過 8 個月](https://"
+"github.com/jitsi/jitsi-meet/pull/14754)。  然而，在此期間，"
+"包含軟體中要翻譯的字串的檔案 [已經變更了 19 次](https://github.com/jitsi/"
+"jitsi-meet/commits/master/lang/main.json)，而且已經有 [8 個版本出版](https://"
+"github.com/jitsi/jitsi-meet/releases)！"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:47
@@ -167,6 +201,9 @@ msgid ""
 "d'information sur comment traduire, ni dans le [guide de "
 "contribution](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 msgstr ""
+"在 [readme](https://github.com/jitsi/jitsi-meet/blob/master/README.md) 和 "
+"[contribution guide](https://jitsi.github.io/handbook/docs/dev-guide/"
+"dev-guide-contributing/) 中都沒有如何翻譯的資訊。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:50
@@ -179,6 +216,9 @@ msgid ""
 "suivre les changements, il faut probablement s'abonner aux changements du "
 "projet github."
 msgstr ""
+"使用者多的語言社群可能會因為貢獻者的數量而花費所需的時間（即使如此......），"
+"所有其他的語言社群都會被遺漏，軟體只會提供已被過度代表的語言的更新翻譯。  "
+"要追蹤變更，您可能需要訂閱 github 專案。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:53
@@ -190,12 +230,16 @@ msgid ""
 "discussion avec les équipes de Jitsi Meet, cela n'a pas toujours été comme "
 "ça, une plateforme de traduction a déjà été utilisée par le passé."
 msgstr ""
+"這種工作方式的效率有待商榷。 "
+"雖然我們可以讚賞為了讓軟體能夠被翻譯所做的努力，但我對於沒有考慮到這類貢獻感"
+"到遺憾。  我並未與 Jitsi Meet "
+"團隊進行任何討論，因為並非一直如此，過去也曾使用過翻譯平台。"
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:54
 #, markdown-text, no-wrap
 msgid "Clair... mais très spécifique GNOME"
-msgstr ""
+msgstr "很清楚...但對 GNOME 來說非常特別"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:61
@@ -211,12 +255,18 @@ msgid ""
 "processus est donc imparfait, manuel, mais l'outillage permet de réduire "
 "fortement le coût de gestion pour les contributeurs et contributrices."
 msgstr ""
+"GNOME 專案使用類似的版本，但著重於翻譯團隊的需求。  "
+"若要將翻譯結果傳送至最終軟體，必須使用 git。  然而，有一個[工具]"
+"(https://l10n.gnome.org)可以提供給翻譯者，讓他們可以清楚知道需要翻譯的內容，"
+"並進行合作。  更重要的是，在 GNOME "
+"生態系統中，有一長串的軟體應用程式遵循著相同的新版本節奏與相同的工作流程。  "
+"因此，這個過程是不完美且手動的，但我們使用的工具大大降低了貢獻者的管理成本。"
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:62
 #, markdown-text, no-wrap
 msgid "Efficace... mais très spécifique Mozilla"
-msgstr ""
+msgstr "有效...但對 Mozilla 非常特別"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:65
@@ -229,6 +279,10 @@ msgid ""
 "organisé en [équipes de "
 "traduction](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/teams_projects.html))."
 msgstr ""
+"Mozilla 專案認為翻譯是其活動的重要部分。 如果您想貢獻一份心力，請造訪 "
+"[Pontoon 翻譯平台](https://pontoon.mozilla.org/projects/firefox/)（專案分為 "
+"[翻譯小組](https://mozilla-l10n.github.io/localizer-documentation/tools/"
+"pontoon/teams_projects.html)）。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:67
@@ -236,7 +290,7 @@ msgstr ""
 msgid ""
 "Savoir ce qui est traduisible est facile, et y trouver des contacts pour "
 "répondre aux questions l'est également."
-msgstr ""
+msgstr "要知道什麼是可翻譯的很容易，要找到回答問題的聯絡人也很容易。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:71
@@ -249,12 +303,17 @@ msgid ""
 "en place une équipe et des processus de relecture, tout l'outillage est "
 "spécifique aux projets de Mozilla, mais globalement, c'est plutôt efficace."
 msgstr ""
+"這是一個龐大的專案，您可能會覺得很難理解翻譯平台與軟體發行之間的階段，但這是"
+"問題嗎？ 它運作得很好，軟體的發行日期是已知的，優先順序也是確定的。  "
+"因為所有的工具都是 Mozilla "
+"專案特有的，所以你會失去一點時間來建立團隊和審核流程，但總體來說還是相當有效"
+"的。"
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:72
 #, markdown-text, no-wrap
 msgid "Automatisé et générique, la modernité émancipatrice"
-msgstr ""
+msgstr "自動化與通用化，解放現代性"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:75
@@ -263,7 +322,8 @@ msgid ""
 "Il est possible de fournir un outil dédié aux activités de traduction, "
 "permettant de s'abonner en cas de changements, de travailler à plusieurs, "
 "d'avoir des détections d'anomalies."
-msgstr ""
+msgstr "可以提供專門用於翻譯活動的工具，使訂閱在發生變更時可以取出、多位使用者可以一"
+"起工作，以及偵測異常。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:77
@@ -271,7 +331,7 @@ msgstr ""
 msgid ""
 "Et, bonus ultime, d'avoir une synchronisation automatique avec le code "
 "source du logiciel."
-msgstr ""
+msgstr "此外，終極獎勵是與軟體原始碼自動同步。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:79
@@ -284,6 +344,11 @@ msgid ""
 "traductions](https://hosted.weblate.org/changes/browse/weblate/?action=13&action=30&user=&period=) "
 "sont faciles à trouver."
 msgstr ""
+"一個很好的例子：Weblate "
+"翻譯平台樹立了一個榜樣，所有的東西都是連接和自動化的。 [翻譯的變更](https://"
+"github.com/WeblateOrg/weblate/commits/main/?author=weblate)很多，"
+"[影響翻譯的變更](https://hosted.weblate.org/changes/browse/weblate/"
+"?action=13&action=30&user=&period=)很容易找到。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:81
@@ -294,6 +359,9 @@ msgid ""
 "traduction, Weblate est devenu aussi évident et efficient que git pour la "
 "gestion du code source pour le développement logiciel."
 msgstr ""
+"許多專案都使用 Weblate，因此無論您的情況如何，Weblate 都是您應該做的選擇。 "
+"在翻譯平台的生態系統中，Weblate 已經像 git "
+"一樣，成為管理軟體開發原始碼的明顯而有效的工具。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:83
@@ -303,13 +371,14 @@ msgid ""
 "d'action pour les contributions linguistiques, et en soignant la relation "
 "avec cette large communauté, vous aurez de bonnes chances d'obtenir un outil "
 "traduit en de nombreuses langues."
-msgstr ""
+msgstr "如果您的專案提供這個平台，那麼您就提供了語言貢獻的槓桿，透過培養與這個大型社"
+"群的關係，您就很有機會讓工具翻譯成許多語言。"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:84
 #, markdown-text, no-wrap
 msgid "Conclusion"
-msgstr ""
+msgstr "總結"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:87
@@ -317,7 +386,7 @@ msgstr ""
 msgid ""
 "L'articulation entre la vie technique du projet et les traductions est "
 "cruciale pour l'efficacité des processus de traduction."
-msgstr ""
+msgstr "專案的技術層面與翻譯之間的聯繫對翻譯過程的效率至關重要。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:89
@@ -325,7 +394,7 @@ msgstr ""
 msgid ""
 "Des outils remplis de fonctionnalités intéressantes et d'automatisation "
 "existent pour faciliter la vie de tout le monde."
-msgstr ""
+msgstr "各種充滿有趣功能和自動化的工具讓每個人的生活更輕鬆。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:91
@@ -334,7 +403,7 @@ msgid ""
 "Il ne tient qu'aux équipes de développement de s'en emparer pour que les "
 "logiciels contiennent toujours plus de traductions et qu'un nombre croissant "
 "de langues soient prises en charge."
-msgstr ""
+msgstr "開發團隊必須充分利用這一優勢，使軟體包含越來越多的翻譯，支援越來越多的語言。"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:93
@@ -343,4 +412,5 @@ msgid ""
 "Mais que se passe-t-il quand le projet ne fait pas de nouvelles versions ? "
 "Comment faire pour compenser un projet endormi ? Cela sera l'objet d'un "
 "futur article."
-msgstr ""
+msgstr "但如果專案沒有製作任何新版本，該怎麼辦？ 如何補償休眠的專案？ "
+"這將是未來文章的主題。"

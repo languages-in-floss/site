@@ -1,59 +1,62 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# hsu zangmen <chzang55@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-04-06 20:57+0000\n"
+"Last-Translator: hsu zangmen <chzang55@gmail.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://"
+"translate.fedoraproject.org/projects/languages-in-floss/"
+"posts2020-06-12-80-percent/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "butterflyoffire"
-msgstr ""
+msgstr "butterflyoffire"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "quenti"
-msgstr ""
+msgstr "多少"
 
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "區域化"
 
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Internationalisation"
-msgstr ""
+msgstr "國際化"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "enjeux"
-msgstr ""
+msgstr "問題"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "partage"
-msgstr ""
+msgstr "分享"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
-msgstr ""
+msgstr "當 80% 的人類不說英語時"
 
 #. type: Plain text
 msgid ""
@@ -63,11 +66,15 @@ msgid ""
 "complexité et un coût élevé mais unique, qui une fois fait, sous réserve "
 "d’automatisation, autorise un nombre illimité de langues."
 msgstr ""
+"雖然自由軟體的生態系統非常以英語為主，"
+"但在單一軟體中支援多種語言可以讓潛在使用者的數量倍增 5 或 10 倍。  "
+"這代表了高度的複雜性與成本，但這是一次性的，而且一旦完成後，在自動化的前提下"
+"，就能允許無限數量的語言。"
 
 #. type: Title ##
 #, no-wrap
 msgid "Un écosystème très anglophone"
-msgstr ""
+msgstr "非常講英語的生態系統"
 
 #. type: Plain text
 msgid ""
@@ -78,6 +85,9 @@ msgid ""
 "Certain·e·s seront intéressé·e·s par l’outil et y contribueront, d’autres "
 "voudront juste atteindre leur but le plus rapidement possible."
 msgstr ""
+"自由和開源軟體的世界非常多樣化，從與硬體的互動層面到我們每天在電腦和手機上使"
+"用的軟體。所有這些工具都只為其使用者而存在。有些人會對該工具感興趣並為其做出"
+"貢獻，而其他人只是想盡快實現他們的目標。"
 
 #. type: Plain text
 msgid ""
@@ -87,6 +97,9 @@ msgid ""
 "communauté du logiciel libre, terme générique qui englobe l’ensemble des "
 "personnes contribuant à un ou plusieurs logiciels libres."
 msgstr ""
+"在自由軟體的世界裡，英文是預設的工作語言，書面文字是最廣泛使用的管道。  "
+"這種運作模式是事實上的標準，被所謂的自由軟體社群所接受，沒有太大的困難，自由"
+"軟體社群是一個通用名詞，包含所有對一個或多個自由軟體產品有貢獻的人。"
 
 #. type: Plain text
 msgid ""
@@ -96,17 +109,20 @@ msgid ""
 "plusieurs fragments, variables non nommées, jargon technique intraduisible, "
 "etc.)."
 msgstr ""
+"為了自己的方便，製作軟體的人通常使用英文而非母語。  "
+"因此，他們很少瞭解翻譯中遇到的困難（句子分割成幾個片段、未命名的變數、無法翻"
+"譯的技術術術語等）。"
 
 #. type: Plain text
 msgid ""
 "Pire encore, ces personnes peuvent être mise mal à l’aise par le manque de "
 "contrôle sur ce qui est effectivement affiché à l’utilisateur."
-msgstr ""
+msgstr "更糟的是，這些人可能會因為無法控制實際顯示給使用者的內容而感到不舒服。"
 
 #. type: Title ##
 #, no-wrap
 msgid "Une population mondiale peu anglophone"
-msgstr ""
+msgstr "世界人口中說英語的人很少"
 
 #. type: Plain text
 msgid ""
@@ -115,7 +131,9 @@ msgid ""
 "développeurs à utiliser leur langue maternelle ne résous pas le problème, "
 "car il y a toutes les chances pour que cette langue maternelle ne soit pas "
 "celle des développeurs en charge de l’outil."
-msgstr ""
+msgstr "使用者的母語很可能不是英文。  "
+"鼓勵開發人員使用他們的母語並沒有解決問題，因為這個母語很有可能不是負責工具的"
+"開發人員的母語。"
 
 #. type: Plain text
 msgid ""
@@ -125,6 +143,9 @@ msgid ""
 "être un prérequis pour utiliser le logiciel, en cas d’absence de maîtrise de "
 "l’anglais."
 msgstr ""
+"無論使用何種語言，使用者都會喜歡使用自己的語言來達成目標，因為這樣可以增加使"
+"用的舒適度和效率。  "
+"如果您的英語不流利，使用自己的語言也可能是使用軟體的先決條件。"
 
 #. type: Plain text
 msgid ""
@@ -137,6 +158,12 @@ msgid ""
 "si on considère les personnes ayant un niveau natif ou courant, nous "
 "descendons à 9 %."
 msgstr ""
+"詳細來說，Unicode 聯盟，特別是 CLDR，提供了按語言和領域劃分的人口估計。  "
+"[這些估計顯示有 21%](https://github.com/unicode-org/cldr/commits/master/"
+"tools/java/org/unicode/cldr/util/data/country_language_population_raw.txt) "
+"全世界的居民都說英語。  "
+"但在這裡，會說英語包含了很廣泛的情況，如果我們考慮到具有母語或流利程度的人，"
+"我們的比例就降到了 9%。"
 
 #. type: Plain text
 msgid ""
@@ -148,42 +175,47 @@ msgid ""
 "est possible de ne pas connaître la langue source du logiciel, mais "
 "d’utiliser une autre langue comme pivot pour réaliser une traduction."
 msgstr ""
+"嘗試增加使用者人數的挑戰在於增加潛在的貢獻者人數，這些貢獻者將透過修正翻譯或"
+"進行完整的翻譯來踏出第一步，然後可以繼續進行或多或少的技術活動 "
+"(溝通、支援、文件、測試、編碼等)。  "
+"有可能不知道軟體的原始語言，但可以使用另一種語言作為樞軸來進行翻譯。"
 
 #. type: Plain text
 msgid ""
 "Pour pouvoir démultiplier les utilisateurs et utilisatrices potentiels, il "
 "faut ajouter le support linguistique.  C’est ce qu’on appelle "
 "l’internationalisation."
-msgstr ""
+msgstr "為了增加潛在使用者的數量，我們需要增加語言支援。  這就是我們所說的國際化。"
 
 #. type: Title ##
 #, no-wrap
 msgid "La complexité de l’internationalisation"
-msgstr ""
+msgstr "國際化的複雜性"
 
 #. type: Plain text
 msgid "Prendre en charge de multiples langues nécessite :"
-msgstr ""
+msgstr "支援多種語言需要："
 
 #. type: Bullet: '* '
 msgid ""
 "d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
 "les contenus à traduire, les traduire et les diffuser)"
-msgstr ""
+msgstr "使用提供必要功能的工具（標記要翻譯的內容、翻譯和發佈內容）"
 
 #. type: Bullet: '* '
 msgid ""
 "de changer ses processus de conception logicielle pour intégrer le travail "
 "de traduction (quand le code est terminé, il faut informer les personnes "
 "réalisant les traduction et intégrer leurs travaux)"
-msgstr ""
+msgstr "更改其軟體設計流程，以整合翻譯工作（當程式碼完成時，您必須通知進行翻譯的人員"
+"，並整合他們的工作）"
 
 #. type: Bullet: '* '
 msgid ""
 "de répondre aux besoins liés à l’activité de traduction.  Cela nécessite de "
 "s’intéresser aux codifications, aux formats de traduction, aux pluriels, à "
 "l’outillage adapté, etc."
-msgstr ""
+msgstr "滿足翻譯業務的需求。  這意味著要研究編碼、翻譯格式、複數、適當的工具等。"
 
 #. type: Plain text
 msgid ""
@@ -191,7 +223,8 @@ msgid ""
 "interface en ligne de commande, les sites web de présentation, des lettres "
 "d’information, la documentation en ligne, les pages man, les notes de "
 "version..."
-msgstr ""
+msgstr "除了使用者介面之外，您還需要包含命令列介面、簡報網站、通訊、線上文件、man "
+"頁、發行說明..."
 
 #. type: Plain text
 msgid ""
@@ -199,7 +232,9 @@ msgid ""
 "avancées.  Malheureusement, certains outils utilisés par les logiciels "
 "n’offrent aucune aide, l’expert·e qui devra se débrouiller seul·e ou changer "
 "d’outil."
-msgstr ""
+msgstr "國際化非常耗時，需要先進的技術能力。  "
+"不幸的是，有些軟體使用的工具並不提供任何協助，因此專家必須自求多福或更換工具"
+"。"
 
 #. type: Plain text
 msgid ""
@@ -211,18 +246,23 @@ msgid ""
 "d’énergie pour une langue ayant un nombre de locuteurs très faibles.  Et à "
 "notre époque, ne pas exister sur les outils numériques est dangereux."
 msgstr ""
+"好消息是，這項工作只需針對理論上數量不限的語言進行一次。  這是個好消息，"
+"因為目前有 7,000 到 9,000 種語言，其中將近 2,500 種語言有瀕臨滅絕的危險。  "
+"如果我們必須針對每一種語言做專門的工作，很少有開發人員願意在使用人數極少的語"
+"言上花費精力。  而在這個時代，不存在於數位工具上是很危險的。"
 
 #. type: Title ##
 #, no-wrap
 msgid "Le rôle de Languages-in-floss"
-msgstr ""
+msgstr "語言夾雜的角色"
 
 #. type: Plain text
 msgid ""
 "Dans ce contexte, l’initiative Languages-in-floss vise à vous partager nos "
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
-msgstr ""
+msgstr "在此背景下，Languages-in-floss "
+"倡議旨在與您分享我們在法語、阿拉伯語、卡比爾語和奧克蘭語領域的經驗。"
 
 #. type: Plain text
 msgid ""
@@ -231,3 +271,5 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"無論您是語言倡導者或開發者，您都會發現在任何與自由及開放原始碼軟體相關的活動"
+"中，多語言都是可行的。 我們會盡力讓您在這個複雜的世界中生活得更輕鬆。"
