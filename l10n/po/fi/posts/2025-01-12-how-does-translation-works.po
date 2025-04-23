@@ -2,17 +2,21 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
+# Ricky Tigg <ricky.tigg@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-04-23 16:42+0000\n"
+"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
+"Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2025-01-12-how-does-translation-works/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.11\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -24,13 +28,13 @@ msgstr ""
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Alueellistaminen"
 
 #. type: Yaml Front Matter Hash Value: title
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Où sont les traductions ?"
-msgstr ""
+msgstr "Missä käännökset ovat?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:12
@@ -42,12 +46,17 @@ msgid ""
 "\"2020-07-03-contribute-to-fedora.md\" >}}), regardons où sont les "
 "traductions d'un logiciel.\n"
 msgstr ""
+"Selityksen jälkeen, että suuri osa planeetasta [ei puhu englantia]({{< "
+"relref \"2020-06-12-80-percent.md\" >}}), ja sitten selityksen jälkeen, "
+"kuinka osallistua Fedora-jakeluun]({{< relref "
+"\"2020-07-03-contribute-to-fedora.md\" >}}), katsotaanpa, missä ohjelmiston "
+"käännökset ovat.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
 #, markdown-text, no-wrap
 msgid "Les traductions font partie intégrante du code"
-msgstr ""
+msgstr "Käännökset ovat osa koodia"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:20
@@ -309,7 +318,7 @@ msgstr ""
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:84
 #, markdown-text, no-wrap
 msgid "Conclusion"
-msgstr ""
+msgstr "Yhteenveto"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:87
