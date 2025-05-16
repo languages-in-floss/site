@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-02-25 23:09+0100\n"
-"PO-Revision-Date: 2025-05-01 10:55+0000\n"
+"PO-Revision-Date: 2025-05-16 12:26+0000\n"
 "Last-Translator: \"Fco. Javier F. Serrador\" <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-02-25-slow-and-dead-software/es/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.1\n"
+"X-Generator: Weblate 5.11.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
@@ -34,7 +34,7 @@ msgstr "Regionalización"
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
 #, no-wrap
 msgid "Que faire pour les logiciels avec peu ou pas de nouvelles versions ?"
-msgstr ""
+msgstr "¿Qué hacer con el software con pocas o ninguna versión nueva?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:12
@@ -43,6 +43,8 @@ msgid ""
 "Dans les articles précédents, on a vu que les traductions sont des fichiers "
 "publiés en même temps que le logiciel."
 msgstr ""
+"En artículos anteriores, vimos que las traducciones son archivos que se "
+"publican al mismo tiempo que el software."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:15
@@ -52,6 +54,9 @@ msgid ""
 "l’aimez bien, il répond à votre besoin.  Cependant, des problèmes de "
 "traduction vous gênent, certains menus ne sont pas traduits."
 msgstr ""
+"Imaginemos la siguiente situación: acabas de descubrir un programa que te "
+"gusta y satisface tus necesidades. Sin embargo, te preocupan los problemas "
+"de traducción; algunos menús no están traducidos."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:17
@@ -60,6 +65,9 @@ msgid ""
 "Après avoir deviné où se trouvait ce projet sur les internets, vous vous "
 "rendez compte que ce logiciel ne sort au mieux qu’une version par an."
 msgstr ""
+"Después de adivinar dónde se encuentra este proyecto en Internet, te das "
+"cuenta de que este software solo lanza una versión por año en el mejor de "
+"los casos."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:22
@@ -73,6 +81,12 @@ msgid ""
 "destination, la vôtre.  Tout le reste n’est qu’une barrière à l’entrée "
 "limitant le nombre de personnes pouvant apporter leur aide."
 msgstr ""
+"Esto significa que, en el mejor de los casos, si el proyecto sigue activo y "
+"tus cambios se fusionan, probablemente pasarán varios meses antes de que tu "
+"trabajo esté disponible para otros usuarios. ¡Incluyéndote a ti! Porque sí, "
+"traducir solo requiere dos cosas: comprender el idioma de origen y dominar "
+"el idioma de destino, el tuyo. Todo lo demás es solo una barrera de entrada, "
+"limitando el número de personas que pueden ayudar."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:26
@@ -85,6 +99,12 @@ msgid ""
 "traduction avec beaucoup d’attention, il ne sera pas bienvenu de demander "
 "une sortie plus rapide pour compléter ou corriger une traduction."
 msgstr ""
+"Y no se puede hacer nada con respecto a la velocidad de lanzamiento del "
+"software. Independientemente de su naturaleza, lanzar una nueva versión "
+"requiere mucho esfuerzo, reflexión, pruebas, coordinación y comunicación. A "
+"menos que el proyecto esté lo suficientemente maduro y se tome la traducción "
+"en serio, no será bienvenido solicitar una versión anticipada para completar "
+"o corregir una traducción."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:29
@@ -95,6 +115,9 @@ msgid ""
 "et le projet que vous aimez n’a pas vu de nouvelles versions depuis "
 "plusieurs années."
 msgstr ""
+"A veces, esta energía es tan intensa que solo se lanza un software al año. "
+"Otras veces, esta energía ha consumido al autor del proyecto, y el proyecto "
+"que amas no ha visto una nueva versión en varios años."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:32
@@ -104,12 +127,14 @@ msgid ""
 "impasse… Sauf si… votre distribution Linux permet de surcharger les "
 "traductions !"
 msgstr ""
+"Aunque este software funcione bien, estás en apuros... ¡A menos que... tu "
+"distribución de Linux permita la sobrecarga de traducción!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:34
 #, markdown-text
 msgid "C’est exactement ce que fait le projet Ubuntu."
-msgstr ""
+msgstr "Esto es exactamente lo que hace el proyecto Ubuntu."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:38
@@ -121,12 +146,17 @@ msgid ""
 "traductrices, 50 groupes de traduction… Impressionnant ? Anecdotique ? Je "
 "vous en parlerai dans un futur article."
 msgstr ""
+"Ubuntu te permite traducir una gran cantidad de software a través de su "
+"plataforma https://translations.launchpad.net/ Es una plataforma bastante "
+"grande: 3.151.497 canales en 63.017 archivos, 386 idiomas, 88.145 "
+"traductores, 50 grupos de traducción... ¿Impresionante? ¿Anecdótico? Te lo "
+"contaré en un próximo artículo."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:40
 #, markdown-text
 msgid "Comment ça fonctionne ?"
-msgstr ""
+msgstr "¿Cómo funciona?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:45
@@ -141,6 +171,13 @@ msgid ""
 "utilisateurices d’Ubuntu, sans avoir à attendre une nouvelle version du "
 "logiciel."
 msgstr ""
+"Como una distribución es un mecanismo enorme para distribuir/entregar "
+"software a los usuarios, las traducciones se entregan a través de una ruta "
+"separada del software. Técnicamente en el ordenador del usuario no cambia "
+"nada, cada software tiene sus propias traducciones. Pero en términos de "
+"actualizaciones, las traducciones se pueden actualizar sin actualizar el "
+"software. Esto permite que se publiquen nuevas traducciones para los "
+"usuarios de Ubuntu sin tener que esperar una nueva versión del software."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:47
@@ -151,6 +188,10 @@ msgid ""
 "comment ce projet souhaite me contribuer ! Pour rappel, exiger l’usage de "
 "git est une barrière immense pour beaucoup."
 msgstr ""
+"¡Genial! ¡Objetivo cumplido! ¡Puedo traducir el software que me gusta, sin "
+"necesidad de saber si está vivo, dinámico o incluso buscar dónde y cómo este "
+"proyecto quiere aportarme! Como recordatorio, exigir el uso de git es una "
+"gran barrera para muchos."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:51
@@ -160,6 +201,9 @@ msgid ""
 "bénéficient pas.  Le projet en question, même si lent ou inactif n’en "
 "bénéficie pas."
 msgstr ""
+"Excepto que es sólo para Ubuntu. Otras distribuciones de Linux no se "
+"benefician de esto. El proyecto en cuestión, aunque sea lento o inactivo, no "
+"se beneficia de ello."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:58
@@ -178,6 +222,19 @@ msgid ""
 "Sans connaître les relations entre les communautés Ubuntu et GNOME, qui sont "
 "potentiellement excellentes, je vois ici un risque de conflit."
 msgstr ""
+"Peor aún, a veces es trabajo duplicado, dentro del proyecto Ubuntu podemos "
+"sobrescribir el trabajo de otros proyectos. En unos minutos, encuentro un "
+"proyecto que forma parte del ámbito de GNOME ([gnome-remote-desktop en "
+"Launchpad](https://translations.launchpad.net/ubuntu/plucky/+source/"
+"gnome-remote-desktop/+pots/gnome-remote-desktop/fr/"
+"+translate?show=untranslated) y [gnome-remote-desktop en gitlab](https://"
+"gitlab.gnome.org/GNOME/gnome-remote-desktop/-/blob/master/po/"
+"fr.po?ref_type=heads)). En GitLab, vemos una contribución que no está en "
+"Launchpad, por lo que es posible traducir fuera de Launchpad. Sí, a través "
+"de [l10n.gnome.org…](https://l10n.gnome.org/vertimus/gnome-remote-desktop/"
+"master/po/fr/level1/). Este proyecto no debería estar en Launchpad, así que ¿"
+"por qué está ahí? Sin conocer la excelente relación que existe entre las "
+"comunidades de Ubuntu y GNOME, veo un posible conflicto."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:63
@@ -192,6 +249,14 @@ msgid ""
 "iels auraient créé un outil du même niveau de qualité que Pontoon ou "
 "Weblate."
 msgstr ""
+"Finalmente, Launchpad es un enorme software que desempeña muchas funciones "
+"en la comunidad de Ubuntu, no solo la traducción. No sé qué tan bien "
+"Launchpad hace su trabajo de ayudar a la comunidad de Ubuntu, pero como "
+"plataforma de traducción, es una herramienta muy limitada y arcaica. Y eso "
+"es normal, una plataforma de traducción cuesta mucho en términos de "
+"conocimientos y habilidades. Si la traducción fuera una prioridad para la "
+"compañía Ubuntu, habrían creado una herramienta del mismo nivel de calidad "
+"que Pontoon o Weblate."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:64
@@ -200,3 +265,5 @@ msgid ""
 "Il y a du bon dans ce que fait Ubuntu, merci à eux de démontrer que c’est "
 "possible."
 msgstr ""
+"Hay cosas buenas en lo que hace Ubuntu, gracias a ellos por demostrar que es "
+"posible."

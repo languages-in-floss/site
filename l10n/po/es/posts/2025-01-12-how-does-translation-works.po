@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-05-01 10:55+0000\n"
+"PO-Revision-Date: 2025-05-16 12:26+0000\n"
 "Last-Translator: \"Fco. Javier F. Serrador\" <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-01-12-how-does-translation-works/es/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.1\n"
+"X-Generator: Weblate 5.11.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -34,7 +34,7 @@ msgstr "Regionalización"
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Où sont les traductions ?"
-msgstr ""
+msgstr "¿Dónde están las traducciones?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:12
@@ -46,12 +46,17 @@ msgid ""
 "\"2020-07-03-contribute-to-fedora.md\" >}}), regardons où sont les "
 "traductions d'un logiciel.\n"
 msgstr ""
+"Después de explicar que una gran parte del planeta [no habla inglés]({{< "
+"relref \"2020-06-12-80-percent.md\" >}}), entonces "
+"[explicó cómo contribuir a la distribución Fedora]({{< relref "
+"\"2020-07-03-contribute-to-fedora.md\" >}}), veamos dónde están las "
+"traducciones de un software.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
 #, markdown-text, no-wrap
 msgid "Les traductions font partie intégrante du code"
-msgstr ""
+msgstr "Las traducciones son una parte integral del código"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:20
@@ -68,6 +73,17 @@ msgid ""
 "Chaque fichier possède ses avantages et inconvénients, cela entre le domaine "
 "de l'internationalisation des logiciels, souvent abrégé `i18n`."
 msgstr ""
+"Las traducciones son archivos que forman parte integral del código fuente "
+"necesario para ejecutar el programa.  El formato del archivo que contiene "
+"las traducciones varía según las herramientas utilizadas por el equipo de "
+"desarrollo. Para tener una idea de los principales formatos de archivo, "
+"resulta útil la "
+"[lista de formatos admitidos por la plataforma de traducción Weblate]"
+"(https://docs.weblate.org/es/latest/formats.html) es interesante.  En "
+"términos generales, el formato Gettext es el más utilizado para software "
+"compilado/de escritorio, y el formato Json para software web.  Cada archivo "
+"tiene sus ventajas y desventajas, esto entra dentro del ámbito de la "
+"internacionalización del software, muchas veces abreviado como 'i18n'."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
@@ -129,7 +145,7 @@ msgstr ""
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:37
 #, markdown-text, no-wrap
 msgid "Traduisible... mais archaïque !"
-msgstr ""
+msgstr "Traducible... ¡pero arcaico!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:40
@@ -140,6 +156,9 @@ msgid ""
 "[lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) contient un "
 "fichier json par langue."
 msgstr ""
+"Jitsi Meet es un software de videoconferencia en línea, en su código fuente, "
+"una carpeta [lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) "
+"contiene un archivo json por idioma."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:42
@@ -148,6 +167,8 @@ msgid ""
 "Chaque traduction doit faire l'œuvre d'une demande d'intégration, c'est "
 "compliqué et chronophage."
 msgstr ""
+"Cada traducción debe enviarse junto con una solicitud de integración, lo "
+"cual es complicado y requiere mucho tiempo."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:45
@@ -220,7 +241,7 @@ msgstr ""
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:62
 #, markdown-text, no-wrap
 msgid "Efficace... mais très spécifique Mozilla"
-msgstr ""
+msgstr "Eficaz... pero muy específico de Mozilla"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:65
@@ -258,7 +279,7 @@ msgstr ""
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:72
 #, markdown-text, no-wrap
 msgid "Automatisé et générique, la modernité émancipatrice"
-msgstr ""
+msgstr "Modernidad automatizada y genérica, emancipadora"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:75
@@ -322,6 +343,8 @@ msgid ""
 "L'articulation entre la vie technique du projet et les traductions est "
 "cruciale pour l'efficacité des processus de traduction."
 msgstr ""
+"La articulación entre la vida técnica del proyecto y las traducciones es "
+"crucial para la eficiencia de los procesos de traducción."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:89
@@ -330,6 +353,8 @@ msgid ""
 "Des outils remplis de fonctionnalités intéressantes et d'automatisation "
 "existent pour faciliter la vie de tout le monde."
 msgstr ""
+"Hay herramientas repletas de funciones interesantes y automatización para "
+"hacer la vida de todos más fácil."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:91
@@ -339,6 +364,9 @@ msgid ""
 "logiciels contiennent toujours plus de traductions et qu'un nombre croissant "
 "de langues soient prises en charge."
 msgstr ""
+"Depende de los equipos de desarrollo aprovechar esto para que el software "
+"contenga cada vez más traducciones y sea compatible con un número cada vez "
+"mayor de idiomas."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:93
@@ -348,3 +376,6 @@ msgid ""
 "Comment faire pour compenser un projet endormi ? Cela sera l'objet d'un "
 "futur article."
 msgstr ""
+"Pero ¿qué ocurre cuando el proyecto no lanza nuevas versiones? ¿Cómo se "
+"puede compensar un proyecto inactivo? Este será el tema de un próximo "
+"artículo."
