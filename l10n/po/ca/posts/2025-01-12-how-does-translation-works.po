@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-03-03 07:50+0000\n"
+"PO-Revision-Date: 2025-05-26 07:09+0000\n"
 "Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
 "Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-01-12-how-does-translation-works/ca/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.2\n"
+"X-Generator: Weblate 5.11.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -34,7 +34,7 @@ msgstr "Regionalització"
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Où sont les traductions ?"
-msgstr ""
+msgstr "On són les traduccions?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:12
@@ -51,7 +51,7 @@ msgstr ""
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
 #, markdown-text, no-wrap
 msgid "Les traductions font partie intégrante du code"
-msgstr ""
+msgstr "Les traduccions són una part integral del codi"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:20
@@ -73,7 +73,7 @@ msgstr ""
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
 #, markdown-text, no-wrap
 msgid "La conséquence sur le travail de traduction"
-msgstr ""
+msgstr "L'impacte en el treball de traducció"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:25
@@ -114,7 +114,7 @@ msgstr ""
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:33
 #, markdown-text, no-wrap
 msgid "Processus d'intégration des traductions"
-msgstr ""
+msgstr "Procés d'integració de la traducció"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:36
@@ -124,12 +124,14 @@ msgid ""
 "organisée l'interaction entre les processus de développement logiciel et de "
 "traduction."
 msgstr ""
+"Agafem ara alguns projectes d'exemple per veure com s'organitza la "
+"interacció entre els processos de desenvolupament de programari i traducció."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:37
 #, markdown-text, no-wrap
 msgid "Traduisible... mais archaïque !"
-msgstr ""
+msgstr "Traduïble... però arcaic!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:40
@@ -140,6 +142,9 @@ msgid ""
 "[lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) contient un "
 "fichier json par langue."
 msgstr ""
+"Jitsi Meet és un programari de videoconferència en línia, al seu codi font, "
+"una carpeta [lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) "
+"conté un fitxer json per cada idioma."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:42
@@ -148,6 +153,8 @@ msgid ""
 "Chaque traduction doit faire l'œuvre d'une demande d'intégration, c'est "
 "compliqué et chronophage."
 msgstr ""
+"Cada traducció s'ha d'enviar amb una sol·licitud d'integració, que és "
+"complicada i requereix molt de temps."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:45
@@ -161,6 +168,12 @@ msgid ""
 "il y a eu [8 versions "
 "publiées](https://github.com/jitsi/jitsi-meet/releases) !"
 msgstr ""
+"En pocs minuts, trobo un cas extrem, "
+"[aquesta petició que fa més de 8 mesos que s'espera](https://github.com/"
+"jitsi/jitsi-meet/pull/14754).  Tanmateix, mentrestant, el fitxer que conté "
+"les cadenes que s'ha de traduir pel programari [ja ha canviat 19 vegades]"
+"(https://github.com/jitsi/jitsi-meet/commits/master/lang/main.json) i es van "
+"[publicar 8 versions](https://github.com/jitsi/jitsi-meet/releases) !"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:47
@@ -171,6 +184,9 @@ msgid ""
 "d'information sur comment traduire, ni dans le [guide de "
 "contribution](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 msgstr ""
+"No hi ha informació al [readme](https://github.com/jitsi/jitsi-meet/blob/"
+"master/README.md) sobre com traduir, ni a la [guia de contribucions](https://"
+"jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:50
@@ -183,6 +199,12 @@ msgid ""
 "suivre les changements, il faut probablement s'abonner aux changements du "
 "projet github."
 msgstr ""
+"Les comunitats lingüístiques amb molta gent potser aconseguiran dedicar-hi "
+"el temps necessari gràcies al nombre de col·laboradors (i fins i tot "
+"llavors...), totes les altres es deixaran de banda i el programari només "
+"oferirà traduccions actualitzades d'idiomes que ja estan sobrerepresentats.  "
+"Per estar al dia dels canvis, probablement us haureu de subscriure als "
+"canvis del projecte de github."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:53
@@ -194,12 +216,17 @@ msgid ""
 "discussion avec les équipes de Jitsi Meet, cela n'a pas toujours été comme "
 "ça, une plateforme de traduction a déjà été utilisée par le passé."
 msgstr ""
+"Caldrà qüestionar-se l'eficiència d’aquesta manera de treballar. Tot i que "
+"es pot valorar l’esforç per permetre la traducció del programari, lamento la "
+"manca de consideració envers aquest tipus de contribució. No he iniciat cap "
+"conversa amb els equips de Jitsi Meet; no sempre ha estat així, ja que en el "
+"passat ja s’havia utilitzat una plataforma de traducció."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:54
 #, markdown-text, no-wrap
 msgid "Clair... mais très spécifique GNOME"
-msgstr ""
+msgstr "Clar... però molt específic de GNOME"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:61
@@ -215,12 +242,22 @@ msgid ""
 "processus est donc imparfait, manuel, mais l'outillage permet de réduire "
 "fortement le coût de gestion pour les contributeurs et contributrices."
 msgstr ""
+"El projecte GNOME utilitza una versió similar, però centrada en les "
+"necessitats dels equips de traducció.  Per enviar una traducció al "
+"programari final, és obligatori utilitzar git.  Tanmateix, "
+"[hi ha una eina disponible](https://l10n.gnome.org) per als traductors i "
+"traductores que els permet saber amb precisió què cal traduir i col·"
+"laborar.  A més, una llarga llista de programes de l’ecosistema GNOME "
+"segueixen el mateix ritme de noves versions i els mateixos processos de "
+"treball.  El procés, per tant, és imperfecte i manual, però les eines "
+"disponibles permeten reduir molt significativament el cost de gestió per a "
+"les persones que hi contribueixen."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:62
 #, markdown-text, no-wrap
 msgid "Efficace... mais très spécifique Mozilla"
-msgstr ""
+msgstr "Eficaç... però molt específic de Mozilla"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:65
@@ -233,6 +270,12 @@ msgid ""
 "organisé en [équipes de "
 "traduction](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/teams_projects.html))."
 msgstr ""
+"El projecte Mozilla considera la traducció com un tema clau dins la seva "
+"activitat. Si hi voleu contribuir, podeu anar a la "
+"[plataforma de traducció Pontoon](https://pontoon.mozilla.org/projects/"
+"firefox/) (el projecte està organitzat en [equips de traducció](https"
+"://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/"
+"teams_projects.html))."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:67
@@ -241,6 +284,8 @@ msgid ""
 "Savoir ce qui est traduisible est facile, et y trouver des contacts pour "
 "répondre aux questions l'est également."
 msgstr ""
+"Saber què és traduïble és fàcil, i trobar contactes per respondre preguntes "
+"també és fàcil."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:71
@@ -253,12 +298,19 @@ msgid ""
 "en place une équipe et des processus de relecture, tout l'outillage est "
 "spécifique aux projets de Mozilla, mais globalement, c'est plutôt efficace."
 msgstr ""
+"Aquest projecte és enorme, i potser tindreu algunes dificultats per entendre "
+"les etapes entre la plataforma de traducció i les versions del programari, "
+"però... és realment un problema? El sistema funciona bé: les dates de "
+"llançament del programari són conegudes, les prioritats estan definides.  "
+"Perdreu una mica de temps a crear un equip i establir processos de revisió, "
+"i totes les eines són específiques dels projectes de Mozilla, però en "
+"general és força eficaç."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:72
 #, markdown-text, no-wrap
 msgid "Automatisé et générique, la modernité émancipatrice"
-msgstr ""
+msgstr "Automatitzat i genèric, la modernitat emancipadora"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:75
@@ -268,6 +320,8 @@ msgid ""
 "permettant de s'abonner en cas de changements, de travailler à plusieurs, "
 "d'avoir des détections d'anomalies."
 msgstr ""
+"És possible oferir una eina dedicada a les activitats de traducció, que "
+"permeti subscriure’s als canvis, treballar en equip i detectar anomalies."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:77
@@ -276,6 +330,8 @@ msgid ""
 "Et, bonus ultime, d'avoir une synchronisation automatique avec le code "
 "source du logiciel."
 msgstr ""
+"I, com a bonus final, tenir una sincronització automàtica amb el codi font "
+"del programari."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:79
@@ -288,6 +344,12 @@ msgid ""
 "traductions](https://hosted.weblate.org/changes/browse/weblate/?action=13&action=30&user=&period=) "
 "sont faciles à trouver."
 msgstr ""
+"Un exemple excel·lent: la plataforma de traducció Weblate mostra el camí a "
+"seguir, tot està connectat i automatitzat. Les [modificacions de traduccions]"
+"(https://github.com/WeblateOrg/weblate/commits/main/?author=weblate) són "
+"nombroses, i els [canvis que afecten les traduccions](https://"
+"hosted.weblate.org/changes/browse/weblate/?action=13&action=30&user=&period=)"
+" es poden trobar fàcilment."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:81
@@ -298,6 +360,10 @@ msgid ""
 "traduction, Weblate est devenu aussi évident et efficient que git pour la "
 "gestion du code source pour le développement logiciel."
 msgstr ""
+"Molts projectes utilitzen Weblate, és la decisió que hauries de prendre, "
+"sigui quin sigui el teu context. Dins l’ecosistema de plataformes de "
+"traducció, Weblate s’ha convertit en tan evident i eficient com git per a la "
+"gestió del codi font en el desenvolupament de programari."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:83
