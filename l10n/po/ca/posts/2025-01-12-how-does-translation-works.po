@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-05-26 07:09+0000\n"
+"PO-Revision-Date: 2025-05-27 03:28+0000\n"
 "Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
 "Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-01-12-how-does-translation-works/ca/>\n"
@@ -46,6 +46,11 @@ msgid ""
 "\"2020-07-03-contribute-to-fedora.md\" >}}), regardons où sont les "
 "traductions d'un logiciel.\n"
 msgstr ""
+"Després d’haver explicat que una gran part del planeta [no parla anglès]({{< "
+"relref \"2020-06-12-80-percent.md\" >}}), i d’haver mostrat "
+"[com contribuir a la distribució Fedora]({{< relref "
+"\"2020-07-03-contribute-to-fedora.md\" >}}), vegem ara on es troben les "
+"traduccions d’un programari.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
@@ -68,6 +73,17 @@ msgid ""
 "Chaque fichier possède ses avantages et inconvénients, cela entre le domaine "
 "de l'internationalisation des logiciels, souvent abrégé `i18n`."
 msgstr ""
+"Les traduccions són fitxers que formen part íntegra del codi font necessari "
+"per executar el programa.  El format del fitxer que conté les traduccions "
+"varia segons les eines utilitzades per l’equip de desenvolupament.  Per fer-"
+"se una idea dels formats de fitxer principals, és interessant consultar la "
+"[llista de formats compatibles amb la plataforma de traducció Weblate]"
+"(https://docs.weblate.org/en/latest/formats.html).  En termes generals, el "
+"format Gettext és el més utilitzat per als programes compilats o d’"
+"escriptori, mentre que els formats JSON són més habituals en aplicacions "
+"web.  Cada format té els seus avantatges i inconvenients, i tot això forma "
+"part del camp de la internacionalització del programari, sovint abreujat com "
+"a `i18n`."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
@@ -86,6 +102,12 @@ msgid ""
 "savoir si le changement impacte le sens ou la structure de la phrase, les "
 "changements coûtent cher pour les traducteurs."
 msgstr ""
+"Com que les traduccions formen part del codi font, els traductors han de "
+"lliurar la seva feina a temps perquè cada canvi fet en la versió en curs "
+"pugui ser traduït. El més mínim canvi, fins i tot d’una lletra o un "
+"caràcter, requereix que cada traducció sigui revisada per determinar si el "
+"canvi afecta el significat o l’estructura de la frase. Els canvis tenen, "
+"doncs, un cost elevat per als traductors."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:28
@@ -98,6 +120,12 @@ msgid ""
 "du projet parvienne aux utilisateurs avec une chaîne affichée en anglais au "
 "milieu d'un logiciel déjà partiellement traduit."
 msgstr ""
+"La majoria de vegades, i és ben comprensible, els desenvolupadors i "
+"desenvolupadores no saben adaptar les traduccions quan fan canvis.  Per això "
+"és necessari comptar amb traductors i traductores que segueixin de prop el "
+"desenvolupament del projecte per poder reaccionar amb rapidesa i evitar que "
+"la nova versió arribi als usuaris amb alguna cadena en anglès entremig d’un "
+"programari ja parcialment traduït."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:32
@@ -109,6 +137,10 @@ msgid ""
 "traductrices dans chaque langue pour suivre tous ces projets ? Certainement "
 "pas."
 msgstr ""
+"És aquí on la cosa es complica, hi ha, com a mínim, milers de projectes de "
+"programari lliure, si no centenars de milers. I llengües, n’hi ha també "
+"milers. Podem tenir prou traductors i traductores per a cada llengua que "
+"segueixin tots aquests projectes? Sens dubte, no."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:33
