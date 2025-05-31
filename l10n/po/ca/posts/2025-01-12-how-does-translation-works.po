@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-05-27 03:28+0000\n"
+"PO-Revision-Date: 2025-05-31 11:35+0000\n"
 "Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
 "Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-01-12-how-does-translation-works/ca/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.3\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -406,12 +406,16 @@ msgid ""
 "avec cette large communauté, vous aurez de bonnes chances d'obtenir un outil "
 "traduit en de nombreuses langues."
 msgstr ""
+"Si el vostre projecte proporciona aquesta plataforma, llavors esteu oferint "
+"poder d'acció per a les contribucions lingüístiques, i si cuideu la relació "
+"amb aquesta àmplia comunitat, tindreu moltes possibilitats d'obtenir una "
+"eina traduïda a moltes llengües."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:84
 #, markdown-text, no-wrap
 msgid "Conclusion"
-msgstr ""
+msgstr "Conclusió"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:87
@@ -420,6 +424,8 @@ msgid ""
 "L'articulation entre la vie technique du projet et les traductions est "
 "cruciale pour l'efficacité des processus de traduction."
 msgstr ""
+"L’articulació entre la vida tècnica del projecte i les traduccions és "
+"crucial per a l’eficiència dels processos de traducció."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:89
@@ -428,6 +434,8 @@ msgid ""
 "Des outils remplis de fonctionnalités intéressantes et d'automatisation "
 "existent pour faciliter la vie de tout le monde."
 msgstr ""
+"Hi ha eines plenes de funcionalitats interessants i d'automatització que "
+"existeixen per facilitar la vida de tothom."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:91
@@ -437,6 +445,9 @@ msgid ""
 "logiciels contiennent toujours plus de traductions et qu'un nombre croissant "
 "de langues soient prises en charge."
 msgstr ""
+"Només depèn dels equips de desenvolupament aprofitar-les perquè els "
+"programes continguin cada cop més traduccions i es doni suport a un nombre "
+"creixent de llengües."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:93
@@ -446,3 +457,5 @@ msgid ""
 "Comment faire pour compenser un projet endormi ? Cela sera l'objet d'un "
 "futur article."
 msgstr ""
+"Però què passa quan el projecte no treu noves versions? Com es pot compensar "
+"un projecte adormit? Aquest serà el tema d’un futur article."
