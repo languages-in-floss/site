@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-05-31 11:35+0000\n"
+"PO-Revision-Date: 2025-06-10 23:12+0000\n"
 "Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
 "Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-07-03-contribute-to-fedora/ca/>\n"
@@ -44,11 +44,17 @@ msgid ""
 "Une distribution est un type de projet de logiciel libre spécifique et complexe, sur lequel les objectifs et contraintes influent directement sur la capacité d’action du traducteur.\n"
 "Mais pour vous faciliter la vie, et améliorer celle de ceux [ne parlant pas anglais]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora met à disposition une plateforme de traduction.\n"
 msgstr ""
+"Una distribució és un tipus de projecte de programari lliure específic i "
+"complex, en què els objectius i les limitacions influeixen directament en la "
+"capacitat d'acció del traductor.\n"
+"Però, per facilitar-vos la feina i millorar la vida d’aquells "
+"[que no parlen anglès]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora "
+"posa a disposició una plataforma de traducció.\n"
 
 #. type: Title ##
 #, no-wrap
 msgid "Qu’est-ce qu’une distribution Linux ?"
-msgstr ""
+msgstr "Què és una distribució de Linux?"
 
 #. type: Plain text
 msgid ""
@@ -59,6 +65,11 @@ msgid ""
 "des logiciels afin de les mettre à disposition des utilisateurs et "
 "utilisatrices."
 msgstr ""
+"Una distribució Linux és un conjunt de programes configurats de manera "
+"coherent per tal de respondre a una necessitat tot respectant un seguit de "
+"limitacions.  El nucli d’un projecte de distribució com el projecte Fedora "
+"és una activitat d’enginyeria del programari que permet compilar tots els "
+"programes per posar-los a disposició dels usuaris i usuàries."
 
 #. type: Plain text
 msgid ""
@@ -66,6 +77,8 @@ msgid ""
 "paramétrage sur l’ensemble de mes logiciels tout en facilitant la mise à "
 "jour de ces mêmes logiciels ?"
 msgstr ""
+"La problemàtica principal és: com puc actualitzar la configuració de tots "
+"els meus programes alhora que en facilito l’actualització?"
 
 #. type: Plain text
 msgid ""
@@ -77,11 +90,18 @@ msgid ""
 "créée spécifiquement pour le besoin propre du projet Fedora, tel "
 "l’installeur Anaconda."
 msgstr ""
+"Una distribució conté una quantitat molt important de programes: més de "
+"30.000 en el cas de Fedora ([font](https://src.fedoraproject.org/projects/"
+"rpms/*)).  La gran majoria d’aquests programes provenen d’equips que no "
+"tenen cap vincle directe amb el projecte Fedora, com ara el navegador "
+"Mozilla Firefox o la suite ofimàtica LibreOffice.  Una minoria de programes "
+"és creada específicament per satisfer les necessitats pròpies del projecte "
+"Fedora, com ara l’instal·lador Anaconda."
 
 #. type: Title ##
 #, no-wrap
 msgid "La distribution Linux Fedora et ses valeurs"
-msgstr ""
+msgstr "La distribució Fedora Linux i els seus valors"
 
 #. type: Plain text
 msgid ""
@@ -100,6 +120,9 @@ msgid ""
 "Linux », on voit qu’une même série de logiciels peut être paramétrée de "
 "façon différente pour répondre à des objectifs distincts."
 msgstr ""
+"Veiem aquí que res no és senzill, darrere del concepte de «distribució Linux»"
+", s’observa que una mateixa sèrie de programes pot ser configurada de manera "
+"diferent per tal de respondre a objectius diversos."
 
 #. type: Plain text
 msgid ""
@@ -116,11 +139,15 @@ msgid ""
 "Fedora et ses quatre fondations : https://docs.fedoraproject.org/en-US/"
 "project/"
 msgstr ""
+"Per a més detalls, us recomano la lectura d’aquesta pàgina que descriu "
+"Fedora i les seves quatre fundacions: "
+"[https://docs.fedoraproject.org/ca/project/](https://docs.fedoraproject.org/"
+"ca/project/)"
 
 #. type: Title ##
 #, no-wrap
 msgid "La conséquence sur le rôle du traducteur dans le projet Fedora"
-msgstr ""
+msgstr "La conseqüència sobre el paper del traductor en el projecte Fedora"
 
 #. type: Plain text
 msgid ""
@@ -149,6 +176,8 @@ msgid ""
 "Pour tout le reste, il faudra trouver où est hébergé le logiciel et "
 "comprendre comment y contribuer.  Mais cela sera le sujet d’un autre article."
 msgstr ""
+"Per a tot la resta, caldrà esbrinar on s’allotja el programari i entendre "
+"com s’hi pot contribuir.  Però això serà el tema d’un altre article."
 
 #. type: Title ##
 #, no-wrap
