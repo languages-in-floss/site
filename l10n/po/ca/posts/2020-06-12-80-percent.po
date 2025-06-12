@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-03-03 07:50+0000\n"
+"PO-Revision-Date: 2025-06-12 19:31+0000\n"
 "Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
 "Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-06-12-80-percent/ca/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.2\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
@@ -25,12 +25,12 @@ msgstr ""
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "butterflyoffire"
-msgstr ""
+msgstr "butterflyoffire"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "quenti"
-msgstr ""
+msgstr "quenti"
 
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
@@ -40,12 +40,12 @@ msgstr "Regionalització"
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Internationalisation"
-msgstr ""
+msgstr "Internacionalització"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "enjeux"
-msgstr ""
+msgstr "reptes"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
@@ -55,7 +55,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
-msgstr ""
+msgstr "Quan 80% de la humanitat no parla anglès"
 
 #. type: Plain text
 msgid ""
@@ -65,11 +65,17 @@ msgid ""
 "complexité et un coût élevé mais unique, qui une fois fait, sous réserve "
 "d’automatisation, autorise un nombre illimité de langues."
 msgstr ""
+"Tot i que l’ecosistema del programari lliure és molt anglosaxó, oferir "
+"suport per a diverses llengües en un programari permet multiplicar per 5 o "
+"per 10 el nombre potencial d’usuaris i usuàries.  Això representa una "
+"complexitat i un cost elevats però únics, que un cop assumits, sempre que hi "
+"hagi automatització, permeten donar suport a un nombre il·limitat de "
+"llengües."
 
 #. type: Title ##
 #, no-wrap
 msgid "Un écosystème très anglophone"
-msgstr ""
+msgstr "Un ecosistema molt anglòfon"
 
 #. type: Plain text
 msgid ""
@@ -108,7 +114,7 @@ msgstr ""
 #. type: Title ##
 #, no-wrap
 msgid "Une population mondiale peu anglophone"
-msgstr ""
+msgstr "Una població mundial poc anglòfona"
 
 #. type: Plain text
 msgid ""
@@ -161,7 +167,7 @@ msgstr ""
 #. type: Title ##
 #, no-wrap
 msgid "La complexité de l’internationalisation"
-msgstr ""
+msgstr "La complexitat de la internacionalització"
 
 #. type: Plain text
 msgid "Prendre en charge de multiples langues nécessite :"
