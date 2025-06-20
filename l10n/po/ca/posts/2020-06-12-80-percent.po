@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-06-17 07:01+0000\n"
+"PO-Revision-Date: 2025-06-20 02:25+0000\n"
 "Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
 "Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-06-12-80-percent/ca/>\n"
@@ -48,9 +48,9 @@ msgid "enjeux"
 msgstr "reptes"
 
 #. type: Yaml Front Matter Array Element: tags
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "partage"
-msgstr ""
+msgstr "compartir"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
@@ -116,12 +116,18 @@ msgid ""
 "plusieurs fragments, variables non nommées, jargon technique intraduisible, "
 "etc.)."
 msgstr ""
+"Per comoditat, les persones que creen programari sovint utilitzen l'anglès "
+"en lloc de la seva llengua materna.  En conseqüència, rarament entenen les "
+"dificultats que es troben durant la traducció: frases tallades en diversos "
+"fragments, variables sense nom clar, argot tècnic intraduïble, etc."
 
 #. type: Plain text
 msgid ""
 "Pire encore, ces personnes peuvent être mise mal à l’aise par le manque de "
 "contrôle sur ce qui est effectivement affiché à l’utilisateur."
 msgstr ""
+"Encara pitjor, aquestes persones poden sentir-se incòmodes per la manca de "
+"control sobre allò que realment es mostra a l'usuari."
 
 #. type: Title ##
 #, no-wrap
@@ -136,6 +142,11 @@ msgid ""
 "car il y a toutes les chances pour que cette langue maternelle ne soit pas "
 "celle des développeurs en charge de l’outil."
 msgstr ""
+"Hi ha moltes probabilitats que les persones usuàries tinguin una llengua "
+"materna que no sigui l'anglès.  I animar els desenvolupadors a fer servir la "
+"seva pròpia llengua materna no resol el problema, ja que és molt probable "
+"que aquesta llengua tampoc no coincideixi amb la dels desenvolupadors que "
+"mantenen l’eina."
 
 #. type: Plain text
 msgid ""
@@ -145,6 +156,11 @@ msgid ""
 "être un prérequis pour utiliser le logiciel, en cas d’absence de maîtrise de "
 "l’anglais."
 msgstr ""
+"Sigui quina sigui la seva llengua, els usuaris i usuàries preferiran "
+"utilitzar la seva pròpia llengua per assolir el seu objectiu, ja que això "
+"augmenta la seva comoditat i eficiència.  Fer servir la llengua pròpia pot "
+"ser també un requisit imprescindible per utilitzar el programari, en cas que "
+"no es tingui domini de l'anglès."
 
 #. type: Plain text
 msgid ""
