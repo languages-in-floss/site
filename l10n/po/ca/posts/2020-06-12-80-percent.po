@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-06-20 02:25+0000\n"
+"PO-Revision-Date: 2025-06-21 12:16+0000\n"
 "Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
 "Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-06-12-80-percent/ca/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.1\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
@@ -173,6 +173,14 @@ msgid ""
 "si on considère les personnes ayant un niveau natif ou courant, nous "
 "descendons à 9 %."
 msgstr ""
+"En detall, existeixen estimacions de població per llengua i territori "
+"proporcionades pel consorci Unicode, i més concretament pel CLDR.  "
+"[Aquestes estimacions indiquen que el 21 %](https://github.com/unicode-org/"
+"cldr/commits/master/tools/java/org/unicode/cldr/util/data/"
+"country_language_population_raw.txt) dels habitants del planeta parlarien "
+"anglès.  Però cal tenir en compte que parlar inclou situacions molt diverses:"
+" si considerem només les persones amb un nivell nadiu o fluid, aquest "
+"percentatge baixa fins al 9 %."
 
 #. type: Plain text
 msgid ""
@@ -184,6 +192,13 @@ msgid ""
 "est possible de ne pas connaître la langue source du logiciel, mais "
 "d’utiliser une autre langue comme pivot pour réaliser une traduction."
 msgstr ""
+"L'objectiu, en voler augmentar el nombre d'usuaris i usuàries, és també "
+"incrementar el nombre potencial de persones contribuïdores. Moltes faran els "
+"seus primers passos corregint una traducció o realitzant-ne una de completa, "
+"i després podran continuar col·laborant en activitats més o menys tècniques ("
+"comunicació, assistència, documentació, proves, programació...).  És "
+"possible no conèixer la llengua original del programari, però utilitzar-ne "
+"una altra com a llengua pont per fer la traducció."
 
 #. type: Plain text
 msgid ""
@@ -191,6 +206,8 @@ msgid ""
 "faut ajouter le support linguistique.  C’est ce qu’on appelle "
 "l’internationalisation."
 msgstr ""
+"Per poder multiplicar els usuaris i usuàries potencials, cal afegir el "
+"suport lingüístic.  Això és el que s’anomena internacionalització."
 
 #. type: Title ##
 #, no-wrap
@@ -199,13 +216,15 @@ msgstr "La complexitat de la internacionalització"
 
 #. type: Plain text
 msgid "Prendre en charge de multiples langues nécessite :"
-msgstr ""
+msgstr "Donar suport a múltiples llengües requereix:"
 
 #. type: Bullet: '* '
 msgid ""
 "d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
 "les contenus à traduire, les traduire et les diffuser)"
 msgstr ""
+"fer servir eines que ofereixin les funcionalitats necessàries (marcar els "
+"continguts a traduir, traduir-los i difondre’ls)"
 
 #. type: Bullet: '* '
 msgid ""
@@ -213,6 +232,9 @@ msgid ""
 "de traduction (quand le code est terminé, il faut informer les personnes "
 "réalisant les traduction et intégrer leurs travaux)"
 msgstr ""
+"canviar els processos de disseny del programari per integrar-hi la tasca de "
+"traducció (quan el codi està acabat, cal informar les persones que fan les "
+"traduccions i integrar la seva feina)"
 
 #. type: Bullet: '* '
 msgid ""
@@ -220,6 +242,9 @@ msgid ""
 "s’intéresser aux codifications, aux formats de traduction, aux pluriels, à "
 "l’outillage adapté, etc."
 msgstr ""
+"respondre a les necessitats pròpies de l'activitat de traducció.  Això "
+"implica tenir en compte les codificacions, els formats de traducció, els "
+"plurals, les eines adequades, etc."
 
 #. type: Plain text
 msgid ""
@@ -228,6 +253,10 @@ msgid ""
 "d’information, la documentation en ligne, les pages man, les notes de "
 "version..."
 msgstr ""
+"I més enllà de la interfície d'usuari, també cal incloure les interfícies de "
+"la línia se comandes, els llocs web de presentació, els butlletins "
+"informatius, la documentació en línia, les pàgines de manual, les notes de "
+"llançament..."
 
 #. type: Plain text
 msgid ""
@@ -236,6 +265,10 @@ msgid ""
 "n’offrent aucune aide, l’expert·e qui devra se débrouiller seul·e ou changer "
 "d’outil."
 msgstr ""
+"Internacionalitzar requereix temps i competències tècniques avançades.  "
+"Malauradament, algunes de les eines utilitzades pels programes no ofereixen "
+"cap tipus d’ajuda, i l’expert o l’experta s’haurà d’espavilar tot sol o "
+"canviar d’eina."
 
 #. type: Plain text
 msgid ""
@@ -247,11 +280,18 @@ msgid ""
 "d’énergie pour une langue ayant un nombre de locuteurs très faibles.  Et à "
 "notre époque, ne pas exister sur les outils numériques est dangereux."
 msgstr ""
+"La bona notícia és que aquest treball només cal fer-lo una vegada per a un "
+"nombre teòricament il·limitat de llengües.  És una bona notícia perquè avui "
+"dia existeixen entre 7.000 i 9.000 llengües, de les quals gairebé 2.500 "
+"estan en risc de desaparició.  Si calgués fer un treball específic per a "
+"cada llengua, pocs serien els desenvolupadors i desenvolupadores disposats a "
+"dedicar-hi energia per a una llengua amb molt pocs parlants.  I en l’era "
+"actual, no existir en les eines digitals és perillós."
 
 #. type: Title ##
 #, no-wrap
 msgid "Le rôle de Languages-in-floss"
-msgstr ""
+msgstr "El paper de les Llengues-en-floss"
 
 #. type: Plain text
 msgid ""
