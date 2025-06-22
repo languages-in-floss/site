@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-06-21 12:16+0000\n"
+"PO-Revision-Date: 2025-06-22 20:11+0000\n"
 "Last-Translator: naly zzwd <xeanhort007@gmail.com>\n"
 "Language-Team: Catalan <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-06-12-80-percent/ca/>\n"
@@ -55,7 +55,7 @@ msgstr "compartir"
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
-msgstr "Quan 80% de la humanitat no parla anglès"
+msgstr "Quan el 80% de la humanitat no parla anglès"
 
 #. type: Plain text
 msgid ""
@@ -65,9 +65,9 @@ msgid ""
 "complexité et un coût élevé mais unique, qui une fois fait, sous réserve "
 "d’automatisation, autorise un nombre illimité de langues."
 msgstr ""
-"Tot i que l’ecosistema del programari lliure és molt anglosaxó, oferir "
+"Tot i que l'ecosistema del programari lliure és molt anglosaxó, oferir "
 "suport per a diverses llengües en un programari permet multiplicar per 5 o "
-"per 10 el nombre potencial d’usuaris i usuàries.  Això representa una "
+"per 10 el nombre potencial d'usuaris i usuàries.  Això representa una "
 "complexitat i un cost elevats però únics, que un cop assumits, sempre que hi "
 "hagi automatització, permeten donar suport a un nombre il·limitat de "
 "llengües."
@@ -87,10 +87,10 @@ msgid ""
 "voudront juste atteindre leur but le plus rapidement possible."
 msgstr ""
 "El món del programari lliure i de codi obert és molt divers, i abasta des de "
-"les capes d’interacció amb el maquinari fins als programes que utilitzem "
+"les capes d'interacció amb el maquinari fins als programes que utilitzem "
 "diàriament als nostres ordinadors i telèfons.  Totes aquestes eines "
 "existeixen només degut a les seves persones usuàries i per a ells.  Algunes "
-"s’interessaran per l’eina i hi contribuiran, d’altres només voldran assolir "
+"s'interessaran per l'eina i hi contribuiran, d'altres només voldran assolir "
 "el seu objectiu com més de pressa millor."
 
 #. type: Plain text
@@ -146,7 +146,7 @@ msgstr ""
 "materna que no sigui l'anglès.  I animar els desenvolupadors a fer servir la "
 "seva pròpia llengua materna no resol el problema, ja que és molt probable "
 "que aquesta llengua tampoc no coincideixi amb la dels desenvolupadors que "
-"mantenen l’eina."
+"mantenen l'eina."
 
 #. type: Plain text
 msgid ""
@@ -224,7 +224,7 @@ msgid ""
 "les contenus à traduire, les traduire et les diffuser)"
 msgstr ""
 "fer servir eines que ofereixin les funcionalitats necessàries (marcar els "
-"continguts a traduir, traduir-los i difondre’ls)"
+"continguts a traduir, traduir-los i difondre'ls)"
 
 #. type: Bullet: '* '
 msgid ""
@@ -291,7 +291,7 @@ msgstr ""
 #. type: Title ##
 #, no-wrap
 msgid "Le rôle de Languages-in-floss"
-msgstr "El paper de les Llengues-en-floss"
+msgstr "El paper de Languages-in-floss"
 
 #. type: Plain text
 msgid ""
