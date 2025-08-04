@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-01-15 17:46+0000\n"
+"PO-Revision-Date: 2025-08-04 20:59+0000\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
 "projects/languages-in-floss/posts2025-01-12-how-does-translation-works/pt_BR/"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -248,12 +248,17 @@ msgid ""
 "discussion avec les équipes de Jitsi Meet, cela n'a pas toujours été comme "
 "ça, une plateforme de traduction a déjà été utilisée par le passé."
 msgstr ""
+"A eficiência dessa forma de trabalhar é questionável. Embora possamos "
+"aplaudir o esforço para viabilizar a tradução do software, lamento a falta "
+"de consideração por esse tipo de contribuição. Não participei de discussões "
+"com as equipes do Jitsi Meet; nem sempre foi assim; uma plataforma de "
+"tradução já foi utilizada no passado."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:54
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "Clair... mais très spécifique GNOME"
-msgstr ""
+msgstr "Claro... mas muito específico do GNOME"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:61
@@ -269,12 +274,21 @@ msgid ""
 "processus est donc imparfait, manuel, mais l'outillage permet de réduire "
 "fortement le coût de gestion pour les contributeurs et contributrices."
 msgstr ""
+"O projeto GNOME utiliza uma versão semelhante, mas focada nas necessidades "
+"das equipes de tradução. Para enviar uma tradução para o software final, é "
+"obrigatório o uso do Git. No entanto, uma [ferramenta está disponível]"
+"(https://l10n.gnome.org) para os tradutores, permitindo que eles saibam "
+"precisamente o que precisa ser traduzido e colaborem. Além disso, uma longa "
+"lista de softwares no ecossistema GNOME segue o mesmo cronograma de "
+"lançamento e fluxos de trabalho. O processo é, portanto, imperfeito e "
+"manual, mas as ferramentas reduzem significativamente os custos de "
+"gerenciamento para os colaboradores."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:62
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid "Efficace... mais très spécifique Mozilla"
-msgstr ""
+msgstr "Eficaz... mas muito específico da Mozilla"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:65
@@ -287,6 +301,11 @@ msgid ""
 "organisé en [équipes de "
 "traduction](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/teams_projects.html))."
 msgstr ""
+"O projeto Mozilla considera a tradução uma área-chave de sua atividade. Se "
+"você quiser contribuir, pode visitar a [plataforma de tradução Pontoon]"
+"(https://pontoon.mozilla.org/projects/firefox/) (o projeto é organizado em "
+"[equipes de tradução](https://mozilla-l10n.github.io/localizer-documentation/"
+"tools/pontoon/teams_projects.html))."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:67
