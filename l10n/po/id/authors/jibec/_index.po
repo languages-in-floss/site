@@ -1,25 +1,27 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Arif Budiman <arifpedia@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2020-07-15 13:56+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-10 16:49+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/authorsjibec_index/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.2\n"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:7
 #, markdown-text
 msgid "Mes contributions :"
-msgstr ""
+msgstr "Kontribusi saya:"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -29,6 +31,9 @@ msgid ""
 "[Weblate](https://translate.fedoraproject.org/stats/) ([plan de "
 "migration](https://fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 msgstr ""
+"memindahkan distribusi Linux Fedora ke platform terjemahan [Weblate](https://"
+"translate.fedoraproject.org/stats/) ([rencana migrasi](https://"
+"fedoraproject.org/wiki/L10N_Move_to_Weblate))"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -38,6 +43,8 @@ msgid ""
 "documentation](https://fedoraproject.org/wiki/User:Jibecfed/fedoradoc-antora-localization) "
 "de la distribution Linux Fedora"
 msgstr ""
+"[Internasionalisasi dokumentasi](https://fedoraproject.org/wiki/User:"
+"Jibecfed/fedoradoc-antora-localization) distribusi Linux Fedora"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
@@ -47,21 +54,23 @@ msgid ""
 "traductions](https://pagure.io/fedora-localization-statistics) de la "
 "distribution Linux fedora"
 msgstr ""
+"Pembuatan [statistik kemajuan terjemahan](https://pagure.io/fedora-"
+"localization-statistics) untuk distribusi Linux Fedora"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:12
 #, markdown-text
 msgid "Création du site [Languages in FLOSS](https://languages-in-floss.eu)"
-msgstr ""
+msgstr "Pembuatan situs [Languages in FLOSS](https://languages-in-floss.eu)"
 
 #. type: Plain text
 #: ./content/fr/authors/jibec/_index.md:14
 #, markdown-text
 msgid "Autre éléments :"
-msgstr ""
+msgstr "Hal-hal lain:"
 
 #. type: Bullet: '* '
 #: ./content/fr/authors/jibec/_index.md:15
 #, markdown-text
 msgid "[Mon blog](https://jibecfed.fedorapeople.org/blog-hugo/)"
-msgstr ""
+msgstr "[Blog saya](https://jibecfed.fedorapeople.org/blog-hugo/)"

@@ -1,19 +1,21 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Arif Budiman <arifpedia@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-10 16:49+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/pagecontribute/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.2\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
@@ -48,3 +50,7 @@ msgid ""
 "jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
 "(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
+"Untuk menghubungi kami, Anda dapat menggunakan ruang obrolan **traducteurs** "
+"di jaringan jabberfr: [tautan xmpp](xmpp://traducteurs@chat.jabberfr.org), "
+"[tautan web](https://chat.jabberfr.org/converse.js/"
+"traducteurs@chat.jabberfr.org)"

@@ -1,24 +1,26 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Arif Budiman <arifpedia@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-10 16:49+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/about/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.2\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "À propos"
-msgstr ""
+msgstr "Tentang"
 
 #. type: Plain text
 #, no-wrap
@@ -26,18 +28,29 @@ msgid ""
 "Nous sommes trois contributeurs, [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) et [ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), intervenants de façon directe aux langues suivantes: le français, l'occitan, l'arabe et le kabyle.\n"
 "Par rebond, nous encourageons toute personne souhaitant traduire ou permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
+"Kami terdiri dari tiga kontributor, yaitu [Jean-Baptiste]({{< relref "
+"\"/authors/jibec\" >}}), [Quenti]({{< relref \"/authors/quenti\" >}}) dan "
+"[ButterFlyOfFire]({{< relref \"/authors/butterflyoffire\" >}}), yang secara "
+"langsung berkontribusi dalam bahasa-bahasa berikut: Prancis, Occitan, Arab, "
+"dan Kabyle.\n"
+"Kami juga mendorong siapa pun yang ingin menerjemahkan atau memungkinkan "
+"terjemahan konten ke dalam bahasanya.\n"
 
 #. type: Plain text
 msgid ""
 "De part nos expériences de traducteurs, nous avons éprouvé le monde du "
 "logiciel libre :"
 msgstr ""
+"Berdasarkan pengalaman kami sebagai penerjemah, kami telah menjelajahi dunia "
+"perangkat lunak bebas:"
 
 #. type: Bullet: '* '
 msgid ""
 "nous avons testé des dizaines de plateformes de traduction, et savons "
 "administrer et héberger certaines,"
 msgstr ""
+"kami telah menguji puluhan platform terjemahan dan mampu mengelola serta "
+"menghosting beberapa di antaranya,"
 
 #. type: Bullet: '* '
 msgid ""
@@ -45,6 +58,8 @@ msgid ""
 "logiciel, une distribution (Ubuntu, Fedora...) ou un écosystème (Linux, "
 "Android...)"
 msgstr ""
+"kami memahami proses penerjemahan dalam perangkat lunak, distribusi (Ubuntu, "
+"Fedora, dll.) atau ekosistem (Linux, Android, dll.)"
 
 #. type: Plain text
 msgid ""
@@ -52,6 +67,9 @@ msgid ""
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
 msgstr ""
+"Dalam konteks ini, inisiatif Languages-in-floss bertujuan untuk berbagi "
+"pengalaman lapangan kami dalam menangani bahasa Prancis, Arab, Kabyle, dan "
+"Occitan."
 
 #. type: Plain text
 msgid ""
@@ -60,6 +78,10 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"Apakah Anda seorang pegiat bahasa atau seorang pengembang, Anda akan "
+"menemukan bahwa multibahasa adalah hal yang mungkin dalam segala aktivitas "
+"yang berkaitan dengan perangkat lunak bebas dan sumber terbuka. Kami akan "
+"berusaha memudahkan Anda dalam dunia yang kompleks ini."
 
 #. type: Plain text
 msgid ""
@@ -67,3 +89,7 @@ msgid ""
 "jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
 "(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
+"Untuk menghubungi kami, Anda dapat menggunakan ruang obrolan **traducteurs** "
+"di jaringan jabberfr: [tautan xmpp](xmpp://traducteurs@chat.jabberfr.org), "
+"[tautan web](https://chat.jabberfr.org/converse.js/"
+"traducteurs@chat.jabberfr.org)"
