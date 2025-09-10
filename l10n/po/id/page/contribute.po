@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:52+0100\n"
-"PO-Revision-Date: 2025-09-10 16:49+0000\n"
+"PO-Revision-Date: 2025-09-10 17:13+0000\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/pagecontribute/id/>\n"
@@ -20,29 +20,35 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Contribuer"
-msgstr ""
+msgstr "Berkontribusi"
 
 #. type: Plain text
 msgid "Pour contribuer, vous pouvez :"
-msgstr ""
+msgstr "Untuk berkontribusi, Anda dapat:"
 
 #. type: Bullet: '* '
 msgid ""
 "partager les articles et nous renvoyer une webmentions (utiliser le bouton "
 "en bas de page vous permet de le faire facilement)"
 msgstr ""
+"bagikan artikel dan kirimkan webmention kepada kami (gunakan tombol di "
+"bagian bawah halaman untuk melakukannya dengan mudah)"
 
 #. type: Bullet: '* '
 msgid ""
 "traduire les articles dans votre langue sur : https://translate."
 "fedoraproject.org/projects/languages-in-floss/"
 msgstr ""
+"terjemahkan artikel-artikel ini ke dalam bahasa Anda di: https://"
+"translate.fedoraproject.org/projects/languages-in-floss/"
 
 #. type: Bullet: '* '
 msgid ""
 "soumettre un article (en français) sur Github : https://github.com/languages-"
 "in-floss/site"
 msgstr ""
+"kirimkan artikel (dalam bahasa Prancis) ke Github: https://github.com/"
+"languages-in-floss/site"
 
 #. type: Plain text
 msgid ""

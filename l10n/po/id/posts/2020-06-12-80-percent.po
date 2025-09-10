@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-09-10 16:49+0000\n"
+"PO-Revision-Date: 2025-09-10 17:13+0000\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-06-12-80-percent/id/>\n"
@@ -20,42 +20,42 @@ msgstr ""
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "butterflyoffire"
-msgstr ""
+msgstr "butterflyoffire"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "quenti"
-msgstr ""
+msgstr "quenti"
 
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Regionalisasi"
 
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Internationalisation"
-msgstr ""
+msgstr "Internasionalisasi"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "enjeux"
-msgstr ""
+msgstr "tantangan"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "partage"
-msgstr ""
+msgstr "pembagian"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
-msgstr ""
+msgstr "Ketika 80% umat manusia tidak berbicara bahasa Inggris"
 
 #. type: Plain text
 msgid ""
@@ -65,11 +65,17 @@ msgid ""
 "complexité et un coût élevé mais unique, qui une fois fait, sous réserve "
 "d’automatisation, autorise un nombre illimité de langues."
 msgstr ""
+"Meskipun ekosistem perangkat lunak bebas sangat berorientasi pada bahasa "
+"Inggris, mendukung banyak bahasa dalam sebuah perangkat lunak memungkinkan "
+"peningkatan jumlah pengguna potensial hingga 5 atau 10 kali lipat. Hal ini "
+"memang menambah kompleksitas dan biaya yang tinggi, tetapi hanya sekali di "
+"awal. Setelah selesai, dengan catatan ada otomatisasi, hal tersebut "
+"memungkinkan dukungan untuk jumlah bahasa yang tak terbatas."
 
 #. type: Title ##
 #, no-wrap
 msgid "Un écosystème très anglophone"
-msgstr ""
+msgstr "Sebuah ekosistem yang sangat berorientasi pada bahasa Inggris"
 
 #. type: Plain text
 msgid ""
@@ -80,6 +86,12 @@ msgid ""
 "Certain·e·s seront intéressé·e·s par l’outil et y contribueront, d’autres "
 "voudront juste atteindre leur but le plus rapidement possible."
 msgstr ""
+"Dunia perangkat lunak bebas dan sumber terbuka sangat beragam, mulai dari "
+"lapisan interaksi dengan perangkat keras hingga perangkat lunak yang kita "
+"gunakan setiap hari di komputer dan ponsel. Semua alat ini ada berkat dan "
+"untuk para penggunanya. Sebagian orang akan tertarik pada alat tersebut dan "
+"berkontribusi, sementara yang lain hanya ingin mencapai tujuan mereka "
+"secepat mungkin."
 
 #. type: Plain text
 msgid ""
@@ -89,6 +101,11 @@ msgid ""
 "communauté du logiciel libre, terme générique qui englobe l’ensemble des "
 "personnes contribuant à un ou plusieurs logiciels libres."
 msgstr ""
+"Di dunia perangkat lunak bebas, bahasa Inggris adalah bahasa kerja bawaan, "
+"dan tulisan adalah saluran yang paling sering digunakan. Cara kerja ini "
+"menjadi standar de facto dan diterima tanpa banyak kesulitan oleh apa yang "
+"disebut komunitas perangkat lunak bebas, istilah umum yang mencakup semua "
+"orang yang berkontribusi pada satu atau lebih perangkat lunak bebas."
 
 #. type: Plain text
 msgid ""
@@ -98,17 +115,24 @@ msgid ""
 "plusieurs fragments, variables non nommées, jargon technique intraduisible, "
 "etc.)."
 msgstr ""
+"Demi kenyamanan, para pembuat perangkat lunak sering menggunakan bahasa "
+"Inggris daripada bahasa ibu mereka. Akibatnya, mereka jarang memahami "
+"kesulitan yang dihadapi saat penerjemahan (kalimat yang terpotong menjadi "
+"beberapa fragmen, variabel yang tidak diberi nama, jargon teknis yang sulit "
+"diterjemahkan, dan sebagainya)."
 
 #. type: Plain text
 msgid ""
 "Pire encore, ces personnes peuvent être mise mal à l’aise par le manque de "
 "contrôle sur ce qui est effectivement affiché à l’utilisateur."
 msgstr ""
+"Lebih buruk lagi, orang-orang ini bisa merasa tidak nyaman karena kurangnya "
+"kendali atas apa yang benar-benar ditampilkan kepada pengguna."
 
 #. type: Title ##
 #, no-wrap
 msgid "Une population mondiale peu anglophone"
-msgstr ""
+msgstr "Populasi dunia yang kurang berbahasa Inggris"
 
 #. type: Plain text
 msgid ""
@@ -118,6 +142,10 @@ msgid ""
 "car il y a toutes les chances pour que cette langue maternelle ne soit pas "
 "celle des développeurs en charge de l’outil."
 msgstr ""
+"Kemungkinan besar para pengguna memiliki bahasa ibu yang bukan bahasa "
+"Inggris. Mendorong para pengembang untuk menggunakan bahasa ibu mereka pun "
+"tidak menyelesaikan masalah, karena besar kemungkinan bahasa ibu itu "
+"bukanlah bahasa yang digunakan oleh pengembang yang mengelola alat tersebut."
 
 #. type: Plain text
 msgid ""
@@ -127,6 +155,11 @@ msgid ""
 "être un prérequis pour utiliser le logiciel, en cas d’absence de maîtrise de "
 "l’anglais."
 msgstr ""
+"Apa pun bahasa mereka, para pengguna akan lebih memilih menggunakan bahasa "
+"mereka sendiri untuk mencapai tujuan, karena hal itu meningkatkan kenyamanan "
+"dan efisiensi penggunaan. Menggunakan bahasa sendiri juga bisa menjadi "
+"syarat untuk dapat memakai perangkat lunak, terutama jika mereka tidak "
+"menguasai bahasa Inggris."
 
 #. type: Plain text
 msgid ""
@@ -139,6 +172,14 @@ msgid ""
 "si on considère les personnes ayant un niveau natif ou courant, nous "
 "descendons à 9 %."
 msgstr ""
+"Secara rinci, terdapat perkiraan populasi berdasarkan bahasa dan wilayah "
+"yang disediakan oleh konsorsium Unicode, khususnya CLDR.  "
+"[Perkiraan ini menunjukkan bahwa 21%](https://github.com/unicode-org/cldr/"
+"commits/master/tools/java/org/unicode/cldr/util/data/"
+"country_language_population_raw.txt) penduduk dunia berbicara bahasa "
+"Inggris.  Namun, “berbicara” di sini mencakup berbagai situasi; jika kita "
+"hanya menghitung orang yang memiliki tingkat bahasa Inggris setara penutur "
+"asli atau fasih, angkanya turun menjadi 9%."
 
 #. type: Plain text
 msgid ""
@@ -150,6 +191,13 @@ msgid ""
 "est possible de ne pas connaître la langue source du logiciel, mais "
 "d’utiliser une autre langue comme pivot pour réaliser une traduction."
 msgstr ""
+"Tujuan dari upaya meningkatkan jumlah pengguna adalah untuk memperbesar "
+"jumlah kontributor potensial, yang mungkin memulai langkah pertama mereka "
+"dengan memperbaiki terjemahan atau menerjemahkan secara penuh, lalu "
+"melanjutkan ke aktivitas lain yang lebih atau kurang teknis (komunikasi, "
+"bantuan, dokumentasi, pengujian, pengkodean, dan sebagainya). Seseorang bisa "
+"saja tidak mengenal bahasa sumber perangkat lunak, tetapi tetap dapat "
+"menggunakan bahasa lain sebagai bahasa perantara untuk melakukan terjemahan."
 
 #. type: Plain text
 msgid ""
@@ -157,21 +205,25 @@ msgid ""
 "faut ajouter le support linguistique.  C’est ce qu’on appelle "
 "l’internationalisation."
 msgstr ""
+"Untuk dapat melipatgandakan jumlah pengguna potensial, perlu ditambahkan "
+"dukungan bahasa. Inilah yang disebut internasionalisasi."
 
 #. type: Title ##
 #, no-wrap
 msgid "La complexité de l’internationalisation"
-msgstr ""
+msgstr "Kompleksitas internasionalisasi"
 
 #. type: Plain text
 msgid "Prendre en charge de multiples langues nécessite :"
-msgstr ""
+msgstr "Mendukung banyak bahasa memerlukan:"
 
 #. type: Bullet: '* '
 msgid ""
 "d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
 "les contenus à traduire, les traduire et les diffuser)"
 msgstr ""
+"alat yang menyediakan fitur yang diperlukan (menandai konten yang akan "
+"diterjemahkan, menerjemahkannya, dan menyebarkannya)"
 
 #. type: Bullet: '* '
 msgid ""
@@ -179,6 +231,9 @@ msgid ""
 "de traduction (quand le code est terminé, il faut informer les personnes "
 "réalisant les traduction et intégrer leurs travaux)"
 msgstr ""
+"mengubah proses perancangan perangkat lunak agar mencakup pekerjaan "
+"penerjemahan (ketika kode selesai, perlu memberi tahu para penerjemah dan "
+"mengintegrasikan hasil kerja mereka)"
 
 #. type: Bullet: '* '
 msgid ""
@@ -186,6 +241,9 @@ msgid ""
 "s’intéresser aux codifications, aux formats de traduction, aux pluriels, à "
 "l’outillage adapté, etc."
 msgstr ""
+"memenuhi kebutuhan yang terkait dengan aktivitas penerjemahan. Hal ini "
+"memerlukan perhatian pada pengkodean, format terjemahan, bentuk jamak, alat "
+"yang sesuai, dan sebagainya."
 
 #. type: Plain text
 msgid ""
@@ -194,6 +252,9 @@ msgid ""
 "d’information, la documentation en ligne, les pages man, les notes de "
 "version..."
 msgstr ""
+"Dan di luar antarmuka pengguna, perlu juga menyertakan antarmuka baris "
+"perintah, situs web presentasi, buletin, dokumentasi daring, halaman man, "
+"catatan rilis, dan sebagainya."
 
 #. type: Plain text
 msgid ""
@@ -202,6 +263,10 @@ msgid ""
 "n’offrent aucune aide, l’expert·e qui devra se débrouiller seul·e ou changer "
 "d’outil."
 msgstr ""
+"Internasionalisasi memakan waktu dan memerlukan keterampilan teknis yang "
+"mendalam. Sayangnya, beberapa alat yang digunakan oleh perangkat lunak tidak "
+"menyediakan bantuan apa pun, sehingga para ahli harus mengatasinya sendiri "
+"atau beralih ke alat lain."
 
 #. type: Plain text
 msgid ""
@@ -213,11 +278,18 @@ msgid ""
 "d’énergie pour une langue ayant un nombre de locuteurs très faibles.  Et à "
 "notre époque, ne pas exister sur les outils numériques est dangereux."
 msgstr ""
+"Kabar baiknya, pekerjaan ini hanya perlu dilakukan satu kali untuk jumlah "
+"bahasa yang secara teoretis tidak terbatas. Ini adalah kabar baik, karena "
+"saat ini ada antara 7.000 hingga 9.000 bahasa, dengan sekitar 2.500 di "
+"antaranya terancam punah. Jika pekerjaan khusus harus dilakukan untuk setiap "
+"bahasa, jarang ada pengembang yang bersedia menghabiskan tenaga untuk bahasa "
+"dengan jumlah penutur yang sangat sedikit. Dan di zaman sekarang, tidak "
+"hadir di perangkat digital bisa menjadi hal yang berbahaya."
 
 #. type: Title ##
 #, no-wrap
 msgid "Le rôle de Languages-in-floss"
-msgstr ""
+msgstr "Peran Languages-in-floss"
 
 #. type: Plain text
 msgid ""
