@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-09-10 17:13+0000\n"
+"PO-Revision-Date: 2025-09-10 17:48+0000\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-07-03-contribute-to-fedora/id/>\n"
@@ -30,12 +30,13 @@ msgstr "Regionalisasi"
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "contribuer"
-msgstr ""
+msgstr "berkontribusi"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Comment contribuer à la traduction de la distribution Linux Fedora ?"
 msgstr ""
+"Bagaimana cara berkontribusi dalam penerjemahan distribusi Linux Fedora?"
 
 #. type: Plain text
 #, no-wrap
@@ -43,11 +44,17 @@ msgid ""
 "Une distribution est un type de projet de logiciel libre spécifique et complexe, sur lequel les objectifs et contraintes influent directement sur la capacité d’action du traducteur.\n"
 "Mais pour vous faciliter la vie, et améliorer celle de ceux [ne parlant pas anglais]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora met à disposition une plateforme de traduction.\n"
 msgstr ""
+"Distribusi adalah jenis proyek perangkat lunak bebas yang spesifik dan "
+"kompleks, di mana tujuan dan batasan langsung memengaruhi kemampuan "
+"penerjemah untuk bertindak.\n"
+"Namun, untuk mempermudah hidup Anda dan meningkatkan pengalaman mereka "
+"[yang tidak berbicara bahasa Inggris]({{< relref “2020-06-12-80-percent.md” "
+">}}), Fedora menyediakan platform penerjemahan.\n"
 
 #. type: Title ##
 #, no-wrap
 msgid "Qu’est-ce qu’une distribution Linux ?"
-msgstr ""
+msgstr "Apa itu distribusi Linux?"
 
 #. type: Plain text
 msgid ""
@@ -58,6 +65,11 @@ msgid ""
 "des logiciels afin de les mettre à disposition des utilisateurs et "
 "utilisatrices."
 msgstr ""
+"Distribusi Linux adalah sekumpulan perangkat lunak yang dikonfigurasi secara "
+"konsisten untuk memenuhi suatu kebutuhan sekaligus mematuhi serangkaian "
+"batasan.  Inti dari sebuah proyek distribusi seperti proyek Fedora adalah "
+"aktivitas rekayasa perangkat lunak yang memungkinkan kompilasi seluruh "
+"perangkat lunak agar dapat disediakan bagi para pengguna."
 
 #. type: Plain text
 msgid ""
@@ -65,6 +77,9 @@ msgid ""
 "paramétrage sur l’ensemble de mes logiciels tout en facilitant la mise à "
 "jour de ces mêmes logiciels ?"
 msgstr ""
+"Masalah utamanya adalah: bagaimana saya dapat memperbarui pengaturan pada "
+"seluruh perangkat lunak saya sekaligus memudahkan pembaruan perangkat lunak "
+"tersebut?"
 
 #. type: Plain text
 msgid ""
@@ -76,11 +91,18 @@ msgid ""
 "créée spécifiquement pour le besoin propre du projet Fedora, tel "
 "l’installeur Anaconda."
 msgstr ""
+"Sebuah distribusi berisi jumlah perangkat lunak yang sangat besar: lebih "
+"dari 30.000 untuk Fedora ([sumber](https://src.fedoraproject.org/projects/"
+"rpms/*)).  Sebagian besar perangkat lunak ini berasal dari tim yang tidak "
+"memiliki hubungan langsung dengan proyek Fedora, misalnya browser Mozilla "
+"Firefox, atau suite perkantoran LibreOffice.  Sebagian kecil perangkat lunak "
+"dibuat khusus untuk kebutuhan proyek Fedora sendiri, seperti pemasang "
+"Anaconda."
 
 #. type: Title ##
 #, no-wrap
 msgid "La distribution Linux Fedora et ses valeurs"
-msgstr ""
+msgstr "Distribusi Linux Fedora dan nilai-nilainya"
 
 #. type: Plain text
 msgid ""
@@ -92,6 +114,13 @@ msgid ""
 "Server »), sur du matériel embarqué (« Fedora IOT ») ou conteneurisé (« "
 "Fedora CoreOS »)."
 msgstr ""
+"Distribusi Linux Fedora disebut generik, karena bertujuan untuk memenuhi "
+"berbagai kebutuhan: penggunaan pada komputer desktop maupun server.  Untuk "
+"desktop, dua edisi yang diutamakan adalah « Fedora workstation » dan « "
+"Fedora Silverblue ».  Untuk server, Fedora dapat dipasang sebagai sistem "
+"operasi pada perangkat keras biasa (« Fedora Server »), pada perangkat keras "
+"tertanam (« Fedora IOT »), atau dalam bentuk terkontainerisasi (« Fedora "
+"CoreOS »)."
 
 #. type: Plain text
 msgid ""
@@ -99,6 +128,10 @@ msgid ""
 "Linux », on voit qu’une même série de logiciels peut être paramétrée de "
 "façon différente pour répondre à des objectifs distincts."
 msgstr ""
+"Di sini terlihat bahwa tidak ada yang benar-benar sederhana. Di balik konsep "
+"« distribusi Linux », kita dapat melihat bahwa satu rangkaian perangkat "
+"lunak yang sama bisa dikonfigurasi dengan cara berbeda untuk memenuhi tujuan "
+"yang berlainan."
 
 #. type: Plain text
 msgid ""
@@ -108,6 +141,11 @@ msgid ""
 "fréquentes, avoir une contribution directe aux logiciels plutôt que de "
 "concevoir et maintenir une surcouche de modifications."
 msgstr ""
+"Selain berbagai konfigurasi tersebut, distribusi Linux Fedora memberlakukan "
+"batasan-batasan berikut: penggunaan eksklusif perangkat lunak bebas, selalu "
+"mengikuti perkembangan terbaru dengan melakukan rilis secara rutin, dan "
+"memberikan kontribusi langsung pada perangkat lunak alih-alih membuat dan "
+"memelihara lapisan modifikasi tambahan."
 
 #. type: Plain text
 msgid ""
@@ -115,11 +153,14 @@ msgid ""
 "Fedora et ses quatre fondations : https://docs.fedoraproject.org/en-US/"
 "project/"
 msgstr ""
+"Untuk informasi lebih lanjut, saya merekomendasikan Anda untuk membaca "
+"halaman ini yang menjelaskan Fedora dan empat fondasinya: https://"
+"docs.fedoraproject.org/id/project/"
 
 #. type: Title ##
 #, no-wrap
 msgid "La conséquence sur le rôle du traducteur dans le projet Fedora"
-msgstr ""
+msgstr "Dampak terhadap peran penerjemah dalam proyek Fedora"
 
 #. type: Plain text
 msgid ""
@@ -128,6 +169,10 @@ msgid ""
 "petite partie de tous les logiciels disponibles réellement quand vous "
 "installez Fedora."
 msgstr ""
+"Ketika Anda mengunjungi platform terjemahan proyek Fedora https://"
+"translate.fedoraproject.org/projects/, Anda hanya akan menemukan sebagian "
+"kecil dari semua perangkat lunak yang sebenarnya tersedia saat Anda memasang "
+"Fedora."
 
 #. type: Plain text
 msgid ""
@@ -142,17 +187,30 @@ msgid ""
 "https://translate.fedoraproject.org/projects/pulseaudio/ ou ibus https://"
 "translate.fedoraproject.org/projects/ibus/"
 msgstr ""
+"Platform terjemahan Fedora mencakup: * Perangkat lunak yang dibuat oleh "
+"komunitasnya, misalnya pemasang Anaconda https://translate.fedoraproject.org/"
+"projects/anaconda/ * Situs web proyek Fedora: https://"
+"translate.fedoraproject.org/projects/fedora-websites/ * Dokumentasi proyek "
+"Fedora: https://translate.fedoraproject.org/projects/fedora-docs-l10n-docs/ ("
+"dan semua proyek lain yang dimulai dengan fedora-docs-l10n)  * Perangkat "
+"lunak yang pengembangnya memutuskan untuk menampung terjemahan mereka di "
+"dalam proyek Fedora: seperti pulseaudio https://translate.fedoraproject.org/"
+"projects/pulseaudio/ atau ibus https://translate.fedoraproject.org/projects/"
+"ibus/"
 
 #. type: Plain text
 msgid ""
 "Pour tout le reste, il faudra trouver où est hébergé le logiciel et "
 "comprendre comment y contribuer.  Mais cela sera le sujet d’un autre article."
 msgstr ""
+"Untuk sisanya, Anda perlu menemukan di mana perangkat lunak tersebut "
+"dihosting dan memahami cara berkontribusi di dalamnya.  Namun, hal ini akan "
+"menjadi topik artikel lain."
 
 #. type: Title ##
 #, no-wrap
 msgid "Conclusion"
-msgstr ""
+msgstr "Kesimpulan"
 
 #. type: Plain text
 msgid ""
@@ -161,3 +219,8 @@ msgid ""
 "traduction, c’est de s’assurer de comprendre ce qu’on y voit, dans le projet "
 "Fedora, c’est toujours le logiciel d’origine, sans intermédiaire."
 msgstr ""
+"Meskipun sebuah distribusi Linux merupakan kumpulan yang kompleks, "
+"berkontribusi padanya sangat mudah. Satu-satunya hal yang perlu dipastikan "
+"saat Anda masuk ke platform penerjemahan adalah memahami apa yang Anda lihat;"
+" dalam proyek Fedora, yang diterjemahkan selalu adalah perangkat lunak asli, "
+"tanpa perantara."
