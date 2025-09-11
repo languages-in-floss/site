@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-09-10 17:48+0000\n"
+"PO-Revision-Date: 2025-09-11 18:54+0000\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-01-12-how-does-translation-works/id/>\n"
@@ -34,7 +34,7 @@ msgstr "Regionalisasi"
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Où sont les traductions ?"
-msgstr ""
+msgstr "Di mana terjemahannya?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:12
@@ -46,12 +46,17 @@ msgid ""
 "\"2020-07-03-contribute-to-fedora.md\" >}}), regardons où sont les "
 "traductions d'un logiciel.\n"
 msgstr ""
+"Setelah menjelaskan bahwa sebagian besar penduduk dunia "
+"[tidak berbicara bahasa Inggris]({{< relref “2020-06-12-80-percent.md” >}}), "
+"lalu [menjelaskan cara berkontribusi pada distribusi Fedora]({{< relref "
+"“2020-07-03-contribute-to-fedora.md” >}}), mari kita lihat di mana "
+"terjemahan perangkat lunak tersebut berada.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
 #, markdown-text, no-wrap
 msgid "Les traductions font partie intégrante du code"
-msgstr ""
+msgstr "Terjemahan merupakan bagian integral dari kode"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:20
@@ -68,12 +73,23 @@ msgid ""
 "Chaque fichier possède ses avantages et inconvénients, cela entre le domaine "
 "de l'internationalisation des logiciels, souvent abrégé `i18n`."
 msgstr ""
+"Terjemahan adalah berkas yang sepenuhnya menjadi bagian dari kode sumber "
+"yang diperlukan untuk menjalankan program. Format berkas yang berisi "
+"terjemahan bervariasi tergantung pada alat yang digunakan oleh tim "
+"pengembang. Untuk mendapatkan gambaran tentang format berkas utama, "
+"[daftar format yang didukung oleh platform terjemahan Weblate](https://"
+"docs.weblate.org/en/latest/formats.html) cukup menarik. Secara umum, format "
+"Gettext paling sering digunakan untuk perangkat lunak yang dikompilasi/"
+"desktop, sedangkan format Json digunakan untuk perangkat lunak web. Setiap "
+"berkas memiliki kelebihan dan kekurangan masing-masing, hal ini masuk dalam "
+"ranah internasionalisasi perangkat lunak, yang sering disingkat sebagai "
+"`i18n`."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
 #, markdown-text, no-wrap
 msgid "La conséquence sur le travail de traduction"
-msgstr ""
+msgstr "Dampak pada pekerjaan terjemahan"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:25
@@ -86,6 +102,13 @@ msgid ""
 "savoir si le changement impacte le sens ou la structure de la phrase, les "
 "changements coûtent cher pour les traducteurs."
 msgstr ""
+"Karena terjemahan merupakan bagian dari kode sumber, para penerjemah harus "
+"menyerahkan hasil pekerjaan mereka tepat waktu agar setiap perubahan yang "
+"dibuat pada versi saat ini dapat diterjemahkan. Perubahan sekecil apa pun, "
+"bahkan satu huruf atau satu karakter, mengharuskan setiap terjemahan "
+"diperiksa untuk mengetahui apakah perubahan tersebut memengaruhi makna atau "
+"struktur kalimat, sehingga perubahan tersebut memakan banyak biaya bagi para "
+"penerjemah."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:28
@@ -98,6 +121,12 @@ msgid ""
 "du projet parvienne aux utilisateurs avec une chaîne affichée en anglais au "
 "milieu d'un logiciel déjà partiellement traduit."
 msgstr ""
+"Sering kali, dan ini wajar, para pengembang tidak tahu cara menyesuaikan "
+"terjemahan saat mereka melakukan perubahan. Oleh karena itu, diperlukan "
+"penerjemah yang mengikuti perkembangan proyek dari dekat agar dapat "
+"responsif, dan untuk menghindari versi baru proyek sampai ke pengguna dengan "
+"untaian teks yang ditampilkan dalam bahasa Inggris di tengah-tengah "
+"perangkat lunak yang sudah sebagian diterjemahkan."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:32
@@ -109,12 +138,16 @@ msgid ""
 "traductrices dans chaque langue pour suivre tous ces projets ? Certainement "
 "pas."
 msgstr ""
+"Di sinilah masalahnya menjadi rumit, setidaknya ada ribuan, bahkan mungkin "
+"ratusan ribu proyek perangkat lunak bebas. Ada ribuan bahasa, dapatkah kita "
+"memiliki cukup banyak penerjemah di setiap bahasa untuk mengikuti semua "
+"proyek ini? Tentu saja tidak."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:33
 #, markdown-text, no-wrap
 msgid "Processus d'intégration des traductions"
-msgstr ""
+msgstr "Proses integrasi terjemahan"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:36
@@ -124,12 +157,14 @@ msgid ""
 "organisée l'interaction entre les processus de développement logiciel et de "
 "traduction."
 msgstr ""
+"Sekarang mari kita ambil beberapa contoh proyek untuk melihat bagaimana "
+"interaksi antara proses pengembangan perangkat lunak dan penerjemahan diatur."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:37
 #, markdown-text, no-wrap
 msgid "Traduisible... mais archaïque !"
-msgstr ""
+msgstr "Bisa diterjemahkan... tetapi kuno!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:40
@@ -140,6 +175,9 @@ msgid ""
 "[lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) contient un "
 "fichier json par langue."
 msgstr ""
+"Jitsi Meet adalah perangkat lunak konferensi video daring. Dalam kode "
+"sumbernya, folder [lang](https://github.com/jitsi/jitsi-meet/tree/master/"
+"lang) berisi berkas JSON untuk setiap bahasa."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:42
@@ -148,6 +186,8 @@ msgid ""
 "Chaque traduction doit faire l'œuvre d'une demande d'intégration, c'est "
 "compliqué et chronophage."
 msgstr ""
+"Setiap terjemahan harus melalui proses permintaan integrasi, yang rumit dan "
+"memakan waktu."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:45
@@ -161,6 +201,12 @@ msgid ""
 "il y a eu [8 versions "
 "publiées](https://github.com/jitsi/jitsi-meet/releases) !"
 msgstr ""
+"Dalam beberapa menit, saya menemukan contoh kasus ekstrem, "
+"[permintaan yang telah menunggu lebih dari 8 bulan](https://github.com/jitsi/"
+"jitsi-meet/pull/14754).  Namun, dalam waktu itu, berkas yang berisi string "
+"yang akan diterjemahkan dari perangkat lunak [telah berubah 19 kali](https://"
+"github.com/jitsi/jitsi-meet/commits/master/lang/main.json) dan telah ada "
+"[8 versi yang diterbitkan](https://github.com/jitsi/jitsi-meet/releases)!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:47
@@ -171,6 +217,10 @@ msgid ""
 "d'information sur comment traduire, ni dans le [guide de "
 "contribution](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 msgstr ""
+"Tidak ada informasi tentang cara menerjemahkan di [readme](https://"
+"github.com/jitsi/jitsi-meet/blob/master/README.md) maupun di "
+"[panduan kontribusi](https://jitsi.github.io/handbook/docs/dev-guide/"
+"dev-guide-contributing/)."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:50
@@ -183,6 +233,12 @@ msgid ""
 "suivre les changements, il faut probablement s'abonner aux changements du "
 "projet github."
 msgstr ""
+"Komunitas linguistik dengan banyak anggota mungkin dapat meluangkan waktu "
+"yang diperlukan berkat jumlah kontributornya (itu pun belum tentu...), "
+"sementara komunitas lain akan diabaikan dan perangkat lunak hanya akan "
+"menawarkan terjemahan terbaru untuk bahasa-bahasa yang sudah terlalu banyak "
+"diwakili.  Untuk mengikuti perubahannya, Anda mungkin harus berlangganan "
+"perubahan pada proyek GitHub."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:53
@@ -194,12 +250,17 @@ msgid ""
 "discussion avec les équipes de Jitsi Meet, cela n'a pas toujours été comme "
 "ça, une plateforme de traduction a déjà été utilisée par le passé."
 msgstr ""
+"Efisiensi cara kerja ini patut dipertanyakan. Meskipun kita bisa memuji "
+"upaya untuk memungkinkan penerjemahan perangkat lunak, saya menyayangkan "
+"kurangnya perhatian terhadap jenis kontribusi ini. Saya belum memulai "
+"diskusi dengan tim Jitsi Meet, padahal dulu tidak selalu seperti ini, sebuah "
+"platform terjemahan pernah digunakan di masa lalu."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:54
 #, markdown-text, no-wrap
 msgid "Clair... mais très spécifique GNOME"
-msgstr ""
+msgstr "Jelas... tapi sangat spesifik untuk GNOME"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:61
@@ -215,12 +276,21 @@ msgid ""
 "processus est donc imparfait, manuel, mais l'outillage permet de réduire "
 "fortement le coût de gestion pour les contributeurs et contributrices."
 msgstr ""
+"Proyek GNOME menggunakan proses serupa, tetapi difokuskan pada kebutuhan tim "
+"penerjemah. Untuk mengirimkan terjemahan ke perangkat lunak final, wajib "
+"menggunakan git. Namun, [sebuah alat tersedia](https://l10n.gnome.org) untuk "
+"para penerjemah, yang memungkinkan mereka mengetahui secara tepat apa yang "
+"perlu diterjemahkan, dan untuk berkolaborasi. Selain itu, banyak perangkat "
+"lunak dalam ekosistem GNOME mengikuti ritme rilis versi baru dan proses "
+"kerja yang sama. Jadi, prosesnya memang tidak sempurna dan manual, tetapi "
+"peralatannya dapat mengurangi beban manajemen bagi para kontributor secara "
+"signifikan."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:62
 #, markdown-text, no-wrap
 msgid "Efficace... mais très spécifique Mozilla"
-msgstr ""
+msgstr "Efisien... tapi sangat spesifik untuk Mozilla"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:65
@@ -233,6 +303,11 @@ msgid ""
 "organisé en [équipes de "
 "traduction](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/teams_projects.html))."
 msgstr ""
+"Proyek Mozilla menganggap terjemahan sebagai hal penting dalam kegiatannya. "
+"Jika Anda ingin berkontribusi, Anda dapat mengunjungi "
+"[platform terjemahan Pontoon](https://pontoon.mozilla.org/projects/firefox/) "
+"(proyek ini diselenggarakan dalam [tim penerjemahan](https://mozilla-"
+"l10n.github.io/localizer-documentation/tools/pontoon/teams_projects.html))."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:67
@@ -241,6 +316,8 @@ msgid ""
 "Savoir ce qui est traduisible est facile, et y trouver des contacts pour "
 "répondre aux questions l'est également."
 msgstr ""
+"Mengetahui apa yang dapat diterjemahkan itu mudah, dan menemukan kontak "
+"untuk menjawab pertanyaan juga mudah."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:71
@@ -253,12 +330,19 @@ msgid ""
 "en place une équipe et des processus de relecture, tout l'outillage est "
 "spécifique aux projets de Mozilla, mais globalement, c'est plutôt efficace."
 msgstr ""
+"Proyek ini sangat besar, Anda mungkin akan mengalami beberapa kesulitan "
+"dalam memahami tahapan antara platform terjemahan dan rilis perangkat lunak, "
+"tetapi apakah itu masalah besar? Sistem ini berfungsi dengan baik, tanggal "
+"rilis perangkat lunak sudah diketahui, dan prioritas telah ditetapkan.  Anda "
+"akan menghabiskan sedikit waktu untuk membentuk tim dan proses penyuntingan, "
+"semua alat yang digunakan spesifik untuk proyek Mozilla, tetapi secara "
+"keseluruhan, sistem ini cukup efisien."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:72
 #, markdown-text, no-wrap
 msgid "Automatisé et générique, la modernité émancipatrice"
-msgstr ""
+msgstr "Otomatis dan generik, modernitas yang membebaskan"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:75
@@ -268,6 +352,9 @@ msgid ""
 "permettant de s'abonner en cas de changements, de travailler à plusieurs, "
 "d'avoir des détections d'anomalies."
 msgstr ""
+"Sangat mungkin untuk menyediakan alat khusus untuk kegiatan terjemahan, yang "
+"memungkinkan pengguna untuk berlangganan jika ada perubahan, bekerja secara "
+"kolaboratif, dan mendeteksi adanya ketidaksesuaian."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:77
@@ -276,6 +363,8 @@ msgid ""
 "Et, bonus ultime, d'avoir une synchronisation automatique avec le code "
 "source du logiciel."
 msgstr ""
+"Dan, bonus utama, memiliki sinkronisasi otomatis dengan kode sumber "
+"perangkat lunak."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:79
@@ -288,6 +377,12 @@ msgid ""
 "traductions](https://hosted.weblate.org/changes/browse/weblate/?action=13&action=30&user=&period=) "
 "sont faciles à trouver."
 msgstr ""
+"Contoh yang sangat baik: platform penerjemahan Weblate menunjukkan contoh "
+"yang patut ditiru, semuanya terhubung dan otomatis. Perubahan terjemahan "
+"(https://github.com/WeblateOrg/weblate/commits/main/?author=weblate) sangat "
+"banyak, dan perubahan yang memengaruhi terjemahan (https://"
+"hosted.weblate.org/changes/browse/weblate/?action=13&action=30&user=&period=)"
+" mudah ditemukan."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:81
@@ -298,6 +393,10 @@ msgid ""
 "traduction, Weblate est devenu aussi évident et efficient que git pour la "
 "gestion du code source pour le développement logiciel."
 msgstr ""
+"Banyak proyek menggunakan Weblate, dan ini adalah pilihan yang sebaiknya "
+"Anda pilih, terlepas dari konteks Anda. Dalam ekosistem platform terjemahan, "
+"Weblate telah menjadi sesederhana dan seefisien Git dalam pengelolaan kode "
+"sumber untuk pengembangan perangkat lunak."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:83
@@ -308,6 +407,10 @@ msgid ""
 "avec cette large communauté, vous aurez de bonnes chances d'obtenir un outil "
 "traduit en de nombreuses langues."
 msgstr ""
+"Jika proyek Anda menyediakan platform ini, maka Anda memberikan kekuatan "
+"untuk berkontribusi dalam bidang bahasa. Dengan merawat hubungan dengan "
+"komunitas yang luas ini, Anda memiliki peluang besar untuk mendapatkan alat "
+"yang diterjemahkan ke dalam banyak bahasa."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:84
@@ -322,6 +425,8 @@ msgid ""
 "L'articulation entre la vie technique du projet et les traductions est "
 "cruciale pour l'efficacité des processus de traduction."
 msgstr ""
+"Keterkaitan antara aspek teknis proyek dan terjemahan sangat penting untuk "
+"efisiensi proses terjemahan."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:89
@@ -330,6 +435,8 @@ msgid ""
 "Des outils remplis de fonctionnalités intéressantes et d'automatisation "
 "existent pour faciliter la vie de tout le monde."
 msgstr ""
+"Alat-alat yang dilengkapi dengan fitur-fitur menarik dan otomatisasi "
+"tersedia untuk memudahkan kehidupan semua orang."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:91
@@ -339,6 +446,9 @@ msgid ""
 "logiciels contiennent toujours plus de traductions et qu'un nombre croissant "
 "de langues soient prises en charge."
 msgstr ""
+"Hal ini sepenuhnya tergantung pada tim pengembangan untuk mengadopsinya agar "
+"perangkat lunak terus mengandung lebih banyak terjemahan dan semakin banyak "
+"bahasa yang didukung."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:93
@@ -348,3 +458,6 @@ msgid ""
 "Comment faire pour compenser un projet endormi ? Cela sera l'objet d'un "
 "futur article."
 msgstr ""
+"Tapi apa yang terjadi jika proyek tidak membuat versi baru? Bagaimana cara "
+"mengatasi proyek yang tidak aktif? Hal ini akan menjadi topik artikel "
+"mendatang."
