@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-02-25 23:09+0100\n"
-"PO-Revision-Date: 2025-09-10 17:13+0000\n"
+"PO-Revision-Date: 2025-09-12 13:08+0000\n"
 "Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-02-25-slow-and-dead-software/id/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
@@ -35,6 +35,8 @@ msgstr "Regionalisasi"
 #, no-wrap
 msgid "Que faire pour les logiciels avec peu ou pas de nouvelles versions ?"
 msgstr ""
+"Apa yang harus dilakukan untuk perangkat lunak yang memiliki sedikit atau "
+"tidak ada versi baru?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:12
@@ -43,6 +45,8 @@ msgid ""
 "Dans les articles précédents, on a vu que les traductions sont des fichiers "
 "publiés en même temps que le logiciel."
 msgstr ""
+"Dalam artikel sebelumnya, kita telah melihat bahwa terjemahan adalah berkas "
+"yang diterbitkan bersamaan dengan perangkat lunak."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:15
@@ -52,6 +56,9 @@ msgid ""
 "l’aimez bien, il répond à votre besoin.  Cependant, des problèmes de "
 "traduction vous gênent, certains menus ne sont pas traduits."
 msgstr ""
+"Bayangkan skenario berikut: Anda baru saja menemukan sebuah perangkat lunak, "
+"Anda menyukainya, dan perangkat lunak tersebut memenuhi kebutuhan Anda.  "
+"Namun, masalah terjemahan mengganggu Anda, beberapa menu tidak diterjemahkan."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:17
@@ -60,6 +67,8 @@ msgid ""
 "Après avoir deviné où se trouvait ce projet sur les internets, vous vous "
 "rendez compte que ce logiciel ne sort au mieux qu’une version par an."
 msgstr ""
+"Setelah menebak di mana proyek ini berada di internet, Anda menyadari bahwa "
+"perangkat lunak ini paling banyak hanya merilis satu versi per tahun."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:22
@@ -73,6 +82,12 @@ msgid ""
 "destination, la vôtre.  Tout le reste n’est qu’une barrière à l’entrée "
 "limitant le nombre de personnes pouvant apporter leur aide."
 msgstr ""
+"Ini berarti bahwa, dalam skenario terbaik, jika proyek masih aktif dan "
+"perubahan Anda telah digabungkan, kemungkinan besar Anda harus menunggu "
+"beberapa bulan sebelum pekerjaan Anda tersedia bagi pengguna lain. Termasuk "
+"Anda sendiri! Karena memang, menerjemahkan hanya membutuhkan dua hal: "
+"memahami bahasa asal dan menguasai bahasa tujuan, yaitu bahasa Anda.  "
+"Selebihnya hanyalah hambatan yang membatasi jumlah orang yang dapat membantu."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:26
@@ -85,6 +100,12 @@ msgid ""
 "traduction avec beaucoup d’attention, il ne sera pas bienvenu de demander "
 "une sortie plus rapide pour compléter ou corriger une traduction."
 msgstr ""
+"Dan tidak ada yang dapat Anda lakukan terkait kecepatan rilis perangkat "
+"lunak.  Terlepas dari sifatnya, merilis versi baru memerlukan banyak usaha, "
+"pertimbangan, pengujian, koordinasi, dan komunikasi.  Kecuali jika proyek "
+"tersebut sudah cukup matang dan mempertimbangkan terjemahan dengan sangat "
+"cermat, meminta rilis yang lebih cepat untuk melengkapi atau mengoreksi "
+"terjemahan tidak akan disambut dengan baik."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:29
@@ -95,6 +116,10 @@ msgid ""
 "et le projet que vous aimez n’a pas vu de nouvelles versions depuis "
 "plusieurs années."
 msgstr ""
+"Terkadang, tenaga yang dibutuhkan begitu besar sehingga hanya ada satu rilis "
+"perangkat lunak per tahun.  Di lain waktu, tenaga tersebut telah menguras "
+"tenaga penulis proyek, dan proyek yang Anda sukai tidak mendapatkan versi "
+"baru selama bertahun-tahun."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:32
@@ -104,12 +129,15 @@ msgid ""
 "impasse… Sauf si… votre distribution Linux permet de surcharger les "
 "traductions !"
 msgstr ""
+"Meskipun perangkat lunak ini mungkin berfungsi dengan baik, Anda berada "
+"dalam kebuntuan… Kecuali jika… distribusi Linux Anda memungkinkan untuk "
+"mengganti terjemahan!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:34
 #, markdown-text
 msgid "C’est exactement ce que fait le projet Ubuntu."
-msgstr ""
+msgstr "Inilah yang dilakukan oleh proyek Ubuntu."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:38
@@ -121,12 +149,17 @@ msgid ""
 "traductrices, 50 groupes de traduction… Impressionnant ? Anecdotique ? Je "
 "vous en parlerai dans un futur article."
 msgstr ""
+"Ubuntu memungkinkan penerjemahan banyak perangkat lunak melalui platformnya "
+"https://translations.launchpad.net/. Ini adalah platform yang cukup besar: "
+"3.151.497 string dalam 63.017 berkas, 386 bahasa, 88.145 penerjemah, 50 grup "
+"penerjemahan... Mengesankan? Sepele? Saya akan membahasnya dalam artikel "
+"mendatang."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:40
 #, markdown-text
 msgid "Comment ça fonctionne ?"
-msgstr ""
+msgstr "Bagaimana cara kerjanya?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:45
@@ -141,6 +174,14 @@ msgid ""
 "utilisateurices d’Ubuntu, sans avoir à attendre une nouvelle version du "
 "logiciel."
 msgstr ""
+"Karena distribusi adalah sistem besar untuk mendistribusikan/mengirimkan "
+"perangkat lunak kepada pengguna, terjemahan dikirimkan melalui jalur "
+"terpisah dari perangkat lunak.  Secara teknis, di komputer pengguna, hal ini "
+"tidak mengubah apa pun; setiap perangkat lunak memiliki terjemahannya "
+"sendiri.  Namun, dalam hal pembaruan, terjemahan dapat diperbarui tanpa "
+"perlu memperbarui perangkat lunak.  Hal ini memungkinkan penyebaran "
+"terjemahan baru kepada pengguna Ubuntu tanpa harus menunggu versi baru "
+"perangkat lunak."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:47
@@ -151,6 +192,11 @@ msgid ""
 "comment ce projet souhaite me contribuer ! Pour rappel, exiger l’usage de "
 "git est une barrière immense pour beaucoup."
 msgstr ""
+"Hebat! Tujuan tercapai! Saya bisa menerjemahkan perangkat lunak yang saya "
+"sukai tanpa perlu tahu apakah perangkat lunak tersebut aktif, dinamis, atau "
+"bahkan mencari tahu di mana dan bagaimana proyek ini ingin saya "
+"berkontribusi! Sebagai pengingat, mewajibkan penggunaan Git merupakan "
+"hambatan besar bagi banyak orang."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:51
@@ -160,6 +206,9 @@ msgid ""
 "bénéficient pas.  Le projet en question, même si lent ou inactif n’en "
 "bénéficie pas."
 msgstr ""
+"Namun, hal ini hanya berlaku untuk Ubuntu.  Distribusi Linux lainnya tidak "
+"mendapat manfaat dari hal ini.  Proyek yang dimaksud, meskipun lambat atau "
+"tidak aktif, tidak mendapat manfaat dari hal ini."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:58
@@ -178,6 +227,20 @@ msgid ""
 "Sans connaître les relations entre les communautés Ubuntu et GNOME, qui sont "
 "potentiellement excellentes, je vois ici un risque de conflit."
 msgstr ""
+"Lebih buruk lagi, terkadang ini adalah pekerjaan yang tumpang tindih. Di "
+"dalam proyek Ubuntu, kita bisa saja menggantikan pekerjaan proyek lain.  "
+"Dalam beberapa menit, saya menemukan sebuah proyek yang termasuk dalam "
+"lingkup GNOME ([gnome-remote-desktop di Launchpad](https://"
+"translations.launchpad.net/ubuntu/plucky/+source/gnome-remote-desktop/+pots/"
+"gnome-remote-desktop/fr/ +translate?show=untranslated) dan "
+"[gnome-remote-desktop di gitlab](https://gitlab.gnome.org/GNOME/"
+"gnome-remote-desktop/-/blob/master/po/fr.po?ref_type=heads)).  Di gitlab, "
+"kita melihat kontribusi yang tidak ada di Launchpad, jadi berarti "
+"penerjemahan dapat dilakukan di luar Launchpad.  Ya, melalui "
+"[l10n.gnome.org…](https://l10n.gnome.org/vertimus/gnome-remote-desktop/"
+"master/po/fr/level1/).  Proyek ini seharusnya tidak ada di Launchpad, "
+"mengapa ada di sana? Tanpa mengetahui hubungan antara komunitas Ubuntu dan "
+"GNOME, yang mungkin sangat baik, saya melihat adanya risiko konflik di sini."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:63
@@ -192,6 +255,14 @@ msgid ""
 "iels auraient créé un outil du même niveau de qualité que Pontoon ou "
 "Weblate."
 msgstr ""
+"Akhirnya, Launchpad adalah perangkat lunak yang sangat besar, yang memainkan "
+"banyak peran dalam komunitas Ubuntu, tidak hanya terjemahan.  Saya tidak "
+"tahu apakah Launchpad bekerja dengan baik untuk membantu komunitas Ubuntu, "
+"tetapi sebagai platform terjemahan, ini adalah alat yang sangat terbatas dan "
+"kuno.  Dan itu wajar, platform terjemahan membutuhkan pengetahuan dan "
+"keterampilan yang mahal.  Jika terjemahan menjadi prioritas perusahaan "
+"Ubuntu, mereka akan menciptakan alat dengan kualitas yang sama dengan "
+"Pontoon atau Weblate."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:64
@@ -200,3 +271,5 @@ msgid ""
 "Il y a du bon dans ce que fait Ubuntu, merci à eux de démontrer que c’est "
 "possible."
 msgstr ""
+"Ada hal baik yang dilakukan Ubuntu, terima kasih kepada mereka karena telah "
+"membuktikan bahwa hal itu mungkin dilakukan."
