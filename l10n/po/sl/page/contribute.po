@@ -1,46 +1,55 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:52+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-16 13:44+0000\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/pagecontribute/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Contribuer"
-msgstr ""
+msgstr "Prispevajte"
 
 #. type: Plain text
 msgid "Pour contribuer, vous pouvez :"
-msgstr ""
+msgstr "Če želite prispevati, lahko:"
 
 #. type: Bullet: '* '
 msgid ""
 "partager les articles et nous renvoyer une webmentions (utiliser le bouton "
 "en bas de page vous permet de le faire facilement)"
 msgstr ""
+"delite članke in nam pošljite spletno omembo (to lahko preprosto storite z "
+"gumbom na dnu strani)"
 
 #. type: Bullet: '* '
 msgid ""
 "traduire les articles dans votre langue sur : https://translate."
 "fedoraproject.org/projects/languages-in-floss/"
 msgstr ""
+"Prevedite članke v svoj jezik na: https://translate.fedoraproject.org/"
+"projects/languages-in-floss/"
 
 #. type: Bullet: '* '
 msgid ""
 "soumettre un article (en français) sur Github : https://github.com/languages-"
 "in-floss/site"
 msgstr ""
+"Oddajte članek (v francoščini) na Githubu: https://github.com/"
+"languages-in-floss/site"
 
 #. type: Plain text
 msgid ""
@@ -48,3 +57,6 @@ msgid ""
 "jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
 "(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
+"Za stik z nami lahko uporabite kanal **prevajalci** omrežja jabberfr: "
+"[xmpp link](xmpp://traducteurs@chat.jabberfr.org), [spletna povezava]"
+"(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"

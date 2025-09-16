@@ -2,35 +2,40 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-02-25 23:09+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-16 13:44+0000\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2025-02-25-slow-and-dead-software/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: categories
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Regionalizacija"
 
 #. type: Yaml Front Matter Hash Value: title
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
 #, no-wrap
 msgid "Que faire pour les logiciels avec peu ou pas de nouvelles versions ?"
-msgstr ""
+msgstr "Kaj storiti s programsko opremo, ki ima malo ali nič novih izdaj?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:12
@@ -39,6 +44,8 @@ msgid ""
 "Dans les articles précédents, on a vu que les traductions sont des fichiers "
 "publiés en même temps que le logiciel."
 msgstr ""
+"V prejšnjih člankih smo videli, da so prevodi datoteke, objavljene hkrati s "
+"programsko opremo."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:15
@@ -48,6 +55,9 @@ msgid ""
 "l’aimez bien, il répond à votre besoin.  Cependant, des problèmes de "
 "traduction vous gênent, certains menus ne sont pas traduits."
 msgstr ""
+"Predstavljajmo si naslednji scenarij:  pravkar ste odkrili programsko "
+"opremo, ki vam je všeč in ustreza vašim potrebam.  Vendar vas motijo težave "
+"s prevodom; nekateri meniji niso prevedeni."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:17
@@ -56,6 +66,8 @@ msgid ""
 "Après avoir deviné où se trouvait ce projet sur les internets, vous vous "
 "rendez compte que ce logiciel ne sort au mieux qu’une version par an."
 msgstr ""
+"Ko ugibate, kje na internetu se ta projekt nahaja, ugotovite, da ta "
+"programska oprema izda v najboljšem primeru le eno različico na leto."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:22
@@ -69,6 +81,12 @@ msgid ""
 "destination, la vôtre.  Tout le reste n’est qu’une barrière à l’entrée "
 "limitant le nombre de personnes pouvant apporter leur aide."
 msgstr ""
+"To pomeni, da bo v najboljšem primeru, če je projekt še vedno aktiven in so "
+"vaše spremembe združene, verjetno trajalo nekaj mesecev, preden bo vaše delo "
+"na voljo drugim uporabnikom.  Vključno z vami!  Ker da, za prevajanje sta "
+"potrebni le dve stvari: razumevanje izvornega jezika in obvladovanje "
+"ciljnega jezika, vašega. Vse ostalo je le ovira za vstop, ki omejuje število "
+"ljudi, ki lahko pomagajo."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:26
@@ -81,6 +99,11 @@ msgid ""
 "traduction avec beaucoup d’attention, il ne sera pas bienvenu de demander "
 "une sortie plus rapide pour compléter ou corriger une traduction."
 msgstr ""
+"In glede hitrosti izdaje programske opreme ne morete storiti ničesar.  Ne "
+"glede na naravo izdaje nove različice zahteva veliko truda, razmišljanja, "
+"testiranja, koordinacije in komunikacije.  Razen če je projekt dovolj zrel "
+"in jemlje prevajanje zelo resno, ne bo dobrodošlo zahtevati prejšnje izdaje "
+"za dokončanje ali popravek prevoda."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:29
@@ -91,6 +114,9 @@ msgid ""
 "et le projet que vous aimez n’a pas vu de nouvelles versions depuis "
 "plusieurs années."
 msgstr ""
+"Včasih je ta energija tako visoka, da izide le ena programska oprema na "
+"leto.  Drugič pa ta energija porabi avtorja projekta in projekt, ki ga imate "
+"radi, že več let ni doživel nove izdaje."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:32
@@ -100,12 +126,14 @@ msgid ""
 "impasse… Sauf si… votre distribution Linux permet de surcharger les "
 "traductions !"
 msgstr ""
+"Čeprav ta programska oprema morda deluje pravilno, ste v zagati ... Razen če "
+"... vaša distribucija Linuxa omogoča ponovno prepisovanje prevodov!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:34
 #, markdown-text
 msgid "C’est exactement ce que fait le projet Ubuntu."
-msgstr ""
+msgstr "Točno to počne projekt Ubuntu."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:38
@@ -117,12 +145,17 @@ msgid ""
 "traductrices, 50 groupes de traduction… Impressionnant ? Anecdotique ? Je "
 "vous en parlerai dans un futur article."
 msgstr ""
+"Ubuntu vam omogoča prevajanje veliko programske opreme prek svoje platforme "
+"https://translations.launchpad.net/. Gre za precej veliko platformo: "
+"3.151.497 nizov v 63.017 datotekah, 386 jezikov, 88.145 prevajalcev, 50 "
+"prevajalskih skupin ... Impresivno ? Anekdotično ? O tem več v prihodnjem "
+"članku."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:40
 #, markdown-text
 msgid "Comment ça fonctionne ?"
-msgstr ""
+msgstr "Kako to deluje ?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:45
@@ -137,6 +170,13 @@ msgid ""
 "utilisateurices d’Ubuntu, sans avoir à attendre une nouvelle version du "
 "logiciel."
 msgstr ""
+"Ker je distribucija ogromen mehanizem za distribucijo/dostavo programske "
+"opreme uporabnikom, se prevodi dostavljajo po ločeni poti od programske "
+"opreme. Tehnično gledano se na uporabnikovem računalniku ne spremeni ničesar;"
+" vsaka programska oprema ima svoje prevode. Kar zadeva posodobitve, pa je "
+"prevode mogoče posodobiti brez posodabljanja programske opreme. To omogoča "
+"distribucijo novih prevodov uporabnikom Ubuntuja, ne da bi bilo treba čakati "
+"na novo različico programske opreme."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:47
@@ -147,6 +187,10 @@ msgid ""
 "comment ce projet souhaite me contribuer ! Pour rappel, exiger l’usage de "
 "git est une barrière immense pour beaucoup."
 msgstr ""
+"Odlično ! Cilj dosežen ! Lahko prevedem programsko opremo, ki jo obožujem, "
+"ne da bi moral vedeti, ali je aktivna, dinamična ali celo iskati, kje in "
+"kako mi ta projekt želi prispevati ! Naj vas spomnim, da je zahteva po "
+"uporabi gita za mnoge velika ovira."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:51
@@ -156,6 +200,9 @@ msgid ""
 "bénéficient pas.  Le projet en question, même si lent ou inactif n’en "
 "bénéficie pas."
 msgstr ""
+"Razen tega, da je to samo za Ubuntu.  Druge distribucije Linuxa od tega "
+"nimajo koristi. Zadevni projekt, četudi je počasen ali neaktiven, od tega "
+"nima koristi."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:58
@@ -174,6 +221,18 @@ msgid ""
 "Sans connaître les relations entre les communautés Ubuntu et GNOME, qui sont "
 "potentiellement excellentes, je vois ici un risque de conflit."
 msgstr ""
+"Še huje, včasih gre za podvojeno delo, znotraj projekta Ubuntu lahko "
+"prepišemo delo drugih projektov.  V nekaj minutah najdem projekt, ki je del "
+"področja delovanja GNOME ([gnome-remote-desktop na Launchpadu](https://"
+"translations.launchpad.net/ubuntu/plucky/+source/gnome-remote-desktop/+pots/"
+"gnome-remote-desktop/fr/+translate?show=untranslated) in "
+"[gnome-remote-desktop na gitlabu](https://gitlab.gnome.org/GNOME/"
+"gnome-remote-desktop/-/blob/master/po/fr.po?ref_type=heads)).  Na gitlabu "
+"vidimo prispevek, ki ga ni na Launchpadu, zato je mogoče prevajati zunaj "
+"Launchpada.  Da, prek [l10n.gnome.org…](https://l10n.gnome.org/vertimus/"
+"gnome-remote-desktop/master/po/fr/level1/). Ta projekt ne bi smel biti na "
+"Launchpadu, zakaj je tam?  Brez poznavanja odnosa med skupnostma Ubuntu in "
+"GNOME, ki sta potencialno odlični, vidim tukaj tveganje konflikta."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:63
@@ -188,6 +247,12 @@ msgid ""
 "iels auraient créé un outil du même niveau de qualité que Pontoon ou "
 "Weblate."
 msgstr ""
+"Končno je Launchpad ogromen kos programske opreme, ki v skupnosti Ubuntu "
+"igra veliko vlog, ne le pri prevajanju.  Ne vem, ali Launchpad dobro pomaga "
+"skupnosti Ubuntu, ampak kot prevajalska platforma je zelo omejeno in "
+"arhaično orodje.  In to je normalno, prevajalska platforma zahteva veliko "
+"znanja in spretnosti.  Če bi bilo prevajanje prednostna naloga podjetja "
+"Ubuntu, bi ustvarili orodje enake ravni kakovosti kot Pontoon ali Weblate."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:64
@@ -196,3 +261,5 @@ msgid ""
 "Il y a du bon dans ce que fait Ubuntu, merci à eux de démontrer que c’est "
 "possible."
 msgstr ""
+"V tem, kar počne Ubuntu, je nekaj dobrega, hvala jim, ker so pokazali, da je "
+"to mogoče."

@@ -1,59 +1,62 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-16 13:44+0000\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2020-06-12-80-percent/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "butterflyoffire"
-msgstr ""
+msgstr "butterflyoffire"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "quenti"
-msgstr ""
+msgstr "quenti"
 
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Regionalizacija"
 
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Internationalisation"
-msgstr ""
+msgstr "Internacionalizacija"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "enjeux"
-msgstr ""
+msgstr "izzivi"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "partage"
-msgstr ""
+msgstr "deljenje"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
-msgstr ""
+msgstr "Ko 80% človeštva ne govori angleško"
 
 #. type: Plain text
 msgid ""
@@ -63,11 +66,15 @@ msgid ""
 "complexité et un coût élevé mais unique, qui une fois fait, sous réserve "
 "d’automatisation, autorise un nombre illimité de langues."
 msgstr ""
+"Čeprav ekosistem proste programske opreme večinoma govori angleško, lahko "
+"podpora več jezikom v programu pomnoži število potencialnih uporabnikov za 5 "
+"ali 10.  To predstavlja kompleksnost in visoke stroške, vendar edinstveno "
+"zadevo, ki po avtomatizaciji omogoča neomejeno število jezikov."
 
 #. type: Title ##
 #, no-wrap
 msgid "Un écosystème très anglophone"
-msgstr ""
+msgstr "Zelo angleško govoreči ekosistem"
 
 #. type: Plain text
 msgid ""
@@ -78,6 +85,12 @@ msgid ""
 "Certain·e·s seront intéressé·e·s par l’outil et y contribueront, d’autres "
 "voudront juste atteindre leur but le plus rapidement possible."
 msgstr ""
+"Svet proste in odprtokodne programske opreme je zelo raznolik, od plasti "
+"interakcije s strojno opremo do programske opreme, ki jo vsakodnevno "
+"uporabljamo na svojih računalnikih in telefonih.  Vsa ta orodja obstajajo "
+"izključno za svoje uporabnike.  Nekatere bo orodje zanimalo in bodo "
+"prispevali k njemu, drugi pa bodo preprosto želeli čim hitreje doseči svoj "
+"cilj."
 
 #. type: Plain text
 msgid ""
@@ -87,6 +100,11 @@ msgid ""
 "communauté du logiciel libre, terme générique qui englobe l’ensemble des "
 "personnes contribuant à un ou plusieurs logiciels libres."
 msgstr ""
+"V svetu proste programske opreme je angleščina privzeti delovni jezik, "
+"pisava pa je najpogosteje uporabljen medij.  To je dejanski standard, ki ga "
+"brez večjih težav sprejema tako imenovana skupnost proste programske opreme, "
+"splošen izraz, ki zajema vse, ki prispevajo k enemu ali več programom proste "
+"programske opreme."
 
 #. type: Plain text
 msgid ""
@@ -96,17 +114,23 @@ msgid ""
 "plusieurs fragments, variables non nommées, jargon technique intraduisible, "
 "etc.)."
 msgstr ""
+"Zaradi udobja razvijalci programske opreme pogosto uporabljajo angleščino "
+"namesto svojega maternega jezika.  Posledično le redko razumejo težave, s "
+"katerimi se srečujejo pri prevajanju (stavki, razdeljeni na več fragmentov, "
+"neimenovane spremenljivke, neprevedljiv tehnični žargon itd.)."
 
 #. type: Plain text
 msgid ""
 "Pire encore, ces personnes peuvent être mise mal à l’aise par le manque de "
 "contrôle sur ce qui est effectivement affiché à l’utilisateur."
 msgstr ""
+"Še huje, ti ljudje se morda ne počutijo udobno zaradi pomanjkanja nadzora "
+"nad tem, kaj se uporabniku dejansko prikaže."
 
 #. type: Title ##
 #, no-wrap
 msgid "Une population mondiale peu anglophone"
-msgstr ""
+msgstr "Svetovno prebivalstvo z malo znanja angleščine"
 
 #. type: Plain text
 msgid ""
@@ -116,6 +140,10 @@ msgid ""
 "car il y a toutes les chances pour que cette langue maternelle ne soit pas "
 "celle des développeurs en charge de l’outil."
 msgstr ""
+"Obstaja velika verjetnost, da imajo uporabniki drug materni jezik kot "
+"angleščina.  In spodbujanje razvijalcev k uporabi njihovega maternega jezika "
+"ne reši problema, saj obstaja velika verjetnost, da ta materni jezik ni isti "
+"kot materni jezik razvijalcev, ki so odgovorni za orodje."
 
 #. type: Plain text
 msgid ""
@@ -125,6 +153,10 @@ msgid ""
 "être un prérequis pour utiliser le logiciel, en cas d’absence de maîtrise de "
 "l’anglais."
 msgstr ""
+"Ne glede na jezik, ki ga govorijo, bodo uporabniki in uporabnice za "
+"doseganje svojih ciljev raje uporabljali svoj jezik, saj to povečuje njihovo "
+"udobje in učinkovitost.  Uporaba lastnega jezika je lahko tudi predpogoj za "
+"uporabo programske opreme, če ne znajo angleščine dovolj dobro."
 
 #. type: Plain text
 msgid ""
@@ -137,6 +169,13 @@ msgid ""
 "si on considère les personnes ayant un niveau natif ou courant, nous "
 "descendons à 9 %."
 msgstr ""
+"Podrobneje so ocene prebivalstva po jezikih in ozemljih, ki jih je zagotovil "
+"konzorcij Unicode, natančneje CLDR.  [Te ocene kažejo, da 21%](https://"
+"github.com/unicode-org/cldr/commits/master/tools/java/org/unicode/cldr/util/"
+"data/country_language_population_raw.txt) prebivalcev planeta govori "
+"angleško. Toda tukaj govorjenje zajema zelo različne situacije; če "
+"upoštevamo ljudi z maternim ali tekočim znanjem jezika, se ta delež zniža na "
+"9%."
 
 #. type: Plain text
 msgid ""
@@ -148,6 +187,12 @@ msgid ""
 "est possible de ne pas connaître la langue source du logiciel, mais "
 "d’utiliser une autre langue comme pivot pour réaliser une traduction."
 msgstr ""
+"Izziv pri poskusu povečanja števila uporabnikov je povečati potencialno "
+"število sodelavcev, ki bodo naredili prve korake s popravljanjem prevoda ali "
+"celotnega prevoda, nato pa bodo lahko nadaljevali z bolj ali manj tehničnimi "
+"dejavnostmi (komunikacija, pomoč, dokumentacija, testiranje, kodiranje itd.)"
+".  Možno je, da izvornega jezika programske opreme ne poznate, ampak "
+"uporabite drug jezik kot osnovo za izvedbo prevoda."
 
 #. type: Plain text
 msgid ""
@@ -155,21 +200,25 @@ msgid ""
 "faut ajouter le support linguistique.  C’est ce qu’on appelle "
 "l’internationalisation."
 msgstr ""
+"Za razširitev števila potencialnih uporabnikov je treba dodati jezikovno "
+"podporo.  Temu pravimo internacionalizacija."
 
 #. type: Title ##
 #, no-wrap
 msgid "La complexité de l’internationalisation"
-msgstr ""
+msgstr "Kompleksnost internacionalizacije"
 
 #. type: Plain text
 msgid "Prendre en charge de multiples langues nécessite :"
-msgstr ""
+msgstr "Za podporo več jezikov je potrebno:"
 
 #. type: Bullet: '* '
 msgid ""
 "d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
 "les contenus à traduire, les traduire et les diffuser)"
 msgstr ""
+"uporabljati orodja, ki ponujajo potrebne funkcionalnosti (označevanje "
+"vsebine za prevod, njeno prevajanje in distribucijo)"
 
 #. type: Bullet: '* '
 msgid ""
@@ -177,6 +226,9 @@ msgid ""
 "de traduction (quand le code est terminé, il faut informer les personnes "
 "réalisant les traduction et intégrer leurs travaux)"
 msgstr ""
+"spremeniti svoje procese načrtovanja programske opreme, da bi vključili "
+"prevajalsko delo (ko je koda končana, je treba o tem obvestiti ljudi, ki "
+"izvajajo prevode, in vključiti njihovo delo)"
 
 #. type: Bullet: '* '
 msgid ""
@@ -184,6 +236,9 @@ msgid ""
 "s’intéresser aux codifications, aux formats de traduction, aux pluriels, à "
 "l’outillage adapté, etc."
 msgstr ""
+"za zadovoljevanje potreb, povezanih s prevajalsko dejavnostjo. To zahteva "
+"pozornost do kodifikacij, prevajalskih formatov, množin, ustreznih orodij "
+"itd."
 
 #. type: Plain text
 msgid ""
@@ -192,6 +247,9 @@ msgid ""
 "d’information, la documentation en ligne, les pages man, les notes de "
 "version..."
 msgstr ""
+"Poleg uporabniškega vmesnika vključuje tudi vmesnike ukazne vrstice, "
+"predstavitvena spletna mesta, glasila, spletno dokumentacijo, strani "
+"priročnika, opombe ob izdaji..."
 
 #. type: Plain text
 msgid ""
@@ -200,6 +258,9 @@ msgid ""
 "n’offrent aucune aide, l’expert·e qui devra se débrouiller seul·e ou changer "
 "d’outil."
 msgstr ""
+"Internacionalizacija je zamudna in zahteva napredne tehnične spretnosti. Žal "
+"nekatera programska orodja ne ponujajo nobene podpore, zato morajo "
+"strokovnjaki sami ugotoviti, kaj storiti, ali pa zamenjati orodje."
 
 #. type: Plain text
 msgid ""
@@ -211,11 +272,19 @@ msgid ""
 "d’énergie pour une langue ayant un nombre de locuteurs très faibles.  Et à "
 "notre époque, ne pas exister sur les outils numériques est dangereux."
 msgstr ""
+"Dobra novica je, da je to delo treba opraviti le enkrat za teoretično "
+"neomejeno število jezikov.  To je dobra novica, saj trenutno obstaja med "
+"7000 in 9000 jezikov, od katerih jih skoraj 2500 grozi izumrtje.  Če bi bilo "
+"treba za vsak jezik opraviti namensko delo, bi bilo le malo razvijalcev "
+"pripravljenih porabiti energijo za jezik z zelo majhnim številom govorcev.  "
+"In v današnjem času je neobstoj digitalnih orodij nevaren."
 
 #. type: Title ##
 #, no-wrap
 msgid "Le rôle de Languages-in-floss"
 msgstr ""
+"Vloga jezikov pri kampanji proste in odprte programske opreme Languages-in-"
+"floss"
 
 #. type: Plain text
 msgid ""
@@ -223,6 +292,8 @@ msgid ""
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
 msgstr ""
+"V tem kontekstu želi pobuda Languages-in-floss z vami deliti naše terenske "
+"izkušnje s podporo francoščini, arabščini, kabilščini in okcitaščini."
 
 #. type: Plain text
 msgid ""
@@ -231,3 +302,7 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"Ne glede na to, ali ste promotor ali zagovornik jezikov ali razvijalec, "
+"boste odkrili, da je večjezičnost mogoča v kateri koli dejavnosti, povezani "
+"s prosto in odprtokodno programsko opremo, mi pa se bomo potrudili, da vam "
+"olajšamo življenje v tem kompleksnem svetu."

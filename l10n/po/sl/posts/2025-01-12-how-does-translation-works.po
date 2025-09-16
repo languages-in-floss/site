@@ -2,35 +2,40 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
+# Matjaž Jeran <matjaz.jeran@amis.net>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-09-16 13:44+0000\n"
+"Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
+"Language-Team: Slovenian <https://translate.fedoraproject.org/projects/"
+"languages-in-floss/posts2025-01-12-how-does-translation-works/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: categories
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Regionalizacija"
 
 #. type: Yaml Front Matter Hash Value: title
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Où sont les traductions ?"
-msgstr ""
+msgstr "Kje so prevodi?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:12
@@ -42,12 +47,17 @@ msgid ""
 "\"2020-07-03-contribute-to-fedora.md\" >}}), regardons où sont les "
 "traductions d'un logiciel.\n"
 msgstr ""
+"Potem ko smo pojasnili, da velik del planeta [ne govori angleško]({{< relref "
+"\"2020-06-12-80-percent.md\" >}}), nato pa "
+"[pojasnili, kako prispevati k distribuciji Fedora]({{< relref "
+"\"2020-07-03-contribute-to-fedora.md\" >}}), si poglejmo, kje so prevodi "
+"programske opreme.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
 #, markdown-text, no-wrap
 msgid "Les traductions font partie intégrante du code"
-msgstr ""
+msgstr "Prevodi so sestavni del kode"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:20
@@ -64,12 +74,22 @@ msgid ""
 "Chaque fichier possède ses avantages et inconvénients, cela entre le domaine "
 "de l'internationalisation des logiciels, souvent abrégé `i18n`."
 msgstr ""
+"Prevodi so datoteke, ki so sestavni del izvorne kode, potrebne za zagon "
+"programa.  Oblika datoteke, ki vsebuje prevode, se razlikuje glede na "
+"orodja, ki jih uporablja razvojna ekipa. Za predstavo o glavnih oblikah "
+"datotek je zanimiv "
+"[seznam oblik, ki jih podpira prevajalska platforma Weblate](https://"
+"docs.weblate.org/en/latest/formats.html). Na splošno se oblika Gettext "
+"najpogosteje uporablja za prevedeno/namizno programsko opremo, oblika Json "
+"pa za spletno programsko opremo. Vsaka datoteka ima svoje prednosti in "
+"slabosti, kar spada v področje internacionalizacije programske opreme, "
+"pogosto skrajšano `i18n`."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
 #, markdown-text, no-wrap
 msgid "La conséquence sur le travail de traduction"
-msgstr ""
+msgstr "Vpliv na prevajalsko delo"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:25
@@ -82,6 +102,11 @@ msgid ""
 "savoir si le changement impacte le sens ou la structure de la phrase, les "
 "changements coûtent cher pour les traducteurs."
 msgstr ""
+"Ker so prevodi del izvorne kode, morajo prevajalci svoje delo oddati "
+"pravočasno, da zagotovijo, da je vsaka sprememba trenutne različice "
+"prevedena. Že najmanjša sprememba, celo ene same črke ali znaka, zahteva "
+"preverjanje vsakega prevoda, da se ugotovi, ali sprememba vpliva na pomen "
+"ali strukturo stavka. Spremembe so za prevajalce drage."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:28
@@ -94,6 +119,11 @@ msgid ""
 "du projet parvienne aux utilisateurs avec une chaîne affichée en anglais au "
 "milieu d'un logiciel déjà partiellement traduit."
 msgstr ""
+"Najpogosteje, in to je čisto normalno, razvijalci ne vedo, kako prilagoditi "
+"prevode, ko so njihove spremembe narejene. Zato je potrebno, da prevajalci "
+"pozorno spremljajo razvoj projekta, da se odzivajo in da se prepreči, da bi "
+"nova različica projekta dosegla uporabnike z nizom, prikazanim v angleščini "
+"sredi programske opreme, ki je že delno prevedena."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:32
@@ -105,12 +135,16 @@ msgid ""
 "traductrices dans chaque langue pour suivre tous ces projets ? Certainement "
 "pas."
 msgstr ""
+"Tu se stvari zapletejo: obstaja vsaj na tisoče projektov proste programske "
+"opreme, če ne celo na stotine tisočev.  Obstaja na tisoče jezikov. Ali lahko "
+"imamo dovolj prevajalcev v vsak jezik, da bi lahko sledili vsem tem "
+"projektom? Zagotovo ne."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:33
 #, markdown-text, no-wrap
 msgid "Processus d'intégration des traductions"
-msgstr ""
+msgstr "Postopek integracije prevajanja"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:36
@@ -120,12 +154,14 @@ msgid ""
 "organisée l'interaction entre les processus de développement logiciel et de "
 "traduction."
 msgstr ""
+"Oglejmo si zdaj nekaj primerov projektov, da vidimo, kako je organizirana "
+"interakcija med procesoma razvoja programske opreme in prevajanja."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:37
 #, markdown-text, no-wrap
 msgid "Traduisible... mais archaïque !"
-msgstr ""
+msgstr "Prevedljivo ... ampak zastarelo!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:40
@@ -136,6 +172,9 @@ msgid ""
 "[lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) contient un "
 "fichier json par langue."
 msgstr ""
+"Jitsi Meet je programska oprema za spletne videokonference, katere izvorna "
+"koda vsebuje mapo [lang](https://github.com/jitsi/jitsi-meet/tree/master/"
+"lang) z datoteko JSON za vsak jezik."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:42
@@ -144,6 +183,8 @@ msgid ""
 "Chaque traduction doit faire l'œuvre d'une demande d'intégration, c'est "
 "compliqué et chronophage."
 msgstr ""
+"Vsak prevod je treba predložiti z zahtevo za integracijo, kar je zapleteno "
+"in dolgotrajno."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:45
@@ -157,6 +198,12 @@ msgid ""
 "il y a eu [8 versions "
 "publiées](https://github.com/jitsi/jitsi-meet/releases) !"
 msgstr ""
+"V nekaj minutah najdem skrajni primer, "
+"[to zahtevo, ki čaka že več kot 8 mesecev](https://github.com/jitsi/"
+"jitsi-meet/pull/14754). Vendar se je datoteka, ki vsebuje nize, ki jih je "
+"treba prevesti iz programske opreme, medtem [že 19-krat spremenila](https://"
+"github.com/jitsi/jitsi-meet/commits/master/lang/main.json) in objavljenih je "
+"bilo [8 različic](https://github.com/jitsi/jitsi-meet/releases)!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:47
@@ -167,6 +214,10 @@ msgid ""
 "d'information sur comment traduire, ni dans le [guide de "
 "contribution](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 msgstr ""
+"V datoteki [readme](https://github.com/jitsi/jitsi-meet/blob/master/"
+"README.md) ni informacij o tem, kako prevajati, niti v "
+"[vodniku za prispevanje](https://jitsi.github.io/handbook/docs/dev-guide/"
+"dev-guide-contributing/)."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:50
@@ -179,6 +230,11 @@ msgid ""
 "suivre les changements, il faut probablement s'abonner aux changements du "
 "projet github."
 msgstr ""
+"Velike jezikovne skupnosti bodo morda lahko porabile potreben čas zaradi "
+"števila sodelavcev (in tudi takrat ...), vsi ostali bodo zapostavljeni, "
+"programska oprema pa bo ponujala le posodobljene prevode za jezike, ki so že "
+"preveč zastopani.  Če želite biti na tekočem s spremembami, se boste "
+"verjetno morali naročiti na spremembe projekta GitHub."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:53
@@ -190,12 +246,17 @@ msgid ""
 "discussion avec les équipes de Jitsi Meet, cela n'a pas toujours été comme "
 "ça, une plateforme de traduction a déjà été utilisée par le passé."
 msgstr ""
+"Podvomili bomo o učinkovitosti tega načina dela, čeprav lahko pohvalimo "
+"prizadevanja za omogočanje prevoda programske opreme, obžalujem pomanjkanje "
+"upoštevanja tovrstnega prispevka. Z ekipami Jitsi Meet se nisem pogovarjal, "
+"ni bilo vedno tako, saj je bila v preteklosti že uporabljena prevajalska "
+"platforma."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:54
 #, markdown-text, no-wrap
 msgid "Clair... mais très spécifique GNOME"
-msgstr ""
+msgstr "Jasno ... ampak zelo specifično za GNOME"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:61
@@ -211,12 +272,20 @@ msgid ""
 "processus est donc imparfait, manuel, mais l'outillage permet de réduire "
 "fortement le coût de gestion pour les contributeurs et contributrices."
 msgstr ""
+"Projekt GNOME uporablja podobno različico, vendar osredotočeno na potrebe "
+"prevajalskih ekip. Za pošiljanje prevoda v končno programsko opremo je "
+"obvezna uporaba gita. Vendar pa je za prevajalce na voljo [orodje]"
+"(https://l10n.gnome.org), ki jim omogoča, da natančno vedo, kaj je treba "
+"prevesti, in da sodelujejo. Poleg tega dolg seznam programske opreme v "
+"ekosistemu GNOME sledi istemu ritmu novih različic in enakim delovnim "
+"potekom. Postopek je zato nepopoln in ročni, vendar orodja znatno zmanjšajo "
+"stroške upravljanja za sodelavce."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:62
 #, markdown-text, no-wrap
 msgid "Efficace... mais très spécifique Mozilla"
-msgstr ""
+msgstr "Učinkovito ... vendar zelo specifično za Mozillo"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:65
@@ -229,6 +298,11 @@ msgid ""
 "organisé en [équipes de "
 "traduction](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/teams_projects.html))."
 msgstr ""
+"Projekt Mozilla prevajanje obravnava kot ključno temo v svoji dejavnosti. Če "
+"želite prispevati, lahko obiščete [prevajalsko platformo Pontoon](https://"
+"pontoon.mozilla.org/projects/firefox/) (projekt je organiziran za "
+"[prevajalske ekipe](https://mozilla-l10n.github.io/localizer-documentation/"
+"tools/pontoon/teams_projects.html))."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:67
@@ -237,6 +311,8 @@ msgid ""
 "Savoir ce qui est traduisible est facile, et y trouver des contacts pour "
 "répondre aux questions l'est également."
 msgstr ""
+"Vedeti, kaj je prevedljivo, je enostavno, prav tako pa je enostavno najti "
+"stike za odgovore na vprašanja."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:71
@@ -249,12 +325,18 @@ msgid ""
 "en place une équipe et des processus de relecture, tout l'outillage est "
 "spécifique aux projets de Mozilla, mais globalement, c'est plutôt efficace."
 msgstr ""
+"Ta projekt je ogromen, imeli boste nekaj težav z razumevanjem korakov med "
+"prevajalsko platformo in izdajami programske opreme, ampak ali je to sploh "
+"kaj posebnega? Deluje dobro, datumi izdaj programske opreme so znani, "
+"prioritete so določene. Izgubili boste nekaj časa z vzpostavitvijo "
+"pregledovalne ekipe in procesov, vsa orodja so specifična za projekte "
+"Mozille, a na splošno je precej učinkovito."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:72
 #, markdown-text, no-wrap
 msgid "Automatisé et générique, la modernité émancipatrice"
-msgstr ""
+msgstr "Avtomatizirana in generična, enakopravna modernost"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:75
@@ -264,6 +346,8 @@ msgid ""
 "permettant de s'abonner en cas de changements, de travailler à plusieurs, "
 "d'avoir des détections d'anomalies."
 msgstr ""
+"Možno je zagotoviti orodje, namenjeno prevajalskim dejavnostim, ki omogoča "
+"naročnino v primeru sprememb, delo v skupinah in zaznavanje anomalij."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:77
@@ -272,6 +356,8 @@ msgid ""
 "Et, bonus ultime, d'avoir une synchronisation automatique avec le code "
 "source du logiciel."
 msgstr ""
+"In kot končni bonus, samodejna sinhronizacija z izvorno kodo programske "
+"opreme."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:79
@@ -284,6 +370,11 @@ msgid ""
 "traductions](https://hosted.weblate.org/changes/browse/weblate/?action=13&action=30&user=&period=) "
 "sont faciles à trouver."
 msgstr ""
+"Odličen primer: prevajalska platforma Weblate je zgled, vse je povezano in "
+"avtomatizirano. [Spremembe prevodov](https://github.com/WeblateOrg/weblate/"
+"commits/main/?author=weblate) so številne in "
+"[spremembe, ki vplivajo na prevode](https://hosted.weblate.org/changes/"
+"browse/weblate/?action=13&action=30&user=&period=) je enostavno najti."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:81
@@ -294,6 +385,10 @@ msgid ""
 "traduction, Weblate est devenu aussi évident et efficient que git pour la "
 "gestion du code source pour le développement logiciel."
 msgstr ""
+"Številni projekti uporabljajo Weblate, zato je to izbira, ki jo morate "
+"sprejeti, ne glede na vaš kontekst. V ekosistemu prevajalskih platform je "
+"Weblate postal tako očiten in učinkovit kot Git za upravljanje izvorne kode "
+"za razvoj programske opreme."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:83
@@ -304,12 +399,15 @@ msgid ""
 "avec cette large communauté, vous aurez de bonnes chances d'obtenir un outil "
 "traduit en de nombreuses langues."
 msgstr ""
+"Če vaš projekt ponuja to platformo, potem zagotavljate vzvod za jezikovne "
+"prispevke in z gojenjem odnosov s to veliko skupnostjo imate dobre možnosti, "
+"da bo vaše orodje prevedeno v številne jezike."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:84
 #, markdown-text, no-wrap
 msgid "Conclusion"
-msgstr ""
+msgstr "Zaključek"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:87
@@ -318,6 +416,8 @@ msgid ""
 "L'articulation entre la vie technique du projet et les traductions est "
 "cruciale pour l'efficacité des processus de traduction."
 msgstr ""
+"Povezava med tehničnim življenjem projekta in prevodi je ključnega pomena za "
+"učinkovitost prevajalskih procesov."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:89
@@ -326,6 +426,8 @@ msgid ""
 "Des outils remplis de fonctionnalités intéressantes et d'automatisation "
 "existent pour faciliter la vie de tout le monde."
 msgstr ""
+"Na voljo so orodja, polna odličnih zmožnosti in avtomatizacije, ki olajšajo "
+"življenje vsem."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:91
@@ -335,6 +437,8 @@ msgid ""
 "logiciels contiennent toujours plus de traductions et qu'un nombre croissant "
 "de langues soient prises en charge."
 msgstr ""
+"Razvojne ekipe morajo to izkoristiti, da bo programska oprema vsebovala "
+"vedno več prevodov in da bo podprtih vedno več jezikov."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:93
@@ -344,3 +448,5 @@ msgid ""
 "Comment faire pour compenser un projet endormi ? Cela sera l'objet d'un "
 "futur article."
 msgstr ""
+"Kaj pa se zgodi, ko projekt ne izda novih različic? Kako lahko nadomestite "
+"mirujoči projekt? To bo tema prihodnjega članka."
