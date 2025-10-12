@@ -128,6 +128,16 @@ languages:
       info:
         description: Jakaminen ja seikkailut
         title404: Emme löydä tätä sivua, väärä URL-osoite?
+  id:
+  contentDir: content-translated/id
+  languageName: Bahasa Indonesia (Indonesian)
+  title: Bahasa dan perangkat lunak bebas
+  weight: 1
+  params:
+    lang: id
+    info:
+      description: Berbagi dan petualangan
+      title404: Kami tidak dapat menemukan halaman ini, apakah URL-nya salah?
   ko:
     contentDir: content-translated/ko
     languageName: 한국어 (Korean)
