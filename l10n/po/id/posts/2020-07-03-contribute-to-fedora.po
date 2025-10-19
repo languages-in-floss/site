@@ -2,12 +2,13 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # Arif Budiman <arifpedia@gmail.com>, 2025.
+# Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-09-10 17:48+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"PO-Revision-Date: 2025-10-19 15:56+0000\n"
+"Last-Translator: Jean-Baptiste Holcroft <jean-baptiste@holcroft.fr>\n"
 "Language-Team: Indonesian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-07-03-contribute-to-fedora/id/>\n"
 "Language: id\n"
@@ -15,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13.2\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
@@ -48,8 +49,9 @@ msgstr ""
 "kompleks, di mana tujuan dan batasan langsung memengaruhi kemampuan "
 "penerjemah untuk bertindak.\n"
 "Namun, untuk mempermudah hidup Anda dan meningkatkan pengalaman mereka "
-"[yang tidak berbicara bahasa Inggris]({{< relref “2020-06-12-80-percent.md” "
-">}}), Fedora menyediakan platform penerjemahan.\n"
+"[yang tidak berbicara bahasa Inggris]"
+"({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora menyediakan platform "
+"penerjemahan.\n"
 
 #. type: Title ##
 #, no-wrap
