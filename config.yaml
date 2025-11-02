@@ -16,40 +16,40 @@ params:
     title404: We can't find this page, wrong URL?
   assets:
     favicon: favicon.ico
-    gopher: ""
+    gopher: ''
   copyright:
     prefix: CC-BY SA 4.0
     holder: Languages in FLOSS
-    startYear: "2020"
-    suffix: ""
+    startYear: '2020'
+    suffix: ''
   settings:
     dateFormat: 2006-01-02
     listDateFormat: 2006-01-02
     archiveDateFormat: 01-02
     hideEntryNavigation:
-      - page
+    - page
     hideEntryMeta:
-      - page
+    - page
     showReadingTime: false
     showLastmod: true
     taxonomyCloudShuffle: false
-    accentColor: "#ffcd00"
+    accentColor: '#ffcd00'
     hideMainMenu: false
   sidebar:
     enable: true
   widgets:
     header:
-      - breadcrumbs
+    - breadcrumbs
     homepage:
-      - recent_posts
+    - recent_posts
     sidebar:
-      - about
-      - languages
-      - sidebar_menu
-      - taxonomy_cloud
-      - search
+    - about
+    - languages
+    - sidebar_menu
+    - taxonomy_cloud
+    - search
     footer:
-      - social_menu
+    - social_menu
   seo:
     titleSeparator: •
   comments:
@@ -71,34 +71,8 @@ permalinks:
 blackfriday:
   hrefTargetBlank: true
 languages:
-  fr:
-    contentDir: content/fr
-    languageName: Français
-    weight: 1
-    params:
-      lang: fr
-  ar:
-    lang: ar
-    contentDir: content-translated/ar
-    languageName: العربية
-    title: لغات وبرمجيات حرة
-    weight: 1
-    LanguageDirection: rtl
-    params:
-      lang: ar
-      info:
-        description: مشاركات و مغامرات
-  bn:
-    contentDir: content-translated/bn
-    languageName: বাংলা (Bengali)
-    title: ভাষা এবং বিনামূল্যের সফটওয়্যার
-    weight: 1
-    params:
-      lang: bn
-      info:
-        description: শেয়ার এবং অ্যাডভেঞ্চার
-        title404: আমরা এই পৃষ্ঠাটি খুঁজে পাচ্ছি না, ভুল URL?
   ca:
+    lang: ca
     contentDir: content-translated/ca
     languageName: Català (Catalan)
     title: Idiomes i programari lliure
@@ -109,6 +83,7 @@ languages:
         description: Accions i aventures
         title404: No podem trobar aquesta pàgina, URL incorrecte?
   es:
+    lang: es
     contentDir: content-translated/es
     languageName: Español (Spannish)
     title: Lenguas y programas libres
@@ -119,6 +94,7 @@ languages:
         description: Concomitancias y aventuras
         title404: No podemos encontrar esta página, ¿URL incorrecta?
   fi:
+    lang: fi
     contentDir: content-translated/fi
     languageName: Suomi (Finnish)
     title: Kielet ja vapaat ohjelmistot
@@ -128,7 +104,19 @@ languages:
       info:
         description: Jakaminen ja seikkailut
         title404: Emme löydä tätä sivua, väärä URL-osoite?
+  fr:
+    lang: fr
+    contentDir: content/fr
+    languageName: Français (French)
+    title: Langues et logiciels libres
+    weight: 1
+    params:
+      lang: fr
+      info:
+        description: Partages et aventures
+        title404: Nous ne trouvons pas cette page, URL incorrecte ?
   id:
+    lang: id
     contentDir: content-translated/id
     languageName: Bahasa Indonesia (Indonesian)
     title: Bahasa dan perangkat lunak bebas
@@ -139,6 +127,7 @@ languages:
         description: Berbagi dan petualangan
         title404: Kami tidak dapat menemukan halaman ini, apakah URL-nya salah?
   ko:
+    lang: ko
     contentDir: content-translated/ko
     languageName: 한국어 (Korean)
     title: 언어 및 무료 소프트웨어
@@ -148,26 +137,8 @@ languages:
       info:
         description: 공유 및 모험
         title404: 이 페이지를 찾을 수 없습니다, URL이 잘못되었나요?
-  oc:
-    contentDir: content-translated/oc
-    languageName: Occitan
-    title: Lengas e logicials liures
-    weight: 1
-    params:
-      lang: oc
-      info:
-        description: partatge e aventuras
-  pl:
-    contentDir: content-translated/pl
-    languageName: Polski (Polish)
-    title: Języki i wolne oprogramowanie
-    weight: 1
-    params:
-      lang: pl
-      info:
-        description: Dzielenie się i przygody
-        title404: Nie możemy znaleźć tej strony, zły adres URL?
   pt_BR:
+    lang: pt_BR
     contentDir: content-translated/pt_BR
     languageName: Português (Brazil)
     title: Idiomas e software livre
@@ -177,17 +148,8 @@ languages:
       info:
         description: Desafios e aventuras
         title404: Não encontramos esta página, URL incorreta?
-  pt_PT:
-    contentDir: content-translated/pt_PT
-    languageName: Português (Portugal)
-    title: Idiomas e software livre
-    weight: 1
-    params:
-      lang: pt_PT
-      info:
-        description: Desafios e aventuras
-        title404: Não encontramos esta página, URL incorreta?
   uk:
+    lang: uk
     contentDir: content-translated/uk
     languageName: Українська (Ukrainian)
     title: Вільні мови та логіка
