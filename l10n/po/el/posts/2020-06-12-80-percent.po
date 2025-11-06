@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-06-30 10:14+0000\n"
+"PO-Revision-Date: 2025-11-06 13:55+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-06-12-80-percent/el/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.14.1\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
@@ -25,37 +25,37 @@ msgstr "jibec"
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "butterflyoffire"
-msgstr ""
+msgstr "butterflyoffire"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
 msgid "quenti"
-msgstr ""
+msgstr "quenti"
 
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Περιφερειοποίηση"
 
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Internationalisation"
-msgstr ""
+msgstr "Διεθνοποίηση"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "enjeux"
-msgstr ""
+msgstr "προκλήσεις"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "partage"
-msgstr ""
+msgstr "σκέψεις"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Quand 80% de l’humanité ne parle pas anglais"
-msgstr ""
+msgstr "Όταν το 80% της ανθρωπότητας δεν μιλά αγγλικά"
 
 #. type: Plain text
 msgid ""
@@ -65,11 +65,17 @@ msgid ""
 "complexité et un coût élevé mais unique, qui une fois fait, sous réserve "
 "d’automatisation, autorise un nombre illimité de langues."
 msgstr ""
+"Ενώ το οικοσύστημα του ελεύθερου λογισμικού είναι σε μεγάλο βαθμό αγγλόφωνο, "
+"η υποστήριξη πολλών γλωσσών σε ένα λογισμικό μπορεί να πολλαπλασιάσει επί "
+"πέντε ή δέκα τον αριθμό των δυνητικών χρηστών. Ένα τέτοιο έργο συνεπάγεται "
+"αυξημένη πολυπλοκότητα και ένα εφάπαξ κόστος, αλλά μόλις ολοκληρωθεί, "
+"επιτρέπει τη χρήση απεριόριστου αριθμού γλωσσών, εφόσον η διαδικασία "
+"αυτοματοποιηθεί."
 
 #. type: Title ##
 #, no-wrap
 msgid "Un écosystème très anglophone"
-msgstr ""
+msgstr "Ένα πολύ αγγλόφωνο οικοσύστημα"
 
 #. type: Plain text
 msgid ""
@@ -80,6 +86,12 @@ msgid ""
 "Certain·e·s seront intéressé·e·s par l’outil et y contribueront, d’autres "
 "voudront juste atteindre leur but le plus rapidement possible."
 msgstr ""
+"Ο κόσμος του ελεύθερου λογισμικού και του ανοικτού κώδικα είναι εξαιρετικά "
+"ποικίλος, από τα επίπεδα αλληλεπίδρασης με το υλικό μέχρι τα προγράμματα που "
+"χρησιμοποιούμε καθημερινά στους υπολογιστές και τα τηλέφωνά μας. Όλα αυτά τα "
+"εργαλεία παρέχονται από και για τους χρήστες τους. Ορισμένοι ενδιαφέρονται "
+"για το εκάστοτε εργαλείο και θέλουν να συνεισφέρουν σε αυτό, ενώ άλλοι "
+"θέλουν απλώς να επιτύχουν τον σκοπό τους όσο το δυνατόν πιο γρήγορα."
 
 #. type: Plain text
 msgid ""
@@ -89,6 +101,11 @@ msgid ""
 "communauté du logiciel libre, terme générique qui englobe l’ensemble des "
 "personnes contribuant à un ou plusieurs logiciels libres."
 msgstr ""
+"Στον κόσμο του ελεύθερου λογισμικού, τα αγγλικά είναι η προεπιλεγμένη γλώσσα "
+"εργασίας και η γραπτή επικοινωνία αποτελεί το κυρίαρχο μέσο. Αυτός είναι ο "
+"de facto τρόπος λειτουργίας και γίνεται γενικά αποδεκτός από τη λεγόμενη «"
+"κοινότητα του ελεύθερου λογισμικού», έναν ευρύ όρο που περιλαμβάνει όλους "
+"όσοι συνεισφέρουν σε ένα ή περισσότερα προγράμματα ελεύθερου λογισμικού."
 
 #. type: Plain text
 msgid ""
@@ -98,17 +115,24 @@ msgid ""
 "plusieurs fragments, variables non nommées, jargon technique intraduisible, "
 "etc.)."
 msgstr ""
+"Για λόγους ευκολίας, οι δημιουργοί λογισμικού χρησιμοποιούν συχνά τα αγγλικά "
+"αντί για τη μητρική τους γλώσσα. Κατά συνέπεια, σπάνια αντιλαμβάνονται τις "
+"δυσκολίες που μπορεί να προκύψουν κατά τη μετάφραση (φράσεις χωρισμένες σε "
+"πολλά τμήματα, απροσδιόριστες μεταβλητές, τεχνικοί όροι που δεν "
+"μεταφράζονται κ.λπ.)."
 
 #. type: Plain text
 msgid ""
 "Pire encore, ces personnes peuvent être mise mal à l’aise par le manque de "
 "contrôle sur ce qui est effectivement affiché à l’utilisateur."
 msgstr ""
+"Ακόμη χειρότερα, μπορεί να αισθάνονται άβολα με την απώλεια ελέγχου στο πώς "
+"ακριβώς εμφανίζονται οι μεταφρασμένες φράσεις στους τελικούς χρήστες."
 
 #. type: Title ##
 #, no-wrap
 msgid "Une population mondiale peu anglophone"
-msgstr ""
+msgstr "Ένας ελάχιστα αγγλόφωνος παγκόσμιος πληθυσμός"
 
 #. type: Plain text
 msgid ""
@@ -161,7 +185,7 @@ msgstr ""
 #. type: Title ##
 #, no-wrap
 msgid "La complexité de l’internationalisation"
-msgstr ""
+msgstr "Η πολυπλοκότητα της διεθνοποίησης"
 
 #. type: Plain text
 msgid "Prendre en charge de multiples langues nécessite :"
@@ -217,7 +241,7 @@ msgstr ""
 #. type: Title ##
 #, no-wrap
 msgid "Le rôle de Languages-in-floss"
-msgstr ""
+msgstr "Ο ρόλος του Languages-in-floss"
 
 #. type: Plain text
 msgid ""
@@ -225,6 +249,9 @@ msgid ""
 "expériences de terrain pour la prise en charge du français, de l’arabe, du "
 "kabyle et de l’occitan."
 msgstr ""
+"Σε αυτό το πλαίσιο, στόχος μας μέσω της πρωτοβουλίας Languages-in-floss "
+"είναι να μοιραστούμε μαζί σας τις εμπειρίες μας από τον χώρο της γλωσσικής "
+"υποστήριξης για τα γαλλικά, τα αραβικά, τα καβυλικά και τα οξιτανικά."
 
 #. type: Plain text
 msgid ""
@@ -233,3 +260,7 @@ msgid ""
 "activité liée au logiciel libre et open-source, nous allons essayer de vous "
 "faciliter la vie dans ce monde complexe."
 msgstr ""
+"Είτε είστε υποστηρικτής μιας γλώσσας είτε προγραμματιστής, θα ανακαλύψετε "
+"ότι η πολυγλωσσία είναι εφικτή σε κάθε δραστηριότητα που σχετίζεται με το "
+"ελεύθερο λογισμικό και τον ανοικτό κώδικα, ενώ εμείς θα επιχειρήσουμε να "
+"κάνουμε τη ζωή σας πιο εύκολη σε αυτόν τον πολύπλοκο κόσμο."

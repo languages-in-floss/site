@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:52+0100\n"
-"PO-Revision-Date: 2025-06-30 10:14+0000\n"
+"PO-Revision-Date: 2025-11-06 13:55+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/pagecontribute/el/>\n"
@@ -15,34 +15,41 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.14.1\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Contribuer"
-msgstr ""
+msgstr "Συνεισφορά"
 
 #. type: Plain text
 msgid "Pour contribuer, vous pouvez :"
-msgstr ""
+msgstr "Εάν θέλετε να συνεισφέρετε, μπορείτε να:"
 
 #. type: Bullet: '* '
 msgid ""
 "partager les articles et nous renvoyer une webmentions (utiliser le bouton "
 "en bas de page vous permet de le faire facilement)"
 msgstr ""
+"κοινοποιήσετε τα άρθρα και να αναφερθείτε σε εμάς μέσω του διαδικτύου ("
+"μπορείτε να το κάνετε εύκολα χρησιμοποιώντας το κουμπί στο κάτω μέρος της "
+"σελίδας)"
 
 #. type: Bullet: '* '
 msgid ""
 "traduire les articles dans votre langue sur : https://translate."
 "fedoraproject.org/projects/languages-in-floss/"
 msgstr ""
+"μεταφράσετε τα άρθρα στη γλώσσα σας στο: https://translate.fedoraproject.org/"
+"projects/languages-in-floss/"
 
 #. type: Bullet: '* '
 msgid ""
 "soumettre un article (en français) sur Github : https://github.com/languages-"
 "in-floss/site"
 msgstr ""
+"υποβάλετε ένα άρθρο (στα γαλλικά) στο Github: https://github.com/"
+"languages-in-floss/site"
 
 #. type: Plain text
 msgid ""
@@ -50,3 +57,7 @@ msgid ""
 "jabberfr: [lien xmpp](xmpp://traducteurs@chat.jabberfr.org), [lien web]"
 "(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"
 msgstr ""
+"Για να επικοινωνήσετε μαζί μας, μπορείτε να χρησιμοποιήσετε το δωμάτιο "
+"**traducteurs** του δικτύου jabberfr: [σύνδεσμος xmpp]"
+"(xmpp://traducteurs@chat.jabberfr.org), [σύνδεσμος ιστού]"
+"(https://chat.jabberfr.org/converse.js/traducteurs@chat.jabberfr.org)"

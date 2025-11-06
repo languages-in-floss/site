@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-06-22 08:37+0000\n"
+"PO-Revision-Date: 2025-11-06 13:55+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-07-03-contribute-to-fedora/el/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.14.1\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
@@ -25,7 +25,7 @@ msgstr "jibec"
 #. type: Yaml Front Matter Array Element: categories
 #, no-wrap
 msgid "Régionalisation"
-msgstr ""
+msgstr "Περιφερειοποίηση"
 
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
@@ -35,7 +35,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
 msgid "Comment contribuer à la traduction de la distribution Linux Fedora ?"
-msgstr ""
+msgstr "Πώς να συνεισφέρω στη μετάφραση της διανομής Fedora Linux;"
 
 #. type: Plain text
 #, no-wrap
@@ -47,7 +47,7 @@ msgstr ""
 #. type: Title ##
 #, no-wrap
 msgid "Qu’est-ce qu’une distribution Linux ?"
-msgstr ""
+msgstr "Τι είναι μια διανομή Linux;"
 
 #. type: Plain text
 msgid ""
@@ -80,7 +80,7 @@ msgstr ""
 #. type: Title ##
 #, no-wrap
 msgid "La distribution Linux Fedora et ses valeurs"
-msgstr ""
+msgstr "Η διανομή Fedora Linux και οι αξίες της"
 
 #. type: Plain text
 msgid ""
