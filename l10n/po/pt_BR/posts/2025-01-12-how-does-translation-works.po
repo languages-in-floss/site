@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-08-04 20:59+0000\n"
+"PO-Revision-Date: 2025-11-07 16:58+0000\n"
 "Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
 "projects/languages-in-floss/posts2025-01-12-how-does-translation-works/pt_BR/"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.12.2\n"
+"X-Generator: Weblate 5.14.2\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -256,7 +256,7 @@ msgstr ""
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:54
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Clair... mais très spécifique GNOME"
 msgstr "Claro... mas muito específico do GNOME"
 
@@ -286,7 +286,7 @@ msgstr ""
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:62
-#, fuzzy, markdown-text, no-wrap
+#, markdown-text, no-wrap
 msgid "Efficace... mais très spécifique Mozilla"
 msgstr "Eficaz... mas muito específico da Mozilla"
 
