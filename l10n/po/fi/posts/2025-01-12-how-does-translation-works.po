@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
 # Ricky Tigg <ricky.tigg@gmail.com>, 2025.
+# Jouko Tiilikainen <jouko.tiilikainen@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-04-23 16:42+0000\n"
-"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
+"PO-Revision-Date: 2025-11-16 13:16+0000\n"
+"Last-Translator: Jouko Tiilikainen <jouko.tiilikainen@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-01-12-how-does-translation-works/fi/>\n"
 "Language: fi\n"
@@ -16,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -73,12 +74,22 @@ msgid ""
 "Chaque fichier possède ses avantages et inconvénients, cela entre le domaine "
 "de l'internationalisation des logiciels, souvent abrégé `i18n`."
 msgstr ""
+"Käännökset ovat tiedostoja, jotka ovat olennainen osa ohjelman "
+"suorittamiseen tarvittavaa lähdekoodia.  Käännöksiä sisältävän tiedoston "
+"muoto vaihtelee kehitystiimin käyttämien työkalujen mukaan.  "
+"Päätiedostomuodoista saadakseni käsityksen "
+"[lista Weblate-käännösalustan tukemista formaateista]"
+"(https://docs.weblate.org/en/latest/formats.html) on mielenkiintoinen.  "
+"Yleisesti ottaen Gettext-formaatti on laajimmin käytetty käännettyjen ja "
+"työpöytäohjelmistojen käytössä, ja Json-formaatti web-ohjelmistoissa.  "
+"Jokaisella tiedostolla on omat etunsa ja haittansa, tämä koskee "
+"ohjelmistojen kansainvälistämistä, usein lyhennettynä %i18n%."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
 #, markdown-text, no-wrap
 msgid "La conséquence sur le travail de traduction"
-msgstr ""
+msgstr "Seuraukset käännöstyöhön"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:25
@@ -91,6 +102,11 @@ msgid ""
 "savoir si le changement impacte le sens ou la structure de la phrase, les "
 "changements coûtent cher pour les traducteurs."
 msgstr ""
+"Koska käännökset ovat osa lähdekoodia, kääntäjien on toimitettava työnsä "
+"ajallaan varmistaakseen, että nykyiseen versioon tehdyt muutokset "
+"käännetään.  Pieninkin muutos, jopa kirjaimessa tai merkissä, vaatii "
+"jokaisen käännöksen tarkistamista, vaikuttaako muutos lauseen merkitykseen "
+"tai rakenteeseen; muutokset ovat kääntäjille kalliita."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:28
@@ -103,6 +119,11 @@ msgid ""
 "du projet parvienne aux utilisateurs avec une chaîne affichée en anglais au "
 "milieu d'un logiciel déjà partiellement traduit."
 msgstr ""
+"Useimmiten, ja tämä on normaalia, kehittäjät eivät osaa mukauttaa käännöksiä "
+"tehdessään muutoksia.  Siksi on välttämätöntä, että kääntäjät seuraavat "
+"tarkasti projektin kehitystä ollakseen reagoivia ja estämään uuden version "
+"pääsy käyttäjiin englanninkielisellä merkkijonolla keskellä jo osittain "
+"käännettyä ohjelmistoa."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:32
@@ -114,12 +135,16 @@ msgid ""
 "traductrices dans chaque langue pour suivre tous ces projets ? Certainement "
 "pas."
 msgstr ""
+"Tässä vaiheessa asiat monimutkaistuvat: on ainakin tuhansia, ellei satoja "
+"tuhansia, vapaan ohjelmiston projekteja.  Kieliä on tuhansia, voimmeko saada "
+"tarpeeksi kääntäjiä kussakin kielessä seuraamaan kaikkia näitä projekteja? "
+"Ei ainakaan."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:33
 #, markdown-text, no-wrap
 msgid "Processus d'intégration des traductions"
-msgstr ""
+msgstr "Käännösintegraatioprosessi"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:36
@@ -129,12 +154,15 @@ msgid ""
 "organisée l'interaction entre les processus de développement logiciel et de "
 "traduction."
 msgstr ""
+"Katsotaanpa nyt joitakin projektiesimerkkejä nähdäksemme, miten "
+"ohjelmistokehityksen ja käännösprosessien välinen vuorovaikutus on "
+"järjestetty."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:37
 #, markdown-text, no-wrap
 msgid "Traduisible... mais archaïque !"
-msgstr ""
+msgstr "Käännettävä... mutta vanhanaikainen !"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:40
@@ -145,6 +173,9 @@ msgid ""
 "[lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) contient un "
 "fichier json par langue."
 msgstr ""
+"Jitsi Meet on verkkopohjainen videoneuvotteluohjelmisto, jonka lähdekoodissa "
+"kansio [lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) sisältää "
+"yhden json-tiedoston per kieli."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:42
@@ -153,6 +184,8 @@ msgid ""
 "Chaque traduction doit faire l'œuvre d'une demande d'intégration, c'est "
 "compliqué et chronophage."
 msgstr ""
+"Jokaisen käännöksen täytyy käydä läpi integraatiopyyntö, mikä on "
+"monimutkaista ja aikaa vievää."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:45
@@ -166,6 +199,13 @@ msgid ""
 "il y a eu [8 versions "
 "publiées](https://github.com/jitsi/jitsi-meet/releases) !"
 msgstr ""
+"Muutaman minuutin kuluttua löydän äärimmäisen tapauksen, "
+"[tämän pyynnön, joka on odottanut yli 8 kuukautta]"
+"(https://github.com/jitsi/jitsi-meet/pull/14754).  Kuitenkin sillä välin "
+"ohjelmiston käännettävät merkkijonot sisältävä tiedosto "
+"[on jo muuttunut 19 kertaa]"
+"(https://github.com/jitsi/jitsi-meet/commits/master/lang/main.json) ja "
+"[8 versiota on julkaistu](https://github.com/jitsi/jitsi-meet/releases)!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:47
@@ -176,6 +216,9 @@ msgid ""
 "d'information sur comment traduire, ni dans le [guide de "
 "contribution](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 msgstr ""
+"[readme](https://github.com/jitsi/jitsi-meet/blob/master/README.md):ssä ei "
+"ole tietoa kääntämisestä, eikä [panosoppaassa]"
+"(https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:50
@@ -188,6 +231,11 @@ msgid ""
 "suivre les changements, il faut probablement s'abonner aux changements du "
 "projet github."
 msgstr ""
+"Kieliyhteisöt, joissa on paljon ihmisiä, saattavat pystyä käyttämään "
+"tarvittavaa aikaa osallistujien määrän ansiosta (ja silloinkin...), kaikki "
+"muut jäävät pois ja ohjelmisto tarjoaa vain ajantasaisia käännöksiä jo "
+"yliedustettuista kielistä.  Pysyäksesi mukana muutoksissa, sinun täytyy "
+"todennäköisesti tilata ne github-projektissa."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:53
@@ -199,12 +247,16 @@ msgid ""
 "discussion avec les équipes de Jitsi Meet, cela n'a pas toujours été comme "
 "ça, une plateforme de traduction a déjà été utilisée par le passé."
 msgstr ""
+"Kyseenalaistamme tämän toimintatavan tehokkuuden, vaikka voimme toivottaa "
+"tervetulleeksi ohjelmiston kääntämisen sallimisen, pahoittelen, ettei "
+"tällaista panosta ole huomioitu.  En osallistunut keskusteluihin Jitsi Meet -"
+"tiimien kanssa, se ei aina ollut niin, käännösalustaa on jo käytetty aiemmin."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:54
 #, markdown-text, no-wrap
 msgid "Clair... mais très spécifique GNOME"
-msgstr ""
+msgstr "Selvä... mutta hyvin tarkka GNOME"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:61
@@ -220,12 +272,21 @@ msgid ""
 "processus est donc imparfait, manuel, mais l'outillage permet de réduire "
 "fortement le coût de gestion pour les contributeurs et contributrices."
 msgstr ""
+"GNOME-projekti käyttää samankaltaista versiota, mutta keskittyy "
+"käännöstiimien tarpeisiin.  Käännöksen lähettämiseen lopullisessa "
+"ohjelmistossa on pakollista käyttää git-tiedostoa.  Kääntäjille on kuitenkin "
+"saatavilla [työkalu](https://l10n.gnome.org), jonka avulla he voivat tietää "
+"tarkalleen, mitä pitää kääntää, ja tehdä yhteistyötä.  Lisäksi pitkä lista "
+"ohjelmistoja GNOME-ekosysteemissä noudattaa samaa uusien julkaisujen rytmiä "
+"ja samoja työprosesseja.  Prosessi on siksi epätäydellinen ja manuaalinen, "
+"mutta työkalut mahdollistavat hallinnointikustannusten merkittävän "
+"pienentämisen osallistujille."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:62
 #, markdown-text, no-wrap
 msgid "Efficace... mais très spécifique Mozilla"
-msgstr ""
+msgstr "Tehokas... mutta hyvin tarkka Mozilla"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:65
@@ -238,6 +299,11 @@ msgid ""
 "organisé en [équipes de "
 "traduction](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/teams_projects.html))."
 msgstr ""
+"Mozilla-projekti pitää kääntämistä keskeisenä aiheena toiminnassaan, ja jos "
+"haluat osallistua siihen, voit siirtyä osoitteeseen [Pontoon-käännösalusta]"
+"(https://pontoon.mozilla.org/projects/firefox/) (projekti on organisoitu "
+"[käännöstiimeihin](https://mozilla-l10n.github.io/localizer-documentation/"
+"tools/pontoon/teams_projects.html))."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:67
@@ -246,6 +312,8 @@ msgid ""
 "Savoir ce qui est traduisible est facile, et y trouver des contacts pour "
 "répondre aux questions l'est également."
 msgstr ""
+"On helppoa tietää, mikä on käännettävissä, ja kontaktien löytäminen "
+"kysymyksiin on myös helppoa."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:71
@@ -258,12 +326,18 @@ msgid ""
 "en place une équipe et des processus de relecture, tout l'outillage est "
 "spécifique aux projets de Mozilla, mais globalement, c'est plutôt efficace."
 msgstr ""
+"Tämä projekti on valtava, sinulla tulee olemaan vaikeuksia ymmärtää vaiheita "
+"käännösalustan ja ohjelmistojulkaisujen välillä, mutta onko se vakavaa? Se "
+"toimii hyvin, ohjelmiston julkaisupäivät ovat tiedossa, prioriteetit "
+"määritelty.  Saatat tuhlata hieman aikaa tiimin perustamiseen ja "
+"oikolukuprosesseihin, kaikki työkalut ovat Mozilla-projekteille "
+"räätälöityjä, mutta kokonaisuutena ne ovat varsin tehokkaita."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:72
 #, markdown-text, no-wrap
 msgid "Automatisé et générique, la modernité émancipatrice"
-msgstr ""
+msgstr "Automatisoitu ja geneerinen, vapauttava moderniteetti"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:75
@@ -273,6 +347,9 @@ msgid ""
 "permettant de s'abonner en cas de changements, de travailler à plusieurs, "
 "d'avoir des détections d'anomalies."
 msgstr ""
+"On mahdollista tarjota työkalu, joka on omistettu käännöstoimintaan, jolloin "
+"voit tilata tilanteen muutosten sattuessa, tehdä yhteistyötä muiden kanssa "
+"ja havaita poikkeamia."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:77
@@ -281,6 +358,8 @@ msgid ""
 "Et, bonus ultime, d'avoir une synchronisation automatique avec le code "
 "source du logiciel."
 msgstr ""
+"Ja lopullinen etu on automaattinen synkronointi ohjelmiston lähdekoodin "
+"kanssa."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:79
@@ -303,6 +382,10 @@ msgid ""
 "traduction, Weblate est devenu aussi évident et efficient que git pour la "
 "gestion du code source pour le développement logiciel."
 msgstr ""
+"Monet projektit käyttävät Weblatea, joten tämä on valinta, jonka sinun "
+"tulisi tehdä, riippumatta tilanteestasi. Käännösalustaekosysteemissä Weblate "
+"on tullut yhtä ilmeiseksi ja tehokkaaksi kuin git ohjelmistokehityksen "
+"lähdekoodin hallinnassa."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:83
@@ -313,6 +396,9 @@ msgid ""
 "avec cette large communauté, vous aurez de bonnes chances d'obtenir un outil "
 "traduit en de nombreuses langues."
 msgstr ""
+"Jos projektisi tarjoaa tämän alustan, annat toimijuutta kielipanoksille, ja "
+"vaalimalla suhdetta tähän suureen yhteisöön sinulla on hyvät mahdollisuudet "
+"saada työkalu käännetyksi monille kielille."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:84
@@ -327,6 +413,8 @@ msgid ""
 "L'articulation entre la vie technique du projet et les traductions est "
 "cruciale pour l'efficacité des processus de traduction."
 msgstr ""
+"Projektin teknisen elinkaaren ja käännösten yhdistäminen on ratkaisevan "
+"tärkeää käännösprosessien tehokkuuden kannalta."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:89
@@ -335,6 +423,8 @@ msgid ""
 "Des outils remplis de fonctionnalités intéressantes et d'automatisation "
 "existent pour faciliter la vie de tout le monde."
 msgstr ""
+"Työkalut, jotka ovat täynnä hienoja ominaisuuksia ja automaatiota, tekevät "
+"kaikkien elämästä helpompaa."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:91
@@ -344,6 +434,8 @@ msgid ""
 "logiciels contiennent toujours plus de traductions et qu'un nombre croissant "
 "de langues soient prises en charge."
 msgstr ""
+"Kehitystiimien tehtävä on hyödyntää sitä, jotta ohjelmisto sisältää enemmän "
+"käännöksiä ja tuetaan enemmän kieliä."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:93
@@ -353,3 +445,5 @@ msgid ""
 "Comment faire pour compenser un projet endormi ? Cela sera l'objet d'un "
 "futur article."
 msgstr ""
+"Mutta mitä tapahtuu, kun projekti ei tee uusia versioita? Miten korvaat "
+"lepotilassa olevan projektin? Tämä tulee olemaan tulevan artikkelin aiheena."
