@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
 # Ricky Tigg <ricky.tigg@gmail.com>, 2025.
+# Jouko Tiilikainen <jouko.tiilikainen@gmail.com>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-02-25 23:09+0100\n"
-"PO-Revision-Date: 2025-04-23 16:42+0000\n"
-"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
+"PO-Revision-Date: 2025-11-17 14:18+0000\n"
+"Last-Translator: Jouko Tiilikainen <jouko.tiilikainen@gmail.com>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-02-25-slow-and-dead-software/fi/>\n"
 "Language: fi\n"
@@ -16,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
@@ -34,7 +35,7 @@ msgstr "Alueellistaminen"
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
 #, no-wrap
 msgid "Que faire pour les logiciels avec peu ou pas de nouvelles versions ?"
-msgstr ""
+msgstr "Entä ohjelmistot, joissa on vähän tai ei ollenkaan uusia versioita?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:12
@@ -43,6 +44,8 @@ msgid ""
 "Dans les articles précédents, on a vu que les traductions sont des fichiers "
 "publiés en même temps que le logiciel."
 msgstr ""
+"Aiemmissa artikkeleissa olemme nähneet, että käännökset ovat tiedostoja, "
+"jotka julkaistaan samaan aikaan ohjelmiston kanssa."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:15
@@ -52,6 +55,9 @@ msgid ""
 "l’aimez bien, il répond à votre besoin.  Cependant, des problèmes de "
 "traduction vous gênent, certains menus ne sont pas traduits."
 msgstr ""
+"Kuvitellaan seuraava skenaario: olet juuri löytänyt ohjelmiston, pidät "
+"siitä, se vastaa tarpeitasi.  Sinulla on kuitenkin ongelmia kääntämisen "
+"kanssa, joitain valikoita ei käännetä."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:17
@@ -60,6 +66,8 @@ msgid ""
 "Après avoir deviné où se trouvait ce projet sur les internets, vous vous "
 "rendez compte que ce logiciel ne sort au mieux qu’une version par an."
 msgstr ""
+"Kun olet arvannut, missä tämä projekti oli Internetissä, huomaat, että tämä "
+"ohjelmisto julkaisee parhaimmillaan vain yhden version vuodessa."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:22
@@ -73,6 +81,12 @@ msgid ""
 "destination, la vôtre.  Tout le reste n’est qu’une barrière à l’entrée "
 "limitant le nombre de personnes pouvant apporter leur aide."
 msgstr ""
+"Tämä tarkoittaa sitä, että parhaimmillaan, jos projekti on edelleen elossa "
+"ja muutokset yhdistetään, kestää todennäköisesti useita kuukausia, ennen "
+"kuin työsi on muiden käyttäjien käytettävissä.  Mukaan lukien itsesi! Koska "
+"kyllä, kääntäminen vaatii vain kaksi asiaa: alkuperäisen kielen ymmärtämisen "
+"ja kohdekielen, sinun kielen, hallitsemisen.  Kaikki muu on vain "
+"markkinoille pääsyn este, joka rajoittaa auttavien ihmisten määrää."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:26
@@ -85,6 +99,11 @@ msgid ""
 "traduction avec beaucoup d’attention, il ne sera pas bienvenu de demander "
 "une sortie plus rapide pour compléter ou corriger une traduction."
 msgstr ""
+"Etkä voi tehdä mitään ohjelmiston tulosteen nopeudella.  Olipa sen luonne "
+"mikä tahansa, uuden version julkaiseminen vaatii paljon vaivaa, pohdintaa, "
+"testausta, koordinointia, viestintää.  Ellei projekti ole riittävän kypsä ja "
+"harkitse käännöstä erittäin huolellisesti, ei ole hyvä idea pyytää nopeampaa "
+"tulosta käännöksen valmistumiseen tai korjaamiseen."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:29
@@ -95,6 +114,9 @@ msgid ""
 "et le projet que vous aimez n’a pas vu de nouvelles versions depuis "
 "plusieurs années."
 msgstr ""
+"Joskus tämä energia on sellaista, että ohjelmistojulkaisuja tulee vain yksi "
+"vuodessa.  Toisinaan tämä energia on kuluttanut projektin tekijän, eikä "
+"rakastamasi projekti ole nähnyt uusia versioita useaan vuoteen."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:32
@@ -104,12 +126,14 @@ msgid ""
 "impasse… Sauf si… votre distribution Linux permet de surcharger les "
 "traductions !"
 msgstr ""
+"Vaikka tämä ohjelmisto saattaa toimia hyvin, olet pulassa... Ellei... Linux-"
+"jakelusi avulla voit ylikuormittaa käännöksiä!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:34
 #, markdown-text
 msgid "C’est exactement ce que fait le projet Ubuntu."
-msgstr ""
+msgstr "Juuri tätä Ubuntu-projekti tekee."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:38
@@ -121,12 +145,16 @@ msgid ""
 "traductrices, 50 groupes de traduction… Impressionnant ? Anecdotique ? Je "
 "vous en parlerai dans un futur article."
 msgstr ""
+"Ubuntun avulla voit kääntää paljon ohjelmistoja https://"
+"translations.launchpad.net/-alustansa kautta. Se on melko suuri alusta: 3 "
+"151 497 merkkijonoa 63 017 tiedostossa, 386 kieltä, 88 145 kääntäjää, 50 "
+"käännösryhmää... Vaikuttava? Empiirisiä? Kerron siitä tulevassa artikkelissa."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:40
 #, markdown-text
 msgid "Comment ça fonctionne ?"
-msgstr ""
+msgstr "Miten se toimii?"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:45
@@ -141,6 +169,13 @@ msgid ""
 "utilisateurices d’Ubuntu, sans avoir à attendre une nouvelle version du "
 "logiciel."
 msgstr ""
+"Koska jakelu on valtava mekanismi ohjelmistojen jakamiseen/toimittamiseen "
+"käyttäjille, käännökset toimitetaan ohjelmistosta irrallaan olevaa polkua "
+"pitkin.  Teknisesti käyttäjän tietokoneella se ei muuta mitään, jokaisella "
+"ohjelmistolla on käännöksensä.  Mutta mitä tulee päivityksiin, käännökset "
+"voidaan päivittää ilman ohjelmiston päivittämistä.  Tämän avulla voit jakaa "
+"uusia käännöksiä Ubuntu-käyttäjille ilman, että sinun tarvitsee odottaa "
+"ohjelmiston uutta versiota."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:47
@@ -151,6 +186,10 @@ msgid ""
 "comment ce projet souhaite me contribuer ! Pour rappel, exiger l’usage de "
 "git est une barrière immense pour beaucoup."
 msgstr ""
+"Super! Tavoite saavutettu! Voin kääntää haluamani ohjelmiston ilman, että "
+"minun tarvitsee tietää, onko se elossa, dynaaminen, tai edes etsiä, missä ja "
+"miten tämä projekti haluaa vaikuttaa minuun! Muistutuksena, gitin käytön "
+"vaatiminen on valtava este monille."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:51
@@ -160,6 +199,9 @@ msgid ""
 "bénéficient pas.  Le projet en question, même si lent ou inactif n’en "
 "bénéficie pas."
 msgstr ""
+"Paitsi että se on vain Ubuntua varten.  Muut Linux-jakelut eivät hyödy "
+"tästä.  Kyseinen hanke, vaikka se olisi hidas tai passiivinen, ei hyödy "
+"siitä."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:58
@@ -178,6 +220,20 @@ msgid ""
 "Sans connaître les relations entre les communautés Ubuntu et GNOME, qui sont "
 "potentiellement excellentes, je vois ici un risque de conflit."
 msgstr ""
+"Mikä pahempaa, joskus se on päällekkäinen työ, Ubuntu-projektin sisällä voit "
+"korvata muiden projektien työn.  Muutaman minuutin kuluttua löydän "
+"projektin, joka kuuluu GNOMEn piiriin ([gnome-remote-desktop on "
+"Launchpad](https://translations.launchpad.net/ubuntu/plucky/+source/"
+"gnome-remote-desktop/+pots/gnome-remote-desktop/fr/"
+"+translate?show=untranslated) ja [gnome-remote-desktop on gitlab](https://"
+"gitlab.gnome.org/GNOME/gnome-remote-desktop/-/blob/master/po/"
+"fr.po?ref_type=heads)).  Gitlabissa näemme lisäyksen, jota ei ole "
+"Launchpadissa, joten se on mahdollista kääntää Launchpadin ulkopuolelle.  "
+"Kyllä, [l10n.gnome.org...]"
+"(https://l10n.gnome.org/vertimus/gnome-remote-desktop/master/po/fr/level1/)"
+".  Tämän projektin ei pitäisi olla Launchpadissa, miksi se on siellä? "
+"Tietämättä Ubuntu- ja GNOME-yhteisöjen välistä suhdetta, jotka ovat "
+"potentiaalisesti erinomaisia, näen tässä ristiriidan riskin."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:63
@@ -192,6 +248,13 @@ msgid ""
 "iels auraient créé un outil du même niveau de qualité que Pontoon ou "
 "Weblate."
 msgstr ""
+"Lopuksi, Launchpad on valtava ohjelmisto, jolla on monia rooleja Ubuntu-"
+"yhteisössä, ei vain kääntäminen.  En tiedä, tekeekö Launchpad työnsä hyvin "
+"auttaakseen Ubuntu-yhteisöä, mutta käännösalustana se on hyvin rajallinen ja "
+"vanhanaikainen työkalu.  Ja se on normaalia, käännösalusta on kallis "
+"tietojen ja taitojen suhteen.  Jos kääntäminen olisi ollut Ubuntu-yrityksen "
+"prioriteetti, he olisivat luoneet samanlaatuisen työkalun kuin Pontoon tai "
+"Weblate."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:64
@@ -200,3 +263,5 @@ msgid ""
 "Il y a du bon dans ce que fait Ubuntu, merci à eux de démontrer que c’est "
 "possible."
 msgstr ""
+"Ubuntun toiminnassa on hyvää, kiitos heille siitä, että he osoittivat, että "
+"se on mahdollista."
