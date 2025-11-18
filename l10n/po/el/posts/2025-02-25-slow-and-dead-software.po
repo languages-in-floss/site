@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-02-25 23:09+0100\n"
-"PO-Revision-Date: 2025-11-06 13:55+0000\n"
+"PO-Revision-Date: 2025-11-18 18:47+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-02-25-slow-and-dead-software/el/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.1\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
@@ -34,7 +34,7 @@ msgstr "Περιφερειοποίηση"
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
 #, no-wrap
 msgid "Que faire pour les logiciels avec peu ou pas de nouvelles versions ?"
-msgstr ""
+msgstr "Τι μπορεί να γίνει για λογισμικό με λίγες ή καμία νέα έκδοση;"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:12
@@ -43,6 +43,8 @@ msgid ""
 "Dans les articles précédents, on a vu que les traductions sont des fichiers "
 "publiés en même temps que le logiciel."
 msgstr ""
+"Στα προηγούμενα άρθρα, είδαμε ότι οι μεταφράσεις είναι αρχεία που "
+"δημοσιεύονται ταυτόχρονα με το λογισμικό."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:15
@@ -52,6 +54,9 @@ msgid ""
 "l’aimez bien, il répond à votre besoin.  Cependant, des problèmes de "
 "traduction vous gênent, certains menus ne sont pas traduits."
 msgstr ""
+"Φανταστείτε το ακόλουθο σενάριο: ανακαλύψατε ένα λογισμικό, σας αρέσει πολύ, "
+"καλύπτει τις ανάγκες σας. Ωστόσο, σας ενοχλούν κάποια λάθη στη μετάφραση ή "
+"ορισμένα μενού δεν είναι μεταφρασμένα."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:17
@@ -60,6 +65,8 @@ msgid ""
 "Après avoir deviné où se trouvait ce projet sur les internets, vous vous "
 "rendez compte que ce logiciel ne sort au mieux qu’une version par an."
 msgstr ""
+"Αφού καταφέρατε να εντοπίσετε την τοποθεσία του στο διαδίκτυο, "
+"συνειδητοποιείτε ότι κυκλοφορεί το πολύ μόνο μία έκδοσή του ανά έτος."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:22
@@ -73,6 +80,13 @@ msgid ""
 "destination, la vôtre.  Tout le reste n’est qu’une barrière à l’entrée "
 "limitant le nombre de personnes pouvant apporter leur aide."
 msgstr ""
+"Αυτό σημαίνει ότι, στην καλύτερη περίπτωση, εφόσον το έργο είναι ακόμα "
+"ενεργό και οι αλλαγές σας συγχωνευθούν, πιθανότατα θα περάσουν αρκετοί μήνες "
+"μέχρι να γίνει διαθέσιμη η δουλειά σας σε άλλους χρήστες, "
+"συμπεριλαμβανομένου και εσάς! Διότι ναι, η μετάφραση απαιτεί μόνο δύο "
+"πράγματα: την κατανόηση της αρχικής γλώσσας και την άριστη γνώση της γλώσσας "
+"προορισμού, δηλαδή της δικής σας. Όλα τα άλλα αποτελούν απλώς εμπόδια που "
+"περιορίζουν τον αριθμό των ατόμων που μπορούν να συνεισφέρουν."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:26
@@ -85,6 +99,13 @@ msgid ""
 "traduction avec beaucoup d’attention, il ne sera pas bienvenu de demander "
 "une sortie plus rapide pour compléter ou corriger une traduction."
 msgstr ""
+"Και δεν υπάρχει τίποτα που μπορείτε να κάνετε για να επιταχύνετε την "
+"κυκλοφορία ενός λογισμικού. Ανεξαρτήτως της φύσης ενός λογισμικού, η "
+"κυκλοφορία μιας νέας έκδοσης απαιτεί πολλή δουλειά, σκέψη, δοκιμές, "
+"συντονισμό και επικοινωνία. Εκτός αν το έργο είναι αρκετά ώριμο και "
+"αντιμετωπίζει τη μετάφραση με πολλή προσοχή, δεν είναι σωστό να ζητάτε την "
+"ταχύτερη κυκλοφορία ενός λογισμικού για την ολοκλήρωση ή τη διόρθωση μιας "
+"μετάφρασης."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:29
@@ -95,6 +116,9 @@ msgid ""
 "et le projet que vous aimez n’a pas vu de nouvelles versions depuis "
 "plusieurs années."
 msgstr ""
+"Μερικές φορές, αυτή η διαδικασία επιτρέπει μόνο μία κυκλοφορία ανά έτος. "
+"Άλλες φορές, μπορεί να εξαντλήσει τόσο τους δημιουργούς ενός έργου που σας "
+"αρέσει, με αποτέλεσμα να μην κυκλοφορούν νέες εκδόσεις για αρκετά χρόνια."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:32
@@ -104,12 +128,15 @@ msgid ""
 "impasse… Sauf si… votre distribution Linux permet de surcharger les "
 "traductions !"
 msgstr ""
+"Ακόμα κι αν αυτό το λογισμικό λειτουργεί σωστά, εσείς βρίσκεστε σε αδιέξοδο… "
+"Εκτός αν… η διανομή Linux που χρησιμοποιείτε επιτρέπει την παράκαμψη των "
+"μεταφράσεων!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:34
 #, markdown-text
 msgid "C’est exactement ce que fait le projet Ubuntu."
-msgstr ""
+msgstr "Αυτό ακριβώς κάνει το έργο Ubuntu."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:38
@@ -121,12 +148,17 @@ msgid ""
 "traductrices, 50 groupes de traduction… Impressionnant ? Anecdotique ? Je "
 "vous en parlerai dans un futur article."
 msgstr ""
+"Το Ubuntu επιτρέπει τη μετάφραση πολλών προγραμμάτων μέσω της πλατφόρμας του "
+"(https://translations.launchpad.net/). Πρόκειται για μια μεγάλη πλατφόρμα: "
+"3.151.497 συμβολοσειρές σε 63.017 αρχεία, 386 γλώσσες, 88.145 μεταφραστές, "
+"50 ομάδες μετάφρασης… Εντυπωσιακό; Αδιάφορο; Θα σας πω σε ένα μελλοντικό "
+"άρθρο."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:40
 #, markdown-text
 msgid "Comment ça fonctionne ?"
-msgstr ""
+msgstr "Πώς λειτουργεί αυτό;"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:45
@@ -141,6 +173,14 @@ msgid ""
 "utilisateurices d’Ubuntu, sans avoir à attendre une nouvelle version du "
 "logiciel."
 msgstr ""
+"Δεδομένου ότι μια διανομή είναι ένας τεράστιος μηχανισμός για την παροχή/"
+"διάθεση λογισμικού στους χρήστες, οι μεταφράσεις παραδίδονται μέσω μιας "
+"ξεχωριστής διαδρομής από το ίδιο το λογισμικό. Τεχνικά, δεν αλλάζει τίποτα "
+"στον υπολογιστή του χρήστη· κάθε λογισμικό έχει τις μεταφράσεις του. Όμως "
+"όσον αφορά τις ενημερώσεις, οι μεταφράσεις μπορούν να ενημερωθούν χωρίς να "
+"αναβαθμιστεί το ίδιο το λογισμικό. Αυτό επιτρέπει τη διάθεση νέων "
+"μεταφράσεων στους χρήστες του Ubuntu, χωρίς να χρειάζεται να περιμένουν "
+"κάποια νέα έκδοση του λογισμικού."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:47
@@ -151,6 +191,10 @@ msgid ""
 "comment ce projet souhaite me contribuer ! Pour rappel, exiger l’usage de "
 "git est une barrière immense pour beaucoup."
 msgstr ""
+"Τέλεια! Στόχος επετεύχθη! Μπορώ να μεταφράσω το λογισμικό που μου αρέσει, "
+"χωρίς να χρειάζεται να ξέρω αν είναι ενεργό και δυναμικό, ούτε καν να ψάξω "
+"πού και πώς αυτό θέλει να συνεισφέρω! Προς υπενθύμισή σας, η απαίτηση χρήσης "
+"του git αποτελεί τεράστιο εμπόδιο για πολλούς."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:51
@@ -160,6 +204,9 @@ msgid ""
 "bénéficient pas.  Le projet en question, même si lent ou inactif n’en "
 "bénéficie pas."
 msgstr ""
+"Ωστόσο, αυτό ισχύει μόνο για το Ubuntu. Οι άλλες διανομές Linux δεν "
+"επωφελούνται από αυτό. Το εν λόγω έργο, ακόμα κι αν αναπτύσσεται αργά ή "
+"είναι ανενεργό, δεν επωφελείται από αυτό."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:58
@@ -178,6 +225,21 @@ msgid ""
 "Sans connaître les relations entre les communautés Ubuntu et GNOME, qui sont "
 "potentiellement excellentes, je vois ici un risque de conflit."
 msgstr ""
+"Ακόμα χειρότερα, μερικές φορές, πρόκειται για διπλή εργασία. Μέσα στο έργο "
+"Ubuntu, μπορεί να διαγραφεί η δουλειά άλλων έργων. Μέσα σε λίγα λεπτά, μπορώ "
+"να βρω ένα έργο που ανήκει στο GNOME ([gnome-remote-desktop στο "
+"Launchpad](https://translations.launchpad.net/ubuntu/plucky/+source/"
+"gnome-remote-desktop/+pots/gnome-remote-desktop/el/"
+"+translate?show=untranslated) και [gnome-remote-desktop στο GitLab](https://"
+"gitlab.gnome.org/GNOME/gnome-remote-desktop/-/blob/master/po/"
+"el.po?ref_type=heads)). Στο GitLab, υπάρχει μια συνεισφορά που δεν υπάρχει "
+"στο Launchpad, επομένως είναι σαφές ότι υπάρχει δυνατότητα μετάφρασης και "
+"εκτός του Launchpad. Ναι, μέσω του [l10n.gnome.org…]"
+"(https://l10n.gnome.org/vertimus/gnome-remote-desktop/master/po/el/level1/). "
+"Αυτό το έργο δεν θα έπρεπε να βρίσκεται εξαρχής στο Launchpad, γιατί όμως "
+"υπάρχει εκεί; Χωρίς να γνωρίζω τις σχέσεις ανάμεσα στις κοινότητες του "
+"Ubuntu και του GNOME, που πιθανότατα είναι εξαιρετικές, βλέπω εδώ έναν "
+"κίνδυνο διένεξης των δύο μεταφράσεων."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:63
@@ -192,6 +254,14 @@ msgid ""
 "iels auraient créé un outil du même niveau de qualité que Pontoon ou "
 "Weblate."
 msgstr ""
+"Τέλος, το Launchpad είναι ένα τεράστιο λογισμικό που διαδραματίζει πολλούς "
+"ρόλους στην κοινότητα του Ubuntu, όχι μόνο στη μετάφραση. Δεν γνωρίζω αν το "
+"Launchpad κάνει καλά τη δουλειά του για να βοηθήσει την κοινότητα του "
+"Ubuntu, αλλά ως πλατφόρμα μετάφρασης, είναι ένα πολύ περιορισμένο και "
+"παλαιικό εργαλείο. Και αυτό είναι λογικό, καθώς μια πλατφόρμα μετάφρασης "
+"απαιτεί γνώσεις και δεξιότητες. Εάν η μετάφραση αποτελούσε προτεραιότητα για "
+"την εταιρεία Ubuntu, θα είχε δημιουργήσει ένα εργαλείο στο ίδιο επίπεδο "
+"ποιότητας με το Pontoon ή το Weblate."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:64
@@ -200,3 +270,5 @@ msgid ""
 "Il y a du bon dans ce que fait Ubuntu, merci à eux de démontrer que c’est "
 "possible."
 msgstr ""
+"Υπάρχει κάτι καλό σε αυτό που κάνει το Ubuntu και ευχαριστώ την ομάδα του "
+"που απέδειξε ότι κάτι τέτοιο είναι δυνατό."

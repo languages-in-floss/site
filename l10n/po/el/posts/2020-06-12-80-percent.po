@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-11-06 13:55+0000\n"
+"PO-Revision-Date: 2025-11-18 18:47+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-06-12-80-percent/el/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.1\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap
@@ -142,6 +142,11 @@ msgid ""
 "car il y a toutes les chances pour que cette langue maternelle ne soit pas "
 "celle des développeurs en charge de l’outil."
 msgstr ""
+"Υπάρχει μεγάλη πιθανότητα η μητρική γλώσσα των χρηστών να μην είναι τα "
+"αγγλικά. Και η ενθάρρυνση των προγραμματιστών να χρησιμοποιούν τη μητρική "
+"τους γλώσσα δεν λύνει το πρόβλημα, καθώς υπάρχει μεγάλη πιθανότητα η "
+"συγκεκριμένη γλώσσα να μην είναι αυτή των επικεφαλής προγραμματιστών του "
+"εργαλείου."
 
 #. type: Plain text
 msgid ""
@@ -151,6 +156,11 @@ msgid ""
 "être un prérequis pour utiliser le logiciel, en cas d’absence de maîtrise de "
 "l’anglais."
 msgstr ""
+"Ανεξάρτητα από τη γλώσσα τους, οι χρήστες προτιμούν να χρησιμοποιούν τη δική "
+"τους για να επιτύχουν τους στόχους τους, επειδή αυτό βελτιώνει την άνεση και "
+"την αποτελεσματικότητα. Η χρήση της μητρικής γλώσσας μπορεί επίσης να είναι "
+"απαραίτητη για τη χρήση του λογισμικού όταν δεν υπάρχει επαρκής γνώση των "
+"αγγλικών."
 
 #. type: Plain text
 msgid ""
@@ -163,6 +173,14 @@ msgid ""
 "si on considère les personnes ayant un niveau natif ou courant, nous "
 "descendons à 9 %."
 msgstr ""
+"Αναλυτικότερα, υπάρχουν εκτιμήσεις για τον πληθυσμό ανά γλώσσα και περιοχή "
+"που παρέχονται από το Unicode Consortium, και πιο συγκεκριμένα το CLDR. "
+"[Αυτές οι εκτιμήσεις δείχνουν ότι το 21%](https://github.com/unicode-org/"
+"cldr/commits/master/tools/java/org/unicode/cldr/util/data/"
+"country_language_population_raw.txt) του παγκόσμιου πληθυσμού μιλούν "
+"αγγλικά. Όμως εδώ, το «μιλούν» καλύπτει πολλές διαφορετικές περιπτώσεις. Εάν "
+"λάβουμε υπόψη τα άτομα που μιλούν τα αγγλικά άπταιστα ή σε επίπεδο μητρικής "
+"γλώσσας, το ποσοστό μειώνεται στο 9%."
 
 #. type: Plain text
 msgid ""
@@ -174,6 +192,15 @@ msgid ""
 "est possible de ne pas connaître la langue source du logiciel, mais "
 "d’utiliser une autre langue comme pivot pour réaliser une traduction."
 msgstr ""
+"Όταν επιδιώκουμε να αυξήσουμε τον αριθμό των χρηστών, στόχος είναι να "
+"αυξήσουμε και τον αριθμό των πιθανών εθελοντών. Αυτοί μπορεί να κάνουν τα "
+"πρώτα τους βήματα διορθώνοντας μια μετάφραση ή παρέχοντας μια πλήρη νέα "
+"μετάφραση και στη συνέχεια, να προχωρήσουν σε λιγότερο ή περισσότερο "
+"τεχνικές δραστηριότητες "
+"(επικοινωνία, υποστήριξη, τεκμηρίωση, δοκιμές, προγραμματισμό...). Υπάρχει "
+"επίσης η περίπτωση κάποιος να μην γνωρίζει την αρχική γλώσσα του λογισμικού, "
+"αλλά να χρησιμοποιήσει μια άλλη γλώσσα ως ενδιάμεση για να πραγματοποιήσει "
+"τη μετάφραση."
 
 #. type: Plain text
 msgid ""
@@ -181,6 +208,8 @@ msgid ""
 "faut ajouter le support linguistique.  C’est ce qu’on appelle "
 "l’internationalisation."
 msgstr ""
+"Για να μεγαλώσει η βάση των πιθανών χρηστών, πρέπει να προστεθεί η κατάλληλη "
+"γλωσσική υποστήριξη. Αυτή η διαδικασία ονομάζεται «διεθνοποίηση»."
 
 #. type: Title ##
 #, no-wrap
@@ -189,13 +218,15 @@ msgstr "Η πολυπλοκότητα της διεθνοποίησης"
 
 #. type: Plain text
 msgid "Prendre en charge de multiples langues nécessite :"
-msgstr ""
+msgstr "Η υποστήριξη πολλαπλών γλωσσών απαιτεί:"
 
 #. type: Bullet: '* '
 msgid ""
 "d’utiliser des outils qui offrent les fonctionnalités nécessaires (marquer "
 "les contenus à traduire, les traduire et les diffuser)"
 msgstr ""
+"τη χρήση εργαλείων που προσφέρουν τις απαραίτητες λειτουργίες "
+"(σήμανση περιεχομένου προς μετάφραση, μετάφραση και διανομή)"
 
 #. type: Bullet: '* '
 msgid ""
@@ -203,6 +234,9 @@ msgid ""
 "de traduction (quand le code est terminé, il faut informer les personnes "
 "réalisant les traduction et intégrer leurs travaux)"
 msgstr ""
+"την αλλαγή των διαδικασιών σχεδιασμού του λογισμικού έτσι, ώστε να "
+"ενσωματωθεί το μεταφραστικό έργο (όταν ολοκληρωθεί ο κώδικας, οι μεταφραστές "
+"θα πρέπει να ενημερώνονται και το έργο τους να ενσωματώνεται)"
 
 #. type: Bullet: '* '
 msgid ""
@@ -210,6 +244,9 @@ msgid ""
 "s’intéresser aux codifications, aux formats de traduction, aux pluriels, à "
 "l’outillage adapté, etc."
 msgstr ""
+"την κάλυψη των αναγκών που σχετίζονται με τη μετάφραση. Αυτό απαιτεί "
+"ενασχόληση με τις κωδικοποιήσεις, τις μορφές μετάφρασης, τους κανόνες "
+"πληθυντικού αριθμού, τα κατάλληλα εργαλεία κ.λπ."
 
 #. type: Plain text
 msgid ""
@@ -218,6 +255,10 @@ msgid ""
 "d’information, la documentation en ligne, les pages man, les notes de "
 "version..."
 msgstr ""
+"Επιπλέον, πέρα από το βασικό περιβάλλον χρήστη, θα πρέπει να μεταφραστούν το "
+"περιβάλλον της γραμμής εντολών, οι ιστότοποι παρουσιάσεων, τα ενημερωτικά "
+"δελτία, η διαδικτυακή τεκμηρίωση, οι σελίδες εγχειριδίων, οι σημειώσεις "
+"έκδοσης κ.α."
 
 #. type: Plain text
 msgid ""
@@ -226,6 +267,10 @@ msgid ""
 "n’offrent aucune aide, l’expert·e qui devra se débrouiller seul·e ou changer "
 "d’outil."
 msgstr ""
+"Η διεθνοποίηση απαιτεί χρόνο και προηγμένες τεχνικές δεξιότητες. Δυστυχώς, "
+"ορισμένα εργαλεία που χρησιμοποιούνται για τα λογισμικά δεν παρέχουν καμία "
+"βοήθεια, αναγκάζοντας τους ειδικούς να διαχειριστούν μόνοι τους τυχόν "
+"προβλήματα ή να στραφούν σε άλλα εργαλεία."
 
 #. type: Plain text
 msgid ""
@@ -237,6 +282,13 @@ msgid ""
 "d’énergie pour une langue ayant un nombre de locuteurs très faibles.  Et à "
 "notre époque, ne pas exister sur les outils numériques est dangereux."
 msgstr ""
+"Τα καλά νέα είναι ότι αυτή η διαδικασία χρειάζεται να γίνει μόνο μία φορά "
+"για έναν θεωρητικά απεριόριστο αριθμό γλωσσών. Αυτό είναι ιδιαίτερα θετικό, "
+"αφού σήμερα υπάρχουν 7.000 με 9.000 γλώσσες, εκ των οποίων σχεδόν 2.500 "
+"κινδυνεύουν με εξαφάνιση. Εάν έπρεπε να γίνει ξεχωριστή δουλειά για κάθε "
+"γλώσσα, ελάχιστοι προγραμματιστές θα ήταν πρόθυμοι να δαπανήσουν ενέργεια σε "
+"μια γλώσσα με πολύ μικρό αριθμό ομιλητών. Και στη σημερινή εποχή, η έλλειψη "
+"παρουσίας και πρόσβασης στα ψηφιακά εργαλεία είναι επικίνδυνη."
 
 #. type: Title ##
 #, no-wrap

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-11-06 13:55+0000\n"
+"PO-Revision-Date: 2025-11-18 18:47+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-01-12-how-does-translation-works/el/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.14.1\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -34,7 +34,7 @@ msgstr "Περιφερειοποίηση"
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
 #, no-wrap
 msgid "Où sont les traductions ?"
-msgstr ""
+msgstr "Πού είναι οι μεταφράσεις;"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:12
@@ -46,12 +46,17 @@ msgid ""
 "\"2020-07-03-contribute-to-fedora.md\" >}}), regardons où sont les "
 "traductions d'un logiciel.\n"
 msgstr ""
+"Αφού εξηγήσαμε ότι ένα μεγάλο μέρος του παγκόσμιου πληθυσμού "
+"[δεν μιλά αγγλικά]({{< relref \"2020-06-12-80-percent.md\" >}}) και στη "
+"συνέχεια, [εξηγήσαμε πώς μπορείτε να συνεισφέρετε στη διανομή Fedora]"
+"({{< relref \"2020-07-03-contribute-to-fedora.md\" >}}), ας δούμε πού "
+"βρίσκονται οι μεταφράσεις ενός λογισμικού.\n"
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:13
 #, markdown-text, no-wrap
 msgid "Les traductions font partie intégrante du code"
-msgstr ""
+msgstr "Οι μεταφράσεις αποτελούν αναπόσπαστο μέρος του κώδικα"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:20
@@ -68,12 +73,23 @@ msgid ""
 "Chaque fichier possède ses avantages et inconvénients, cela entre le domaine "
 "de l'internationalisation des logiciels, souvent abrégé `i18n`."
 msgstr ""
+"Οι μεταφράσεις είναι αρχεία που αποτελούν αναπόσπαστο μέρος του πηγαίου "
+"κώδικα που είναι απαραίτητος για την εκτέλεση του προγράμματος. Η μορφή του "
+"αρχείου που περιέχει τις μεταφράσεις διαφέρει ανάλογα με τα εργαλεία που "
+"χρησιμοποιεί η ομάδα ανάπτυξης. Για να πάρετε μια ιδέα για τις κύριες μορφές "
+"αρχείων, η "
+"[λίστα μορφών που υποστηρίζονται από την πλατφόρμα μετάφρασης Weblate]"
+"(https://docs.weblate.org/el/latest/formats.html) θα σας φανεί χρήσιμη. Σε "
+"γενικές γραμμές, η μορφή Gettext χρησιμοποιείται συνήθως για μεταγλωττισμένο "
+"λογισμικό υπολογιστών, ενώ οι μορφές JSON για λογισμικό ιστού. Κάθε αρχείο "
+"έχει τα πλεονεκτήματα και τα μειονεκτήματά του. Αυτό εμπίπτει στον τομέα της "
+"διεθνοποίησης του λογισμικού, που συχνά αναφέρεται ως `i18n` για συντομία."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:21
 #, markdown-text, no-wrap
 msgid "La conséquence sur le travail de traduction"
-msgstr ""
+msgstr "Ο αντίκτυπος στο μεταφραστικό έργο"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:25
@@ -86,6 +102,12 @@ msgid ""
 "savoir si le changement impacte le sens ou la structure de la phrase, les "
 "changements coûtent cher pour les traducteurs."
 msgstr ""
+"Επειδή οι μεταφράσεις αποτελούν μέρος του πηγαίου κώδικα, οι μεταφραστές "
+"πρέπει να παραδίδουν την εργασία τους εγκαίρως, ώστε να μεταφράζεται κάθε "
+"αλλαγή στην τρέχουσα έκδοση. Ακόμα και η πιο μικρή αλλαγή, έστω ενός "
+"γράμματος ή χαρακτήρα, απαιτεί τον έλεγχο κάθε μετάφρασης για να διαπιστωθεί "
+"αν η αλλαγή επηρεάζει το νόημα ή τη δομή της πρότασης. Τέτοιες αλλαγές έχουν "
+"μεγάλο κόστος για τους μεταφραστές."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:28
@@ -98,6 +120,12 @@ msgid ""
 "du projet parvienne aux utilisateurs avec une chaîne affichée en anglais au "
 "milieu d'un logiciel déjà partiellement traduit."
 msgstr ""
+"Τις περισσότερες φορές, και είναι λογικό, οι προγραμματιστές δεν γνωρίζουν "
+"πώς να προσαρμόσουν τις μεταφράσεις όταν κάνουν αλλαγές. Είναι λοιπόν "
+"απαραίτητο οι μεταφραστές να παρακολουθούν στενά την ανάπτυξη του έργου, "
+"ώστε να είναι έτοιμοι να αντιδράσουν και να εμποδίσουν τη διάθεση μιας νέας "
+"έκδοσης του έργου στους χρήστες, ενώ υπάρχουν αμετάφραστες συμβολοσειρές "
+"εντός ενός μερικώς μεταφρασμένου λογισμικού."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:32
@@ -109,12 +137,16 @@ msgid ""
 "traductrices dans chaque langue pour suivre tous ces projets ? Certainement "
 "pas."
 msgstr ""
+"Εδώ είναι που τα πράγματα περιπλέκονται. Υπάρχουν τουλάχιστον χιλιάδες, αν "
+"όχι εκατοντάδες χιλιάδες, έργα ελεύθερου λογισμικού. Υπάρχουν επίσης "
+"χιλιάδες γλώσσες. Μπορούμε όμως να έχουμε αρκετούς μεταφραστές σε κάθε "
+"γλώσσα για να παρακολουθούν όλα αυτά τα έργα; Προφανώς όχι."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:33
 #, markdown-text, no-wrap
 msgid "Processus d'intégration des traductions"
-msgstr ""
+msgstr "Διαδικασία ενσωμάτωσης μεταφράσεων"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:36
@@ -124,12 +156,15 @@ msgid ""
 "organisée l'interaction entre les processus de développement logiciel et de "
 "traduction."
 msgstr ""
+"Ας δούμε τώρα μερικά παραδείγματα έργων για να δούμε πώς οργανώνεται η "
+"αλληλεπίδραση μεταξύ της ανάπτυξης λογισμικού και των διαδικασιών μετάφρασης."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:37
 #, markdown-text, no-wrap
 msgid "Traduisible... mais archaïque !"
 msgstr ""
+"Όταν η δυνατότητα για μετάφραση υπάρχει... αλλά ο τρόπος είναι απαρχαιωμένος!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:40
@@ -140,6 +175,10 @@ msgid ""
 "[lang](https://github.com/jitsi/jitsi-meet/tree/master/lang) contient un "
 "fichier json par langue."
 msgstr ""
+"Το Jitsi Meet είναι ένα λογισμικό διαδικτυακών τηλεδιασκέψεων. Στον πηγαίο "
+"κώδικά του, ο φάκελος [lang]"
+"(https://github.com/jitsi/jitsi-meet/tree/master/lang) περιέχει ένα αρχείο "
+"JSON ανά γλώσσα."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:42
@@ -148,6 +187,8 @@ msgid ""
 "Chaque traduction doit faire l'œuvre d'une demande d'intégration, c'est "
 "compliqué et chronophage."
 msgstr ""
+"Κάθε μετάφραση απαιτεί ένα αίτημα ενσωμάτωσης, το οποίο είναι περίπλοκο και "
+"χρονοβόρο."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:45
@@ -161,6 +202,14 @@ msgid ""
 "il y a eu [8 versions "
 "publiées](https://github.com/jitsi/jitsi-meet/releases) !"
 msgstr ""
+"Μέσα σε λίγα λεπτά, βρήκα μια ακραία περίπτωση: "
+"[αυτό το αίτημα εκκρεμεί για πάνω από 8 μήνες]"
+"(https://github.com/jitsi/jitsi-meet/pull/14754). Στο μεταξύ όμως, το αρχείο "
+"που περιέχει τις συμβολοσειρές του λογισμικού προς μετάφραση "
+"[έχει ήδη αλλάξει 19 φορές]"
+"(https://github.com/jitsi/jitsi-meet/commits/master/lang/main.json), ενώ "
+"έχουν [κυκλοφορήσει 8 νέες εκδόσεις]"
+"(https://github.com/jitsi/jitsi-meet/releases)!"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:47
@@ -171,6 +220,10 @@ msgid ""
 "d'information sur comment traduire, ni dans le [guide de "
 "contribution](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 msgstr ""
+"Δεν υπάρχουν πληροφορίες σχετικά με τον τρόπο μετάφρασης στο [αρχείο readme]"
+"(https://github.com/jitsi/jitsi-meet/blob/master/README.md), ούτε στον "
+"[οδηγό συνεισφοράς]"
+"(https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-contributing/)."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:50
@@ -183,6 +236,12 @@ msgid ""
 "suivre les changements, il faut probablement s'abonner aux changements du "
 "projet github."
 msgstr ""
+"Οι πολυμελείς γλωσσικές κοινότητες μπορεί να είναι σε θέση να αφιερώσουν τον "
+"απαραίτητο χρόνο χάρη στον μεγάλο αριθμό εθελοντών (κι αυτό με επιφύλαξη). "
+"Όλες οι υπόλοιπες όμως θα μείνουν πίσω και το λογισμικό θα προσφέρει "
+"ενημερωμένες μεταφράσεις μόνο για τις γλώσσες που ήδη υπερεκπροσωπούνται. "
+"Για να μπορέσει κανείς να παρακολουθήσει τις αλλαγές, θα χρειαστεί "
+"πιθανότατα να εγγραφεί στις ειδοποιήσεις του έργου στο GitHub."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:53
@@ -194,12 +253,18 @@ msgid ""
 "discussion avec les équipes de Jitsi Meet, cela n'a pas toujours été comme "
 "ça, une plateforme de traduction a déjà été utilisée par le passé."
 msgstr ""
+"Η αποτελεσματικότητα του συγκεκριμένου τρόπου εργασίας είναι σίγουρα "
+"αμφισβητήσιμη. Όσο κι αν πρέπει να αναγνωριστεί η προσπάθεια που καταβλήθηκε "
+"για τη μετάφραση του λογισμικού, λυπάμαι που δεν δόθηκε σημασία για αυτόν "
+"τον τρόπο συνεισφοράς. Δεν έχω συζητήσει με τις ομάδες του Jitsi Meet. "
+"Γνωρίζω όμως ότι αυτό δεν συνέβαινε πάντα, καθώς στο παρελθόν είχαν "
+"χρησιμοποιήσει μια πλατφόρμα μετάφρασης."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:54
 #, markdown-text, no-wrap
 msgid "Clair... mais très spécifique GNOME"
-msgstr ""
+msgstr "Σαφές... αλλά πιο συγκεκριμένα για το έργο GNOME"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:61
@@ -215,12 +280,21 @@ msgid ""
 "processus est donc imparfait, manuel, mais l'outillage permet de réduire "
 "fortement le coût de gestion pour les contributeurs et contributrices."
 msgstr ""
+"Το έργο GNOME χρησιμοποιεί μια παρόμοια προσέγγιση, αλλά με έμφαση στις "
+"ανάγκες των ομάδων μετάφρασης. Για την αποστολή μιας μετάφρασης στο τελικό "
+"λογισμικό, είναι υποχρεωτική η χρήση του git. Ωστόσο, [υπάρχει ένα εργαλείο]"
+"(https://l10n.gnome.org) για τους μεταφραστές, που τους επιτρέπει να "
+"γνωρίζουν ακριβώς τι απαιτεί μετάφραση και να συνεργάζονται. Επιπλέον, μια "
+"μεγάλη λίστα προγραμμάτων του οικοσυστήματος GNOME ακολουθούν τον ίδιο ρυθμό "
+"νέων εκδόσεων και τις ίδιες διαδικασίες εργασίας. Η διαδικασία είναι, ναι "
+"μεν, ατελής και μη αυτόματη, αλλά τα εργαλεία μειώνουν σημαντικά το κόστος "
+"διαχείρισης για τους εθελοντές."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:62
 #, markdown-text, no-wrap
 msgid "Efficace... mais très spécifique Mozilla"
-msgstr ""
+msgstr "Αποτελεσματικό... αλλά πιο συγκεκριμένα για το έργο Mozilla"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:65
@@ -233,6 +307,11 @@ msgid ""
 "organisé en [équipes de "
 "traduction](https://mozilla-l10n.github.io/localizer-documentation/tools/pontoon/teams_projects.html))."
 msgstr ""
+"Το έργο Mozilla θεωρεί τη μετάφραση βασικό θέμα της δραστηριότητάς του. Εάν "
+"θέλετε να συνεισφέρετε, μπορείτε να επισκεφθείτε την "
+"[πλατφόρμα μετάφρασης Pontoon](https://pontoon.mozilla.org/projects/firefox/)"
+" (το έργο είναι οργανωμένο σε [ομάδες μετάφρασης](https://mozilla-"
+"l10n.github.io/localizer-documentation/tools/pontoon/teams_projects.html))."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:67
@@ -241,6 +320,8 @@ msgid ""
 "Savoir ce qui est traduisible est facile, et y trouver des contacts pour "
 "répondre aux questions l'est également."
 msgstr ""
+"Μπορεί εύκολα κανείς να δει τι είναι έτοιμο προς μετάφραση, καθώς και να "
+"βρει άτομα για να λάβει απαντήσεις σε ερωτήσεις."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:71
@@ -253,12 +334,19 @@ msgid ""
 "en place une équipe et des processus de relecture, tout l'outillage est "
 "spécifique aux projets de Mozilla, mais globalement, c'est plutôt efficace."
 msgstr ""
+"Το συγκεκριμένο έργο είναι τεράστιο· θα αντιμετωπίσετε ορισμένες δυσκολίες "
+"στο να κατανοήσετε τα διάφορα στάδια ανάμεσα στην πλατφόρμα μετάφρασης και "
+"τις κυκλοφορίες του λογισμικού, αλλά τι σημασία έχει; Όλα λειτουργούν σωστά, "
+"οι ημερομηνίες κυκλοφορίας είναι γνωστές και οι προτεραιότητες καθορισμένες. "
+"Θα χάσετε λίγο χρόνο για να δημιουργήσετε μια ομάδα και διαδικασίες "
+"επιμέλειας, ενώ όλα τα εργαλεία αφορούν ειδικά τα έργα της Mozilla. Σε "
+"γενικές γραμμές όμως, το σύστημα είναι αρκετά αποτελεσματικό."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:72
 #, markdown-text, no-wrap
 msgid "Automatisé et générique, la modernité émancipatrice"
-msgstr ""
+msgstr "Αυτοματισμός και γενίκευση: μια σύγχρονη προσέγγιση χειραφέτησης"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:75
@@ -268,6 +356,9 @@ msgid ""
 "permettant de s'abonner en cas de changements, de travailler à plusieurs, "
 "d'avoir des détections d'anomalies."
 msgstr ""
+"Υπάρχει η δυνατότητα παροχής ενός εξειδικευμένου εργαλείου μετάφρασης, που "
+"να επιτρέπει την εγγραφή σε ειδοποιήσεις για αλλαγές, την ομαδική εργασία "
+"και την ανίχνευση ανωμαλιών."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:77
@@ -276,6 +367,8 @@ msgid ""
 "Et, bonus ultime, d'avoir une synchronisation automatique avec le code "
 "source du logiciel."
 msgstr ""
+"Και, ως απόλυτο πλεονέκτημα, να παρέχει αυτόματο συγχρονισμό με τον πηγαίο "
+"κώδικα του λογισμικού."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:79
@@ -288,6 +381,13 @@ msgid ""
 "traductions](https://hosted.weblate.org/changes/browse/weblate/?action=13&action=30&user=&period=) "
 "sont faciles à trouver."
 msgstr ""
+"Ένα εξαιρετικό παράδειγμα: η πλατφόρμα μετάφρασης Weblate δείχνει τον δρόμο, "
+"αφού όλα είναι συνδεδεμένα και αυτοματοποιημένα. Οι "
+"[τροποποιήσεις των μεταφράσεων]"
+"(https://github.com/WeblateOrg/weblate/commits/main/?author=weblate) είναι "
+"πολυάριθμες και ο εντοπισμός των [αλλαγών που επηρεάζουν τις μεταφράσεις]"
+"(https://hosted.weblate.org/changes/browse/weblate/"
+"?action=13&action=30&user=&period=) είναι εύκολος."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:81
@@ -313,7 +413,7 @@ msgstr ""
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:84
 #, markdown-text, no-wrap
 msgid "Conclusion"
-msgstr ""
+msgstr "Συμπέρασμα"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:87

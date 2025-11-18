@@ -8,8 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
 "PO-Revision-Date: 2025-11-18 18:47+0000\n"
-"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
-"memory@weblate.org>\n"
+"Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-07-03-contribute-to-fedora/el/>\n"
 "Language: el\n"
@@ -32,7 +31,7 @@ msgstr "Περιφερειοποίηση"
 #. type: Yaml Front Matter Array Element: tags
 #, no-wrap
 msgid "contribuer"
-msgstr "Συνεισφορά"
+msgstr "συνεισφορά"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
@@ -45,6 +44,12 @@ msgid ""
 "Une distribution est un type de projet de logiciel libre spécifique et complexe, sur lequel les objectifs et contraintes influent directement sur la capacité d’action du traducteur.\n"
 "Mais pour vous faciliter la vie, et améliorer celle de ceux [ne parlant pas anglais]({{< relref \"2020-06-12-80-percent.md\" >}}), Fedora met à disposition une plateforme de traduction.\n"
 msgstr ""
+"Μια διανομή είναι ένας ιδιαίτερος και πολύπλοκος τύπος έργου ελεύθερου "
+"λογισμικού, όπου οι στόχοι και οι περιορισμοί επηρεάζουν άμεσα τη δυνατότητα "
+"δράσης των μεταφραστών.\n"
+"Το Fedora όμως διαθέτει μια πλατφόρμα μετάφρασης, προκειμένου να διευκολύνει "
+"το έργο μας και να βελτιώσει την εμπειρία όσων [δεν μιλούν αγγλικά]"
+"({{< relref \"2020-06-12-80-percent.md\" >}}).\n"
 
 #. type: Title ##
 #, no-wrap
@@ -60,6 +65,11 @@ msgid ""
 "des logiciels afin de les mettre à disposition des utilisateurs et "
 "utilisatrices."
 msgstr ""
+"Μια διανομή Linux είναι ένα σύνολο προγραμμάτων, που είναι ρυθμισμένα "
+"κατάλληλα έτσι, ώστε να καλύπτουν μια ανάγκη, τηρώντας παράλληλα ένα σύνολο "
+"περιορισμών. Η «καρδιά» ενός έργου διανομής, όπως το έργο Fedora, είναι μια "
+"δραστηριότητα μηχανικής λογισμικού που καθιστά δυνατή τη συγκέντρωση όλων "
+"αυτών των προγραμμάτων, ώστε να διατεθούν στους χρήστες."
 
 #. type: Plain text
 msgid ""
@@ -67,6 +77,9 @@ msgid ""
 "paramétrage sur l’ensemble de mes logiciels tout en facilitant la mise à "
 "jour de ces mêmes logiciels ?"
 msgstr ""
+"Το κύριο πρόβλημα είναι το εξής: πώς μπορούμε να ενημερώσουμε τις ρυθμίσεις "
+"όλων αυτών των προγραμμάτων, διευκολύνοντας ταυτόχρονα την ενημέρωση των "
+"ίδιων των προγραμμάτων;"
 
 #. type: Plain text
 msgid ""
@@ -78,6 +91,13 @@ msgid ""
 "créée spécifiquement pour le besoin propre du projet Fedora, tel "
 "l’installeur Anaconda."
 msgstr ""
+"Μια διανομή περιλαμβάνει έναν τεράστιο αριθμό προγραμμάτων· πάνω από 30.000 "
+"για το Fedora ([πηγή](https://src.fedoraproject.org/projects/rpms/*)). Η "
+"συντριπτική πλειοψηφία αυτών των προγραμμάτων προέρχονται από ομάδες που δεν "
+"έχουν άμεση σχέση με το έργο Fedora, όπως το πρόγραμμα περιήγησης Mozilla "
+"Firefox ή η σουίτα γραφείου LibreOffice. Μια μικρή μειονότητα προγραμμάτων "
+"δημιουργείται ειδικά για τις ανάγκες του έργου Fedora, όπως το πρόγραμμα "
+"εγκατάστασης Anaconda."
 
 #. type: Title ##
 #, no-wrap
@@ -94,6 +114,13 @@ msgid ""
 "Server »), sur du matériel embarqué (« Fedora IOT ») ou conteneurisé (« "
 "Fedora CoreOS »)."
 msgstr ""
+"Η διανομή Fedora Linux θεωρείται διανομή γενικής χρήσης, σχεδιασμένη για να "
+"καλύπτει διάφορες ανάγκες, όπως χρήση σε σταθμούς εργασίας και διακομιστές. "
+"Για τους σταθμούς εργασίας, οι δύο κύριες επιλογές είναι οι εκδόσεις «Fedora "
+"Workstation» και «Fedora Silverblue». Για τους διακομιστές, το Fedora μπορεί "
+"να εγκατασταθεί ως λειτουργικό σύστημα σε κλασικό υλικό («Fedora Server»), "
+"σε ενσωματωμένα συστήματα («Fedora IoT») ή σε συστήματα-container "
+"(«Fedora CoreOS»)."
 
 #. type: Plain text
 msgid ""
@@ -101,6 +128,9 @@ msgid ""
 "Linux », on voit qu’une même série de logiciels peut être paramétrée de "
 "façon différente pour répondre à des objectifs distincts."
 msgstr ""
+"Εδώ φαίνεται ότι τίποτα δεν είναι απλό. Πίσω από την έννοια της «διανομής "
+"Linux», βλέπουμε ότι η ίδια σειρά προγραμμάτων μπορεί να διαμορφωθεί με "
+"διαφορετικό τρόπο για να καλύψει διαφορετικές ανάγκες."
 
 #. type: Plain text
 msgid ""
@@ -110,6 +140,11 @@ msgid ""
 "fréquentes, avoir une contribution directe aux logiciels plutôt que de "
 "concevoir et maintenir une surcouche de modifications."
 msgstr ""
+"Εκτός από τις πολλαπλές ρυθμίσεις, η διανομή Fedora Linux τηρεί τους εξής "
+"περιορισμούς: τη χρήση αποκλειστικά ελεύθερου λογισμικού, την αξιοποίηση των "
+"πιο σύγχρονων τεχνολογιών με συχνές κυκλοφορίες, την άμεση συνεισφορά στο "
+"ίδιο το λογισμικό αντί για τη δημιουργία και συντήρηση ενός πρόσθετου "
+"επιπέδου τροποποιήσεων."
 
 #. type: Plain text
 msgid ""
@@ -117,11 +152,14 @@ msgid ""
 "Fedora et ses quatre fondations : https://docs.fedoraproject.org/en-US/"
 "project/"
 msgstr ""
+"Για περισσότερες λεπτομέρειες, σας προτείνω να διαβάσετε αυτήν τη σελίδα που "
+"περιγράφει το Fedora και τους τέσσερεις πυλώνες του: https://"
+"docs.fedoraproject.org/el/project/"
 
 #. type: Title ##
 #, no-wrap
 msgid "La conséquence sur le rôle du traducteur dans le projet Fedora"
-msgstr ""
+msgstr "Ο αντίκτυπος στον ρόλο του μεταφραστή στο έργο Fedora"
 
 #. type: Plain text
 msgid ""
@@ -130,6 +168,10 @@ msgid ""
 "petite partie de tous les logiciels disponibles réellement quand vous "
 "installez Fedora."
 msgstr ""
+"Όταν επισκεφθείτε την πλατφόρμα μετάφρασης του έργου Fedora "
+"(https://translate.fedoraproject.org/projects/), θα βρείτε μόνο ένα μικρό "
+"μέρος των προγραμμάτων που είναι πραγματικά διαθέσιμο σε μια εγκατάσταση του "
+"Fedora."
 
 #. type: Plain text
 msgid ""
@@ -144,17 +186,31 @@ msgid ""
 "https://translate.fedoraproject.org/projects/pulseaudio/ ou ibus https://"
 "translate.fedoraproject.org/projects/ibus/"
 msgstr ""
+"Η πλατφόρμα μετάφρασης του Fedora περιλαμβάνει: * Το λογισμικό που "
+"δημιουργήθηκε από την κοινότητα του Fedora, όπως το πρόγραμμα εγκατάστασης "
+"Anaconda (https://translate.fedoraproject.org/projects/anaconda/) * Τους "
+"ιστοτόπους του έργου Fedora: https://translate.fedoraproject.org/projects/"
+"fedora-websites/ * Την τεκμηρίωση του έργου Fedora: https://"
+"translate.fedoraproject.org/projects/fedora-docs-l10n-docs/ "
+"(και όλα τα άλλα έργα που ξεκινούν με fedora-docs-l10n) * Λογισμικά για τα "
+"οποία οι δημιουργοί τους αποφάσισαν να φιλοξενήσουν τις μεταφράσεις στο "
+"πλαίσιο του έργου Fedora, όπως το pulseaudio "
+"(https://translate.fedoraproject.org/projects/pulseaudio/) ή το ibus "
+"(https://translate.fedoraproject.org/projects/ibus/)"
 
 #. type: Plain text
 msgid ""
 "Pour tout le reste, il faudra trouver où est hébergé le logiciel et "
 "comprendre comment y contribuer.  Mais cela sera le sujet d’un autre article."
 msgstr ""
+"Για όλα τα υπόλοιπα, θα πρέπει να βρείτε πού φιλοξενείται το λογισμικό και "
+"να κατανοήσετε πώς να συνεισφέρετε σε αυτό. Αλλά αυτό θα αποτελέσει το θέμα "
+"ενός άλλου άρθρου."
 
 #. type: Title ##
 #, no-wrap
 msgid "Conclusion"
-msgstr ""
+msgstr "Συμπέρασμα"
 
 #. type: Plain text
 msgid ""
@@ -163,3 +219,8 @@ msgid ""
 "traduction, c’est de s’assurer de comprendre ce qu’on y voit, dans le projet "
 "Fedora, c’est toujours le logiciel d’origine, sans intermédiaire."
 msgstr ""
+"Παρ' όλο που μια διανομή Linux αποτελεί ένα πολύπλοκο σύνολο, η συνεισφορά "
+"σε αυτήν είναι εύκολη. Το μόνο που θα πρέπει να αναρωτηθείτε κατά την "
+"επίσκεψή σας σε μια πλατφόρμα μετάφρασης είναι αν κατανοείτε αυτό που "
+"βλέπετε. Στο έργο Fedora, πρόκειται πάντα για το αρχικό λογισμικό, χωρίς "
+"ενδιάμεσα επίπεδα."
