@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-11-18 18:47+0000\n"
+"PO-Revision-Date: 2025-11-20 02:30+0000\n"
 "Last-Translator: Jim Spentzos <jimspentzos2000@gmail.com>\n"
 "Language-Team: Greek <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-01-12-how-does-translation-works/el/>\n"
@@ -398,6 +398,10 @@ msgid ""
 "traduction, Weblate est devenu aussi évident et efficient que git pour la "
 "gestion du code source pour le développement logiciel."
 msgstr ""
+"Πολλά έργα χρησιμοποιούν το Weblate· είναι η επιλογή που θα πρέπει να κάνετε "
+"για κάθε περίπτωση. Στο οικοσύστημα των πλατφορμών μετάφρασης, το Weblate "
+"έχει γίνει τόσο αυτονόητο και αποτελεσματικό όσο και το Git για τη "
+"διαχείριση του πηγαίου κώδικα στην ανάπτυξη λογισμικού."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:83
@@ -408,6 +412,10 @@ msgid ""
 "avec cette large communauté, vous aurez de bonnes chances d'obtenir un outil "
 "traduit en de nombreuses langues."
 msgstr ""
+"Εάν το έργο σας προσφέρει αυτήν την πλατφόρμα, τότε παρέχετε τη δυνατότητα "
+"δράσης για γλωσσικές συνεισφορές και, καλλιεργώντας τη σχέση με αυτήν τη "
+"μεγάλη κοινότητα, θα έχετε καλές πιθανότητες να μεταφραστεί ένα εργαλείο σε "
+"πολλές γλώσσες."
 
 #. type: Title ##
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:84
@@ -422,6 +430,8 @@ msgid ""
 "L'articulation entre la vie technique du projet et les traductions est "
 "cruciale pour l'efficacité des processus de traduction."
 msgstr ""
+"Η σύνδεση μεταξύ των τεχνικών πτυχών του έργου και των μεταφράσεων είναι "
+"κρίσιμη για την αποτελεσματικότητα των διαδικασιών μετάφρασης."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:89
@@ -430,6 +440,8 @@ msgid ""
 "Des outils remplis de fonctionnalités intéressantes et d'automatisation "
 "existent pour faciliter la vie de tout le monde."
 msgstr ""
+"Υπάρχουν εργαλεία γεμάτα με ενδιαφέρουσες λειτουργίες και αυτοματισμούς που "
+"κάνουν τη ζωή όλων ευκολότερη."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:91
@@ -439,6 +451,9 @@ msgid ""
 "logiciels contiennent toujours plus de traductions et qu'un nombre croissant "
 "de langues soient prises en charge."
 msgstr ""
+"Εξαρτάται από τις ομάδες ανάπτυξης να αξιοποιήσουν αυτά τα εργαλεία, ώστε το "
+"λογισμικό να περιλαμβάνει ολοένα και περισσότερες μεταφράσεις και να "
+"υποστηρίζει έναν συνεχώς αυξανόμενο αριθμό γλωσσών."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:93
@@ -448,3 +463,6 @@ msgid ""
 "Comment faire pour compenser un projet endormi ? Cela sera l'objet d'un "
 "futur article."
 msgstr ""
+"Τι συμβαίνει όμως όταν ένα έργο δεν κυκλοφορεί νέες εκδόσεις; Πώς μπορούμε "
+"να αντισταθμίσουμε ένα αδρανές έργο; Αυτό θα αποτελέσει το θέμα ενός "
+"μελλοντικού άρθρου."
