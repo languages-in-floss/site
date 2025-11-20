@@ -2,12 +2,14 @@
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
 # Jouko Tiilikainen <jouko.tiilikainen@gmail.com>, 2025.
+# Jouko Tiilikainen <jti65@users.noreply.translate.fedoraproject.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-11-16 13:16+0000\n"
-"Last-Translator: Jouko Tiilikainen <jouko.tiilikainen@gmail.com>\n"
+"PO-Revision-Date: 2025-11-20 02:30+0000\n"
+"Last-Translator: Jouko Tiilikainen "
+"<jti65@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2020-06-12-80-percent/fi/>\n"
 "Language: fi\n"
@@ -18,9 +20,9 @@ msgstr ""
 "X-Generator: Weblate 5.14.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: authors
 #, no-wrap

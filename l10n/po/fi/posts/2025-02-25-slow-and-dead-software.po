@@ -4,12 +4,14 @@
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
 # Ricky Tigg <ricky.tigg@gmail.com>, 2025.
 # Jouko Tiilikainen <jouko.tiilikainen@gmail.com>, 2025.
+# Jouko Tiilikainen <jti65@users.noreply.translate.fedoraproject.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-02-25 23:09+0100\n"
-"PO-Revision-Date: 2025-11-17 14:18+0000\n"
-"Last-Translator: Jouko Tiilikainen <jouko.tiilikainen@gmail.com>\n"
+"PO-Revision-Date: 2025-11-20 02:30+0000\n"
+"Last-Translator: Jouko Tiilikainen "
+"<jti65@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-02-25-slow-and-dead-software/fi/>\n"
 "Language: fi\n"
@@ -21,9 +23,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: categories
 #: ./content/fr/posts/2025-02-25-slow-and-dead-software.md:1

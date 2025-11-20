@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Jouko Tiilikainen <jti65@users.noreply.translate.fedoraproject.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:52+0100\n"
-"PO-Revision-Date: 2021-02-27 09:40+0000\n"
-"Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
+"PO-Revision-Date: 2025-11-20 02:30+0000\n"
+"Last-Translator: Jouko Tiilikainen "
+"<jti65@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/pagecontribute/fi/>\n"
 "Language: fi\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #, no-wrap
@@ -36,16 +36,12 @@ msgstr ""
 "painikkeen avulla voit tehdä tämän helposti)"
 
 #. type: Bullet: '* '
-#, fuzzy
-#| msgid ""
-#| "traduire les articles dans votre langue sur : https://hosted.weblate.org/"
-#| "languages-in-floss/"
 msgid ""
 "traduire les articles dans votre langue sur : https://translate."
 "fedoraproject.org/projects/languages-in-floss/"
 msgstr ""
-"kääntää artikkelit äidinkielellesi https://hosted.weblate.org/languages-in-"
-"floss/:ssa"
+"käännä artikkelit äidinkielellesi https://hosted.weblate.org/"
+"languages-in-floss/:ssa"
 
 #. type: Bullet: '* '
 msgid ""

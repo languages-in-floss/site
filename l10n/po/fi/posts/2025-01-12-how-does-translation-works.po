@@ -4,12 +4,14 @@
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
 # Ricky Tigg <ricky.tigg@gmail.com>, 2025.
 # Jouko Tiilikainen <jouko.tiilikainen@gmail.com>, 2025.
+# Jouko Tiilikainen <jti65@users.noreply.translate.fedoraproject.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-11-16 13:16+0000\n"
-"Last-Translator: Jouko Tiilikainen <jouko.tiilikainen@gmail.com>\n"
+"PO-Revision-Date: 2025-11-20 02:30+0000\n"
+"Last-Translator: Jouko Tiilikainen "
+"<jti65@users.noreply.translate.fedoraproject.org>\n"
 "Language-Team: Finnish <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/posts2025-01-12-how-does-translation-works/fi/>\n"
 "Language: fi\n"
@@ -21,9 +23,9 @@ msgstr ""
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "jibec"
-msgstr ""
+msgstr "jibec"
 
 #. type: Yaml Front Matter Array Element: categories
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -372,6 +374,11 @@ msgid ""
 "traductions](https://hosted.weblate.org/changes/browse/weblate/?action=13&action=30&user=&period=) "
 "sont faciles à trouver."
 msgstr ""
+"Hyvä esimerkki: Weblate-käännösalusta näyttää esimerkin, kaikki on "
+"yhteydessä ja automatisoitu. [Käännösmuutokset]"
+"(https://github.com/WeblateOrg/weblate/commits/main/?author=weblate) ovat "
+"lukuisia, ja [käännöksiin vaikuttavat muutokset](https://hosted.weblate.org/"
+"changes/browse/weblate/?action=13&action=30&user=&period=) on helppo löytää."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:81
