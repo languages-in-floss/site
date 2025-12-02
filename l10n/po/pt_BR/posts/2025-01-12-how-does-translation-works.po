@@ -3,12 +3,13 @@
 # This file is distributed under the same license as the PACKAGE package.
 # Languages add-on <noreply-addon-languages@weblate.org>, 2025.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2025.
+# Nari Ivy <nki.life@pm.me>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 00:01+0100\n"
-"PO-Revision-Date: 2025-11-07 16:58+0000\n"
-"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
+"PO-Revision-Date: 2025-12-02 10:02+0000\n"
+"Last-Translator: Nari Ivy <nki.life@pm.me>\n"
 "Language-Team: Portuguese (Brazil) <https://translate.fedoraproject.org/"
 "projects/languages-in-floss/posts2025-01-12-how-does-translation-works/pt_BR/"
 ">\n"
@@ -17,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.14.2\n"
+"X-Generator: Weblate 5.14.3\n"
 
 #. type: Yaml Front Matter Array Element: authors
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:1
@@ -314,6 +315,8 @@ msgid ""
 "Savoir ce qui est traduisible est facile, et y trouver des contacts pour "
 "répondre aux questions l'est également."
 msgstr ""
+"Saber o que pode ser traduzido é simples, e encontrar os contatos certos "
+"para tirar dúvidas também."
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:71
@@ -326,12 +329,19 @@ msgid ""
 "en place une équipe et des processus de relecture, tout l'outillage est "
 "spécifique aux projets de Mozilla, mais globalement, c'est plutôt efficace."
 msgstr ""
+"Este é um projeto enorme, e você pode ter alguma dificuldade para entender "
+"as etapas entre a plataforma de tradução e as versões do software, mas isso "
+"não é um problema. Tudo funciona bem: os cronogramas de lançamento são "
+"conhecidos e as prioridades já estão definidas. Pode levar um tempo para "
+"organizar uma equipe e estabelecer processos de revisão, e as ferramentas "
+"são específicas dos projetos da Mozilla, mas no geral tudo é bastante "
+"eficiente."
 
 #. type: Title ###
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:72
 #, markdown-text, no-wrap
 msgid "Automatisé et générique, la modernité émancipatrice"
-msgstr ""
+msgstr "Automatizado e genérico, uma modernidade que liberta"
 
 #. type: Plain text
 #: ./content/fr/posts/2025-01-12-how-does-translation-works.md:75
