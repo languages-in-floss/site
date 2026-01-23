@@ -1,12 +1,12 @@
 # SOME DESCRIPTIVE TITLE
 # Copyright (C) YEAR Free Software Foundation, Inc.
 # This file is distributed under the same license as the PACKAGE package.
-# Igor Gorbounov <igor.gorbounov@gmail.com>, 2025.
+# Igor Gorbounov <igor.gorbounov@gmail.com>, 2025, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2025-01-14 21:39+0100\n"
-"PO-Revision-Date: 2025-01-22 16:02+0000\n"
+"PO-Revision-Date: 2026-01-23 18:58+0000\n"
 "Last-Translator: Igor Gorbounov <igor.gorbounov@gmail.com>\n"
 "Language-Team: Russian <https://translate.fedoraproject.org/projects/"
 "languages-in-floss/about/ru/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.9.2\n"
+"X-Generator: Weblate 5.15.2\n"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/fr/page/about.md:1
@@ -32,10 +32,9 @@ msgid ""
 "Par rebond, nous encourageons toute personne souhaitant traduire ou permettre la traduction de contenus dans sa langue.\n"
 msgstr ""
 "Мы втроем: [Jean-Baptiste]({{< relref \"/authors/jibec\" >}}), [Quenti]({{< "
-"relref \"/authors/quenti\" >}}) и [ButterFlyOfFire]({ {< relref "
-"\"/authors/butterflyoffire\" >}}), - непосредственно занимаемся следующими "
-"языками: французским, окситанским, арабским и кабильским.\n"
-"\n"
+"relref \"/authors/quenti\" >}}) и [ButterFlyOfFire]({ {< relref \"/authors/"
+"butterflyoffire\" >}}), - непосредственно занимаемся следующими языками: "
+"французским, окситанским, арабским и кабильским.\n"
 "В свою очередь, мы рады всем, кто желает перевести или позволить перевод "
 "контента на свой язык.\n"
 
